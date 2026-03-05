@@ -1,0 +1,30 @@
+{
+  "sqlite_path": "metadata.db",
+  "csv_path": "metadata.csv",
+  "downloads_root": "my_downloads",
+  "qda_extensions_xlsx": "QDA File Extensions Formats.xlsx",
+
+  "user_agent": "SeedingQDArchive/Part1 (+FAU SQ26)",
+
+  "http_read_timeout_sec": 30,
+  "http_connect_timeout_sec": 15,
+
+  "sources": [
+    "sources.dataverse_source",
+    "sources.zenodo_source"
+  ],
+
+  "download_policy": {
+    "download_primary_data": true,
+    "allowed_primary_exts": ["pdf", "doc", "docx", "rtf", "odt", "txt", "csv"],
+
+    "skip_exts": ["mp4", "mov", "avi", "mkv", "wav", "mp3", "zip", "7z", "rar"],
+
+    "max_files_per_dataset": 25,
+    "max_total_mb_per_dataset": 800,
+    "max_mb_per_file": 250,
+    "max_total_mb_per_run": 5000,
+
+    "dataverse_download_primary_only_if_qda_present": true
+  }
+}
