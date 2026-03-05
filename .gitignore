@@ -1,0 +1,11 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Generated outputs (do not commit)
+my_downloads/
+
+
+# OS files
+.DS_Store
