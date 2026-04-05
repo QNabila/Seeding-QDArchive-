@@ -1,2640 +1,1322 @@
 id,project_id,file_name,file_type,status
 1,1,dts-2021-release.pdf,pdf,SUCCESS
-2,1,dts-2021-release.pdf,pdf,SUCCESS
 3,1,q-dts-2021.pdf,pdf,SUCCESS
-4,1,q-dts-2021.pdf,pdf,SUCCESS
 5,1,dts-2021-metadata.pdf,pdf,SUCCESS
-6,1,dts-2021-metadata.pdf,pdf,SUCCESS
 7,2,q-dts-2020.pdf,pdf,SUCCESS
-8,2,q-dts-2020.pdf,pdf,SUCCESS
 9,2,dts-2020-metadata.pdf,pdf,SUCCESS
-10,2,dts-2020-metadata.pdf,pdf,SUCCESS
 11,2,dts-2020-release.pdf,pdf,SUCCESS
-12,2,dts-2020-release.pdf,pdf,SUCCESS
 13,3,Q_DTS 2013.pdf,pdf,SUCCESS
-14,3,Q_DTS 2013.pdf,pdf,SUCCESS
 15,3,DTS 2013 Release.pdf,pdf,SUCCESS
-16,3,DTS 2013 Release.pdf,pdf,SUCCESS
 17,3,DTS 2013 Metadata.pdf,pdf,SUCCESS
-18,3,DTS 2013 Metadata.pdf,pdf,SUCCESS
 19,4,Domestic Tourism Survey 2016 Questionnaire.pdf,pdf,SUCCESS
-20,4,Domestic Tourism Survey 2016 Questionnaire.pdf,pdf,SUCCESS
 21,4,Domestic Tourism Survey 2016 Release.pdf,pdf,SUCCESS
-22,4,Domestic Tourism Survey 2016 Release.pdf,pdf,SUCCESS
 23,4,Domestic Tourism Survey 2016 Metadata.pdf,pdf,SUCCESS
-24,4,Domestic Tourism Survey 2016 Metadata.pdf,pdf,SUCCESS
 25,5,q_dts 2014.pdf,pdf,SUCCESS
-26,5,q_dts 2014.pdf,pdf,SUCCESS
 27,5,dts 2014 release.pdf,pdf,SUCCESS
-28,5,dts 2014 release.pdf,pdf,SUCCESS
 29,5,dts 2014 metadata.pdf,pdf,SUCCESS
-30,5,dts 2014 metadata.pdf,pdf,SUCCESS
 31,6,Domestic Tourism Survey 2017 Statistical release.pdf,pdf,SUCCESS
-32,6,Domestic Tourism Survey 2017 Statistical release.pdf,pdf,SUCCESS
 33,7,Domestic Tourism Survey 2015 Questionnaire.pdf,pdf,SUCCESS
-34,7,Domestic Tourism Survey 2015 Questionnaire.pdf,pdf,SUCCESS
 35,7,Domestic Tourism Survey 2015 Release.pdf,pdf,SUCCESS
-36,7,Domestic Tourism Survey 2015 Release.pdf,pdf,SUCCESS
 37,7,Domestic Tourism Survey 2015 Metadata.pdf,pdf,SUCCESS
-38,7,Domestic Tourism Survey 2015 Metadata.pdf,pdf,SUCCESS
 39,8,q-dts-2022.pdf,pdf,SUCCESS
-40,8,q-dts-2022.pdf,pdf,SUCCESS
 41,8,dts-2022-metadata.pdf,pdf,SUCCESS
-42,8,dts-2022-metadata.pdf,pdf,SUCCESS
 43,8,dts-2022-release.pdf,pdf,SUCCESS
-44,8,dts-2022-release.pdf,pdf,SUCCESS
 45,9,q-dts-2019-cover.pdf,pdf,SUCCESS
-46,9,q-dts-2019-cover.pdf,pdf,SUCCESS
 47,9,q-dts-2019.pdf,pdf,SUCCESS
-48,9,q-dts-2019.pdf,pdf,SUCCESS
 49,9,dts-2019-release.pdf,pdf,SUCCESS
-50,9,dts-2019-release.pdf,pdf,SUCCESS
 51,9,dts-2019-metadata.pdf,pdf,SUCCESS
-52,9,dts-2019-metadata.pdf,pdf,SUCCESS
 53,10,q-dts-2018-cover.pdf,pdf,SUCCESS
-54,10,q-dts-2018-cover.pdf,pdf,SUCCESS
 55,10,q-dts-2018.pdf,pdf,SUCCESS
-56,10,q-dts-2018.pdf,pdf,SUCCESS
 57,10,dts-2018-release.pdf,pdf,SUCCESS
-58,10,dts-2018-release.pdf,pdf,SUCCESS
 59,10,dts-2018-metadata.pdf,pdf,SUCCESS
-60,10,dts-2018-metadata.pdf,pdf,SUCCESS
 61,11,q-cvacs-2-2022-unvaccinated.pdf,pdf,SUCCESS
-62,11,q-cvacs-2-2022-unvaccinated.pdf,pdf,SUCCESS
 63,11,q-cvacs-2-2022-vaccinated.pdf,pdf,SUCCESS
-64,11,q-cvacs-2-2022-vaccinated.pdf,pdf,SUCCESS
 65,11,cvacs-2022-panel-user-manual.pdf,pdf,SUCCESS
-66,11,cvacs-2022-panel-user-manual.pdf,pdf,SUCCESS
 67,11,cvacs-2022-s2-program-library-v1.zip,zip,SUCCESS
-68,11,cvacs-2022-s2-program-library-v1.zip,zip,SUCCESS
 69,12,q-cvacs-1-2021-unvaccinated.pdf,pdf,SUCCESS
-70,12,q-cvacs-1-2021-unvaccinated.pdf,pdf,SUCCESS
 71,12,cvacs-2021-panel-user-manual.pdf,pdf,SUCCESS
-72,12,cvacs-2021-panel-user-manual.pdf,pdf,SUCCESS
 73,12,cvacs-2021-s1-program-library-v1.zip,zip,SUCCESS
-74,12,cvacs-2021-s1-program-library-v1.zip,zip,SUCCESS
 75,13,nids-cram-2020-a-questionnaire.pdf,pdf,SUCCESS
-76,13,nids-cram-2020-a-questionnaire.pdf,pdf,SUCCESS
 77,13,nids-cram-2020-w1-report.pdf,pdf,SUCCESS
-78,13,nids-cram-2020-w1-report.pdf,pdf,SUCCESS
 79,13,nids-cram-2020-b-sampling.pdf,pdf,SUCCESS
-80,13,nids-cram-2020-b-sampling.pdf,pdf,SUCCESS
 81,13,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
-82,13,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
 83,13,nids-cram-2020-w1-quality.pdf,pdf,SUCCESS
-84,13,nids-cram-2020-w1-quality.pdf,pdf,SUCCESS
 85,13,nids-cram-2020-w1-v3-changes.pdf,pdf,SUCCESS
-86,13,nids-cram-2020-w1-v3-changes.pdf,pdf,SUCCESS
 87,13,nids-cram-2020-w1-syntax.zip,zip,SUCCESS
-88,13,nids-cram-2020-w1-syntax.zip,zip,SUCCESS
 89,14,q-nids-cram-2021-w4.pdf,pdf,SUCCESS
-90,14,q-nids-cram-2021-w4.pdf,pdf,SUCCESS
 91,14,nids-cram-2021-w4-report.pdf,pdf,SUCCESS
-92,14,nids-cram-2021-w4-report.pdf,pdf,SUCCESS
 93,14,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
-94,14,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
 95,14,nids-cram-2021-w4-changes.pdf,pdf,SUCCESS
-96,14,nids-cram-2021-w4-changes.pdf,pdf,SUCCESS
 97,14,nids-cram-2021-w4-syntax.zip,zip,SUCCESS
-98,14,nids-cram-2021-w4-syntax.zip,zip,SUCCESS
 99,15,q-nids-cram-2020-w2.pdf,pdf,SUCCESS
-100,15,q-nids-cram-2020-w2.pdf,pdf,SUCCESS
 101,15,nids-cram-2020-w2-report.pdf,pdf,SUCCESS
-102,15,nids-cram-2020-w2-report.pdf,pdf,SUCCESS
 103,15,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
-104,15,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
 105,15,nids-cram-2020-w1-2-attrition.pdf,pdf,SUCCESS
-106,15,nids-cram-2020-w1-2-attrition.pdf,pdf,SUCCESS
 107,15,nids-cram-2020-w2-v3-changes.pdf,pdf,SUCCESS
-108,15,nids-cram-2020-w2-v3-changes.pdf,pdf,SUCCESS
 109,15,nids-cram-2020-w2-syntax.zip,zip,SUCCESS
-110,15,nids-cram-2020-w2-syntax.zip,zip,SUCCESS
 111,16,q-nids-cram-2020-w3.pdf,pdf,SUCCESS
-112,16,q-nids-cram-2020-w3.pdf,pdf,SUCCESS
 113,16,nids-cram-2020-w3-report.pdf,pdf,SUCCESS
-114,16,nids-cram-2020-w3-report.pdf,pdf,SUCCESS
 115,16,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
-116,16,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
 117,16,nids-cram-2020-2021-w3-v3-changes.pdf,pdf,SUCCESS
-118,16,nids-cram-2020-2021-w3-v3-changes.pdf,pdf,SUCCESS
 119,16,nids-cram-2020-w3-syntax.zip,zip,SUCCESS
-120,16,nids-cram-2020-w3-syntax.zip,zip,SUCCESS
 121,17,Q_ Mesebetsi LFS1999-2000 Hhold.pdf,pdf,SUCCESS
-122,17,Q_ Mesebetsi LFS1999-2000 Hhold.pdf,pdf,SUCCESS
 123,17,Q_ Mesebetsi LFS1999-2000 RSI.pdf,pdf,SUCCESS
-124,17,Q_ Mesebetsi LFS1999-2000 RSI.pdf,pdf,SUCCESS
 125,17,Mesebetsi LFS 1999-2000 Fieldwork.pdf,pdf,SUCCESS
-126,17,Mesebetsi LFS 1999-2000 Fieldwork.pdf,pdf,SUCCESS
 127,17,Mesebetsi LFS 1999-2000 Manual.pdf,pdf,SUCCESS
-128,17,Mesebetsi LFS 1999-2000 Manual.pdf,pdf,SUCCESS
 129,17,Mesebetsi LFS 1999-2000 Report.pdf,pdf,SUCCESS
-130,17,Mesebetsi LFS 1999-2000 Report.pdf,pdf,SUCCESS
 131,17,Mesebetsi LFS 1999-2000 User files.pdf,pdf,SUCCESS
-132,17,Mesebetsi LFS 1999-2000 User files.pdf,pdf,SUCCESS
 133,17,Mesebetsi LFS1999-2000 Admin Codebook.pdf,pdf,SUCCESS
-134,17,Mesebetsi LFS1999-2000 Admin Codebook.pdf,pdf,SUCCESS
 135,17,Mesebetsi LFS1999-2000 Hh Codebook.pdf,pdf,SUCCESS
-136,17,Mesebetsi LFS1999-2000 Hh Codebook.pdf,pdf,SUCCESS
 137,17,Mesebetsi LFS1999-2000 RSI Codebook.pdf,pdf,SUCCESS
-138,17,Mesebetsi LFS1999-2000 RSI Codebook.pdf,pdf,SUCCESS
 139,18,q-gts-2017.pdf,pdf,SUCCESS
-140,18,q-gts-2017.pdf,pdf,SUCCESS
 141,18,gts-2017-technical-info.pdf,pdf,SUCCESS
-142,18,gts-2017-technical-info.pdf,pdf,SUCCESS
 143,19,STRSA 2000-2001 Codebook.pdf,pdf,SUCCESS
-144,19,STRSA 2000-2001 Codebook.pdf,pdf,SUCCESS
 145,20,Q_Afrobarometer South Africa 2000.pdf,pdf,SUCCESS
-146,20,Q_Afrobarometer South Africa 2000.pdf,pdf,SUCCESS
 147,20,Afrobarometer SA 2000 Codebook.pdf,pdf,SUCCESS
-148,20,Afrobarometer SA 2000 Codebook.pdf,pdf,SUCCESS
 149,21,W5_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-150,21,W5_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 151,21,W5_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-152,21,W5_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 153,21,W5_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-154,21,W5_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 155,21,W5_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-156,21,W5_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 157,21,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
-158,21,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
 159,21,nidsw1-5-topup-tp8.pdf,pdf,SUCCESS
-160,21,nidsw1-5-topup-tp8.pdf,pdf,SUCCESS
 161,21,nidsw1-5-weights-tp9.pdf,pdf,SUCCESS
-162,21,nidsw1-5-weights-tp9.pdf,pdf,SUCCESS
 163,21,nids-2008-methodology-tp1.pdf,pdf,SUCCESS
-164,21,nids-2008-methodology-tp1.pdf,pdf,SUCCESS
 165,21,program-library-w5.zip,zip,SUCCESS
-166,21,program-library-w5.zip,zip,SUCCESS
 167,21,nids-w5-consent-forms-v2.zip,zip,SUCCESS
-168,21,nids-w5-consent-forms-v2.zip,zip,SUCCESS
 169,22,q-nids-cram-2021-w5.pdf,pdf,SUCCESS
-170,22,q-nids-cram-2021-w5.pdf,pdf,SUCCESS
 171,22,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
-172,22,nids-cram-2020-2021-user-manual.pdf,pdf,SUCCESS
 173,22,nids-cram-w5-2021-weights-paper.zip,zip,SUCCESS
-174,22,nids-cram-w5-2021-weights-paper.zip,zip,SUCCESS
 175,22,nids-cram-2021-w5-syntax.zip,zip,SUCCESS
-176,22,nids-cram-2021-w5-syntax.zip,zip,SUCCESS
 177,23,nids-w5-secure-variables.pdf,pdf,SUCCESS
-178,23,nids-w5-secure-variables.pdf,pdf,SUCCESS
 179,23,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
-180,23,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
 181,24,W2_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-182,24,W2_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 183,24,W2_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-184,24,W2_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 185,24,W2_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-186,24,W2_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 187,24,W2_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-188,24,W2_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 189,24,W2 Changes between V3.1 and V4.0.0.pdf,pdf,SUCCESS
-190,24,W2 Changes between V3.1 and V4.0.0.pdf,pdf,SUCCESS
 191,24,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
-192,24,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
 193,24,program-library-w2.zip,zip,SUCCESS
-194,24,program-library-w2.zip,zip,SUCCESS
 195,25,nids-w2-2010-2011-secure-variables.pdf,pdf,SUCCESS
-196,25,nids-w2-2010-2011-secure-variables.pdf,pdf,SUCCESS
 197,25,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
-198,25,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
 199,26,q-gts-2017-w1.pdf,pdf,SUCCESS
-200,26,q-gts-2017-w1.pdf,pdf,SUCCESS
 201,26,q-gts-2018-w2.pdf,pdf,SUCCESS
-202,26,q-gts-2018-w2.pdf,pdf,SUCCESS
 203,26,q-gts-2019-w3.pdf,pdf,SUCCESS
-204,26,q-gts-2019-w3.pdf,pdf,SUCCESS
 205,26,gts-2017-2019-v1-syntax.zip,zip,SUCCESS
-206,26,gts-2017-2019-v1-syntax.zip,zip,SUCCESS
 207,27,CAPS_W_12345_v1210_Questionnaires.zip,zip,SUCCESS
-208,27,CAPS_W_12345_v1210_Questionnaires.zip,zip,SUCCESS
 209,27,CAPS Wave 1 Household Questionnaire.pdf,pdf,SUCCESS
-210,27,CAPS Wave 1 Household Questionnaire.pdf,pdf,SUCCESS
 211,27,CAPS Wave 1 Literacy and Numeracy Evaluation Questionnaire.pdf,pdf,SUCCESS
-212,27,CAPS Wave 1 Literacy and Numeracy Evaluation Questionnaire.pdf,pdf,SUCCESS
 213,27,CAPS Wave 1 Young Adult Questionnaire.pdf,pdf,SUCCESS
-214,27,CAPS Wave 1 Young Adult Questionnaire.pdf,pdf,SUCCESS
 215,27,CAPS Wave 2a Young Adult Questionnaire.pdf,pdf,SUCCESS
-216,27,CAPS Wave 2a Young Adult Questionnaire.pdf,pdf,SUCCESS
 217,27,CAPS Wave 2b Young Adult Questionnaire.pdf,pdf,SUCCESS
-218,27,CAPS Wave 2b Young Adult Questionnaire.pdf,pdf,SUCCESS
 219,27,CAPS Wave 2b Young Adult School Choice Questionnaire.pdf,pdf,SUCCESS
-220,27,CAPS Wave 2b Young Adult School Choice Questionnaire.pdf,pdf,SUCCESS
 221,27,CAPS Wave 3 Household Questionnaire.pdf,pdf,SUCCESS
-222,27,CAPS Wave 3 Household Questionnaire.pdf,pdf,SUCCESS
 223,27,CAPS Wave 3 Parent Questionnaire.pdf,pdf,SUCCESS
-224,27,CAPS Wave 3 Parent Questionnaire.pdf,pdf,SUCCESS
 225,27,CAPS Wave 3 Young Adult Questionnaire.pdf,pdf,SUCCESS
-226,27,CAPS Wave 3 Young Adult Questionnaire.pdf,pdf,SUCCESS
 227,27,CAPS Wave 4 Child Questionnaire.pdf,pdf,SUCCESS
-228,27,CAPS Wave 4 Child Questionnaire.pdf,pdf,SUCCESS
 229,27,CAPS Wave 4 Household Questionnaire.pdf,pdf,SUCCESS
-230,27,CAPS Wave 4 Household Questionnaire.pdf,pdf,SUCCESS
 231,27,CAPS Wave 4 Older Adult Questionnaire.pdf,pdf,SUCCESS
-232,27,CAPS Wave 4 Older Adult Questionnaire.pdf,pdf,SUCCESS
 233,27,CAPS Wave 4 Young Adult Questionnaire.pdf,pdf,SUCCESS
-234,27,CAPS Wave 4 Young Adult Questionnaire.pdf,pdf,SUCCESS
 235,27,CAPS Wave 4 Young Adult Proxy Questionnaire.pdf,pdf,SUCCESS
-236,27,CAPS Wave 4 Young Adult Proxy Questionnaire.pdf,pdf,SUCCESS
 237,27,CAPS Wave 5 Young Adult Questionnaire Booklet.pdf,pdf,SUCCESS
-238,27,CAPS Wave 5 Young Adult Questionnaire Booklet.pdf,pdf,SUCCESS
 239,27,CAPSW1345 Household Imputations.pdf,pdf,SUCCESS
-240,27,CAPSW1345 Household Imputations.pdf,pdf,SUCCESS
 241,27,CAPSW12345 Introduction.pdf,pdf,SUCCESS
-242,27,CAPSW12345 Introduction.pdf,pdf,SUCCESS
 243,27,CAPSW12345 Overview and Technical.pdf,pdf,SUCCESS
-244,27,CAPSW12345 Overview and Technical.pdf,pdf,SUCCESS
 245,27,CAPSW12345 Variable Crosswalk.xlsx,xlsx,SUCCESS
-246,27,CAPSW12345 Variable Crosswalk.xlsx,xlsx,SUCCESS
 247,27,CAPSW1-5.LatestVersion_v1203.do,do,SUCCESS
-248,27,CAPSW1-5.LatestVersion_v1203.do,do,SUCCESS
 249,28,q-afr36-2014-2015.zip,zip,SUCCESS
-250,28,q-afr36-2014-2015.zip,zip,SUCCESS
 251,28,afr36-2014-2015-merged-codebook.pdf,pdf,SUCCESS
-252,28,afr36-2014-2015-merged-codebook.pdf,pdf,SUCCESS
 253,28,afr36-2014-2015-survey-manual.pdf,pdf,SUCCESS
-254,28,afr36-2014-2015-survey-manual.pdf,pdf,SUCCESS
 255,29,Q_Afrobarometer 2 South Africa 2002.pdf,pdf,SUCCESS
-256,29,Q_Afrobarometer 2 South Africa 2002.pdf,pdf,SUCCESS
 257,29,Afrobarometer 2 South Africa 2002 Codebook.pdf,pdf,SUCCESS
-258,29,Afrobarometer 2 South Africa 2002 Codebook.pdf,pdf,SUCCESS
 259,30,documentation_537.pdf,pdf,SUCCESS
 260,31,q-afr16-2002-2004.zip,zip,SUCCESS
-261,31,q-afr16-2002-2004.zip,zip,SUCCESS
 262,31,afr16-2002-2004-codebooks.zip,zip,SUCCESS
-263,31,afr16-2002-2004-codebooks.zip,zip,SUCCESS
 264,31,afr-1999-2006-survey-dates.pdf,pdf,SUCCESS
-265,31,afr-1999-2006-survey-dates.pdf,pdf,SUCCESS
 266,32,W4_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-267,32,W4_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 268,32,W4_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-269,32,W4_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 270,32,W4_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-271,32,W4_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 272,32,W4_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-273,32,W4_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 274,32,W4 Changes between V1.1 and V2.0.0.pdf,pdf,SUCCESS
-275,32,W4 Changes between V1.1 and V2.0.0.pdf,pdf,SUCCESS
 276,32,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
-277,32,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
 278,32,program-library-w4.zip,zip,SUCCESS
-279,32,program-library-w4.zip,zip,SUCCESS
 280,33,q-dhs-sa-1998-adult.pdf,pdf,SUCCESS
-281,33,q-dhs-sa-1998-adult.pdf,pdf,SUCCESS
 282,33,q-dhs-sa-1998-hhold.pdf,pdf,SUCCESS
-283,33,q-dhs-sa-1998-hhold.pdf,pdf,SUCCESS
 284,33,q-dhs-sa-1998-women.pdf,pdf,SUCCESS
-285,33,q-dhs-sa-1998-women.pdf,pdf,SUCCESS
 286,33,dhs-sa-1998-report.pdf,pdf,SUCCESS
-287,33,dhs-sa-1998-report.pdf,pdf,SUCCESS
 288,34,W3_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-289,34,W3_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 290,34,W3_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-291,34,W3_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 292,34,W3_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-293,34,W3_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 294,34,W3_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-295,34,W3_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 296,34,W3 Changes between V2.1 and V3.0.0.pdf,pdf,SUCCESS
-297,34,W3 Changes between V2.1 and V3.0.0.pdf,pdf,SUCCESS
 298,34,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
-299,34,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
 300,34,program-library-w3.zip,zip,SUCCESS
-301,34,program-library-w3.zip,zip,SUCCESS
 302,35,W1_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-303,35,W1_Adult_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 304,35,W1_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-305,35,W1_Child_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 306,35,W1_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-307,35,W1_Household_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 308,35,W1_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
-309,35,W1_Proxy_Questionnaire_28Aug2018.pdf,pdf,SUCCESS
 310,35,NIDS 2008 Numeracy Level 1 Wave1.pdf,pdf,SUCCESS
-311,35,NIDS 2008 Numeracy Level 1 Wave1.pdf,pdf,SUCCESS
 312,35,NIDS 2008 Numeracy Level 2 Wave1.pdf,pdf,SUCCESS
-313,35,NIDS 2008 Numeracy Level 2 Wave1.pdf,pdf,SUCCESS
 314,35,NIDS 2008 Numeracy Level 3 Wave1.pdf,pdf,SUCCESS
-315,35,NIDS 2008 Numeracy Level 3 Wave1.pdf,pdf,SUCCESS
 316,35,NIDS 2008 Numeracy Level 4 Wave1.pdf,pdf,SUCCESS
-317,35,NIDS 2008 Numeracy Level 4 Wave1.pdf,pdf,SUCCESS
 318,35,nids-2008-w1-docs-other-languages.zip,zip,SUCCESS
-319,35,nids-2008-w1-docs-other-languages.zip,zip,SUCCESS
 320,35,NIDS 2008 Code Sheet V3.1.pdf,pdf,SUCCESS
-321,35,NIDS 2008 Code Sheet V3.1.pdf,pdf,SUCCESS
 322,35,W1 Changes between V6.1 and V7.0.0.pdf,pdf,SUCCESS
-323,35,W1 Changes between V6.1 and V7.0.0.pdf,pdf,SUCCESS
 324,35,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
-325,35,nids-panel-user-manual-2018.pdf,pdf,SUCCESS
 326,35,program-library-w1.zip,zip,SUCCESS
-327,35,program-library-w1.zip,zip,SUCCESS
 328,35,nidsw1-5-ethics-docs.zip,zip,SUCCESS
-329,35,nidsw1-5-ethics-docs.zip,zip,SUCCESS
 330,36,afrobarometer-sa-2004-codebook.pdf,pdf,SUCCESS
-331,36,afrobarometer-sa-2004-codebook.pdf,pdf,SUCCESS
 332,37,q-afr7-1999-2000.zip,zip,SUCCESS
-333,37,q-afr7-1999-2000.zip,zip,SUCCESS
 334,37,afr7-1999-2000-codebooks.zip,zip,SUCCESS
-335,37,afr7-1999-2000-codebooks.zip,zip,SUCCESS
 336,37,afr-1999-2006-survey-dates.pdf,pdf,SUCCESS
-337,37,afr-1999-2006-survey-dates.pdf,pdf,SUCCESS
 338,38,q-afr34-2011-2013.zip,zip,SUCCESS
-339,38,q-afr34-2011-2013.zip,zip,SUCCESS
 340,38,afr34-2011-2013-survey-manual.pdf,pdf,SUCCESS
-341,38,afr34-2011-2013-survey-manual.pdf,pdf,SUCCESS
 342,38,afr34-2011-2013-merged-codebook.pdf,pdf,SUCCESS
-343,38,afr34-2011-2013-merged-codebook.pdf,pdf,SUCCESS
 344,39,nids-w4-2012-secure-variables.pdf,pdf,SUCCESS
-345,39,nids-w4-2012-secure-variables.pdf,pdf,SUCCESS
 346,39,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
-347,39,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
 348,40,Afrobarometer 3 South Africa 2006 Codebook.pdf,pdf,SUCCESS
-349,40,Afrobarometer 3 South Africa 2006 Codebook.pdf,pdf,SUCCESS
 350,41,nids-w3-secure-variables.pdf,pdf,SUCCESS
-351,41,nids-w3-secure-variables.pdf,pdf,SUCCESS
 352,41,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
-353,41,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
 354,42,q-afr20-2008.zip,zip,SUCCESS
-355,42,q-afr20-2008.zip,zip,SUCCESS
 356,42,afr20-2008-codebooks.zip,zip,SUCCESS
-357,42,afr20-2008-codebooks.zip,zip,SUCCESS
 358,43,q-afr18-2005-2006.zip,zip,SUCCESS
-359,43,q-afr18-2005-2006.zip,zip,SUCCESS
 360,43,afr18-2005-2006-codebooks.zip,zip,SUCCESS
-361,43,afr18-2005-2006-codebooks.zip,zip,SUCCESS
 362,43,afr18-1999-2006-survey-dates.pdf,pdf,SUCCESS
-363,43,afr18-1999-2006-survey-dates.pdf,pdf,SUCCESS
 364,44,q-glss-2012-hhold-a.pdf,pdf,SUCCESS
-365,44,q-glss-2012-hhold-a.pdf,pdf,SUCCESS
 366,44,q-glss-2012-hhold-b.pdf,pdf,SUCCESS
-367,44,q-glss-2012-hhold-b.pdf,pdf,SUCCESS
 368,44,q-glss-2012-community.pdf,pdf,SUCCESS
-369,44,q-glss-2012-community.pdf,pdf,SUCCESS
 370,44,glss-2012-2013-report.pdf,pdf,SUCCESS
-371,44,glss-2012-2013-report.pdf,pdf,SUCCESS
 372,45,q-afr34-2016-2018.zip,zip,SUCCESS
-373,45,q-afr34-2016-2018.zip,zip,SUCCESS
 374,45,afr34-2016-2018-survey-manual.pdf,pdf,SUCCESS
-375,45,afr34-2016-2018-survey-manual.pdf,pdf,SUCCESS
 376,45,afr34-2016-2018-merged-codebook.pdf,pdf,SUCCESS
-377,45,afr34-2016-2018-merged-codebook.pdf,pdf,SUCCESS
 378,46,nids-w1-2008-secure-variables.pdf,pdf,SUCCESS
-379,46,nids-w1-2008-secure-variables.pdf,pdf,SUCCESS
 380,46,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
-381,46,nids-occ-codes-isco-08.pdf,pdf,SUCCESS
 382,47,afb-sa-2008-codebook.pdf,pdf,SUCCESS
-383,47,afb-sa-2008-codebook.pdf,pdf,SUCCESS
 384,47,afb-sa-2008-technical-info-20100113.pdf,pdf,SUCCESS
-385,47,afb-sa-2008-technical-info-20100113.pdf,pdf,SUCCESS
 386,48,q-image-2001-2003-hhold-baseline.pdf,pdf,SUCCESS
-387,48,q-image-2001-2003-hhold-baseline.pdf,pdf,SUCCESS
 388,48,q-image-2001-2003-hhold-followup.pdf,pdf,SUCCESS
-389,48,q-image-2001-2003-hhold-followup.pdf,pdf,SUCCESS
 390,48,q-image-2001-2003-senior-female-baseline.pdf,pdf,SUCCESS
-391,48,q-image-2001-2003-senior-female-baseline.pdf,pdf,SUCCESS
 392,48,q-image-2001-2003-senior-female-followup.pdf,pdf,SUCCESS
-393,48,q-image-2001-2003-senior-female-followup.pdf,pdf,SUCCESS
 394,48,q-image-2001-2003-young-person-baseline.pdf,pdf,SUCCESS
-395,48,q-image-2001-2003-young-person-baseline.pdf,pdf,SUCCESS
 396,48,q-image-2001-2003-young-person-followup.pdf,pdf,SUCCESS
-397,48,q-image-2001-2003-young-person-followup.pdf,pdf,SUCCESS
 398,48,image-pw-ranking-manual.pdf,pdf,SUCCESS
-399,48,image-pw-ranking-manual.pdf,pdf,SUCCESS
 400,48,image-fieldworker-manual.pdf,pdf,SUCCESS
-401,48,image-fieldworker-manual.pdf,pdf,SUCCESS
 402,48,image-gender-hiv-training-manual.pdf,pdf,SUCCESS
-403,48,image-gender-hiv-training-manual.pdf,pdf,SUCCESS
 404,48,image-senior-female-manual.pdf,pdf,SUCCESS
-405,48,image-senior-female-manual.pdf,pdf,SUCCESS
 406,48,image-fieldwork-manual-follow-ups.pdf,pdf,SUCCESS
-407,48,image-fieldwork-manual-follow-ups.pdf,pdf,SUCCESS
 408,48,image-fieldwork-manual-cohortIII-follow-ups.pdf,pdf,SUCCESS
-409,48,image-fieldwork-manual-cohortIII-follow-ups.pdf,pdf,SUCCESS
 410,48,image-user-manual.pdf,pdf,SUCCESS
-411,48,image-user-manual.pdf,pdf,SUCCESS
 412,48,image-data-dictionary.pdf,pdf,SUCCESS
-413,48,image-data-dictionary.pdf,pdf,SUCCESS
 414,48,image-evaluation-monograph1.pdf,pdf,SUCCESS
-415,48,image-evaluation-monograph1.pdf,pdf,SUCCESS
 416,48,image-intervention-monograph.pdf,pdf,SUCCESS
-417,48,image-intervention-monograph.pdf,pdf,SUCCESS
 418,49,bushmen-demography-1963-1973-description.pdf,pdf,SUCCESS
-419,49,bushmen-demography-1963-1973-description.pdf,pdf,SUCCESS
 420,49,bushmen-demography-1963-1973-h&w.pdf,pdf,SUCCESS
-421,49,bushmen-demography-1963-1973-h&w.pdf,pdf,SUCCESS
 422,49,bushmen-demography-1963-1973-individual.pdf,pdf,SUCCESS
-423,49,bushmen-demography-1963-1973-individual.pdf,pdf,SUCCESS
 424,49,bushmen-demography-1963-1973-women.pdf,pdf,SUCCESS
-425,49,bushmen-demography-1963-1973-women.pdf,pdf,SUCCESS
 426,50,q-zaf-hsrc-dhs-1987.pdf,pdf,SUCCESS
-427,50,q-zaf-hsrc-dhs-1987.pdf,pdf,SUCCESS
 428,50,zaf-hsrc-dhs-1987-codebook.pdf,pdf,SUCCESS
-429,50,zaf-hsrc-dhs-1987-codebook.pdf,pdf,SUCCESS
 430,51,Q_Migration in SA 2001-2002.pdf,pdf,SUCCESS
-431,51,Q_Migration in SA 2001-2002.pdf,pdf,SUCCESS
 432,51,Migration in SA 2001-2002 Report.pdf,pdf,SUCCESS
-433,51,Migration in SA 2001-2002 Report.pdf,pdf,SUCCESS
 434,51,Migration in SA 2001-2002 Codebook.pdf,pdf,SUCCESS
-435,51,Migration in SA 2001-2002 Codebook.pdf,pdf,SUCCESS
 436,51,Migration in SA 2001-2002 Hhold.pdf,pdf,SUCCESS
-437,51,Migration in SA 2001-2002 Hhold.pdf,pdf,SUCCESS
 438,51,Migration in SA 2001-2002 Indiv.pdf,pdf,SUCCESS
-439,51,Migration in SA 2001-2002 Indiv.pdf,pdf,SUCCESS
 440,52,q-steps-2015.pdf,pdf,SUCCESS
-441,52,q-steps-2015.pdf,pdf,SUCCESS
 442,52,steps-2015-report.pdf,pdf,SUCCESS
-443,52,steps-2015-report.pdf,pdf,SUCCESS
 444,52,steps-2015-manual.pdf,pdf,SUCCESS
-445,52,steps-2015-manual.pdf,pdf,SUCCESS
 446,53,q-tus-2000.pdf,pdf,SUCCESS
-447,53,q-tus-2000.pdf,pdf,SUCCESS
 448,53,tus-2000-report.pdf,pdf,SUCCESS
-449,53,tus-2000-report.pdf,pdf,SUCCESS
 450,53,tus-2000-manual.pdf,pdf,SUCCESS
-451,53,tus-2000-manual.pdf,pdf,SUCCESS
 452,53,tus-2000-metadata.pdf,pdf,SUCCESS
-453,53,tus-2000-metadata.pdf,pdf,SUCCESS
 454,54,q-zaf-doh-dhs-2016.pdf,pdf,SUCCESS
-455,54,q-zaf-doh-dhs-2016.pdf,pdf,SUCCESS
 456,54,zaf-doh-dhs-2016-final-report.pdf,pdf,SUCCESS
-457,54,zaf-doh-dhs-2016-final-report.pdf,pdf,SUCCESS
 458,54,zaf-doh-dhs-2016-summary-report.pdf,pdf,SUCCESS
-459,54,zaf-doh-dhs-2016-summary-report.pdf,pdf,SUCCESS
 460,55,Khayelitsha Integrated Family Survey 2002-5 Questionnaires.zip,zip,SUCCESS
-461,55,Khayelitsha Integrated Family Survey 2002-5 Questionnaires.zip,zip,SUCCESS
 462,55,zaf-datafirst-khayelitsha-ifs-2002-2005-v01_overview.pdf,pdf,SUCCESS
-463,55,zaf-datafirst-khayelitsha-ifs-2002-2005-v01_overview.pdf,pdf,SUCCESS
 464,55,Agincourt & Khayelitsha IFS 2002-5 090615.zip,zip,SUCCESS
-465,55,Agincourt & Khayelitsha IFS 2002-5 090615.zip,zip,SUCCESS
 466,56,Q_CAS 2005.pdf,pdf,SUCCESS
-467,56,Q_CAS 2005.pdf,pdf,SUCCESS
 468,56,CAS 2005 User Guide.pdf,pdf,SUCCESS
-469,56,CAS 2005 User Guide.pdf,pdf,SUCCESS
 470,57,documentation_303.pdf,pdf,FAILED_HTTP_500
 471,57,no_files,,FAILED_LOGIN_REQUIRED
 472,58,q-kids-2004.pdf,pdf,SUCCESS
-473,58,q-kids-2004.pdf,pdf,SUCCESS
 474,58,kids-2004-codebook.pdf,pdf,SUCCESS
-475,58,kids-2004-codebook.pdf,pdf,SUCCESS
 476,58,kids-2004-hhold-roster-notes.pdf,pdf,SUCCESS
-477,58,kids-2004-hhold-roster-notes.pdf,pdf,SUCCESS
 478,58,kids-2004-overview.pdf,pdf,SUCCESS
-479,58,kids-2004-overview.pdf,pdf,SUCCESS
 480,58,kids-2004-v1.1-program-library.zip,zip,SUCCESS
-481,58,kids-2004-v1.1-program-library.zip,zip,SUCCESS
 482,59,Q_PSS South Africa 2001.pdf,pdf,SUCCESS
-483,59,Q_PSS South Africa 2001.pdf,pdf,SUCCESS
 484,59,PSS South Africa 2001 Report.pdf,pdf,SUCCESS
-485,59,PSS South Africa 2001 Report.pdf,pdf,SUCCESS
 486,59,PSS South Africa 2001 Codes.pdf,pdf,SUCCESS
-487,59,PSS South Africa 2001 Codes.pdf,pdf,SUCCESS
 488,59,PSS Samples.pdf,pdf,SUCCESS
-489,59,PSS Samples.pdf,pdf,SUCCESS
 490,59,PSS South Africa 2001 Varnames.pdf,pdf,SUCCESS
-491,59,PSS South Africa 2001 Varnames.pdf,pdf,SUCCESS
 492,60,q-taca-w1-community.pdf,pdf,SUCCESS
-493,60,q-taca-w1-community.pdf,pdf,SUCCESS
 494,60,q-taca-w1-hhold.pdf,pdf,SUCCESS
-495,60,q-taca-w1-hhold.pdf,pdf,SUCCESS
 496,60,q-taca-w1-individual.pdf,pdf,SUCCESS
-497,60,q-taca-w1-individual.pdf,pdf,SUCCESS
 498,60,q-taca-w1-intercept.pdf,pdf,SUCCESS
-499,60,q-taca-w1-intercept.pdf,pdf,SUCCESS
 500,60,q-taca-w1-principal.pdf,pdf,SUCCESS
-501,60,q-taca-w1-principal.pdf,pdf,SUCCESS
 502,60,q-taca-w2-hhold.pdf,pdf,SUCCESS
-503,60,q-taca-w2-hhold.pdf,pdf,SUCCESS
 504,60,q-taca-w2-principal.pdf,pdf,SUCCESS
-505,60,q-taca-w2-principal.pdf,pdf,SUCCESS
 506,60,q-taca-w2-individual-1.1.pdf,pdf,SUCCESS
-507,60,q-taca-w2-individual-1.1.pdf,pdf,SUCCESS
 508,60,taca-1999-2002-report-final.pdf,pdf,SUCCESS
-509,60,taca-1999-2002-report-final.pdf,pdf,SUCCESS
 510,61,EVS-WVS_Participating Countries.pdf,pdf,SUCCESS
-511,61,EVS-WVS_Participating Countries.pdf,pdf,SUCCESS
 512,62,q-cses-4-2011-2016.pdf,pdf,SUCCESS
-513,62,q-cses-4-2011-2016.pdf,pdf,SUCCESS
 514,62,q-cnep-common-core-20151014.pdf,pdf,SUCCESS
-515,62,q-cnep-common-core-20151014.pdf,pdf,SUCCESS
 516,62,cses-4-sa-2015-design-report-20161128.pdf,pdf,SUCCESS
-517,62,cses-4-sa-2015-design-report-20161128.pdf,pdf,SUCCESS
 518,62,cses-4-sa-2015-macro-report-20161129.pdf,pdf,SUCCESS
-519,62,cses-4-sa-2015-macro-report-20161129.pdf,pdf,SUCCESS
 520,62,cses-4-2011-2016-respondent-booklet.pdf,pdf,SUCCESS
-521,62,cses-4-2011-2016-respondent-booklet.pdf,pdf,SUCCESS
 522,62,cnep-sa-2015-ethics-20150123.pdf,pdf,SUCCESS
-523,62,cnep-sa-2015-ethics-20150123.pdf,pdf,SUCCESS
 524,63,q-tss-2017-round1.pdf,pdf,SUCCESS
-525,63,q-tss-2017-round1.pdf,pdf,SUCCESS
 526,63,q-tss-2018-round2.pdf,pdf,SUCCESS
-527,63,q-tss-2018-round2.pdf,pdf,SUCCESS
 528,64,expose-1998-2017-codebk-eng.pdf,pdf,SUCCESS
-529,64,expose-1998-2017-codebk-eng.pdf,pdf,SUCCESS
 530,64,expose-1998-2017-code.zip,zip,SUCCESS
-531,64,expose-1998-2017-code.zip,zip,SUCCESS
 532,64,expose-1998-2017-codebk-sa.pdf,pdf,SUCCESS
-533,64,expose-1998-2017-codebk-sa.pdf,pdf,SUCCESS
 534,65,q-spp-1980-1981-resettlement-areas.pdf,pdf,SUCCESS
-535,65,q-spp-1980-1981-resettlement-areas.pdf,pdf,SUCCESS
 536,65,q-spp-1980-1981-threatened-areas.pdf,pdf,SUCCESS
-537,65,q-spp-1980-1981-threatened-areas.pdf,pdf,SUCCESS
 538,65,1983-spp-report-1-overview.pdf,pdf,SUCCESS
-539,65,1983-spp-report-1-overview.pdf,pdf,SUCCESS
 540,65,1983-spp-report-2-e-cape.pdf,pdf,SUCCESS
-541,65,1983-spp-report-2-e-cape.pdf,pdf,SUCCESS
 542,65,1983-spp-report-3-w-n-cape-ofs.pdf,pdf,SUCCESS
-543,65,1983-spp-report-3-w-n-cape-ofs.pdf,pdf,SUCCESS
 544,65,1983-spp-report-4-natal.pdf,pdf,SUCCESS
-545,65,1983-spp-report-4-natal.pdf,pdf,SUCCESS
 546,65,1983-spp-report-5-transvaal.pdf,pdf,SUCCESS
-547,65,1983-spp-report-5-transvaal.pdf,pdf,SUCCESS
 548,65,spp-1980-1981-enumerators-manual.pdf,pdf,SUCCESS
-549,65,spp-1980-1981-enumerators-manual.pdf,pdf,SUCCESS
 550,65,spp-1980-1981-geog-variables.pdf,pdf,SUCCESS
-551,65,spp-1980-1981-geog-variables.pdf,pdf,SUCCESS
 552,65,spp-1980-1981-codebook.pdf,pdf,SUCCESS
-553,65,spp-1980-1981-codebook.pdf,pdf,SUCCESS
 554,65,1985-surplus-people.pdf,pdf,SUCCESS
-555,65,1985-surplus-people.pdf,pdf,SUCCESS
 556,66,Q_Agincourt IFS 2002 CH.pdf,pdf,SUCCESS
-557,66,Q_Agincourt IFS 2002 CH.pdf,pdf,SUCCESS
 558,66,Q_Agincourt IFS 2002 HH.pdf,pdf,SUCCESS
-559,66,Q_Agincourt IFS 2002 HH.pdf,pdf,SUCCESS
 560,66,Q_Agincourt IFS 2002 OA.pdf,pdf,SUCCESS
-561,66,Q_Agincourt IFS 2002 OA.pdf,pdf,SUCCESS
 562,66,Q_Agincourt IFS 2002 YA.pdf,pdf,SUCCESS
-563,66,Q_Agincourt IFS 2002 YA.pdf,pdf,SUCCESS
 564,66,Agincourt & Khayelitsha IFS 2002-5 090615.pdf,pdf,SUCCESS
-565,66,Agincourt & Khayelitsha IFS 2002-5 090615.pdf,pdf,SUCCESS
 566,67,Q_Agincourt IFS 2004 HH.pdf,pdf,SUCCESS
-567,67,Q_Agincourt IFS 2004 HH.pdf,pdf,SUCCESS
 568,67,Q_Agincourt IFS 2004 AD.pdf,pdf,SUCCESS
-569,67,Q_Agincourt IFS 2004 AD.pdf,pdf,SUCCESS
 570,67,Q_Agincourt IFS 2004 CH.pdf,pdf,SUCCESS
-571,67,Q_Agincourt IFS 2004 CH.pdf,pdf,SUCCESS
 572,67,Agincourt & Khayelitsha IFS 2002-5 090615.pdf,pdf,SUCCESS
-573,67,Agincourt & Khayelitsha IFS 2002-5 090615.pdf,pdf,SUCCESS
-574,67,Agincourt & Khayelitsha IFS 2002-5 090615.pdf,pdf,SUCCESS
-575,67,Agincourt & Khayelitsha IFS 2002-5 090615.pdf,pdf,SUCCESS
 576,68,q-afr34-2019-2021.zip,zip,SUCCESS
-577,68,q-afr34-2019-2021.zip,zip,SUCCESS
 578,68,afr34-2019-2021-merged-codebooks.zip,zip,SUCCESS
-579,68,afr34-2019-2021-merged-codebooks.zip,zip,SUCCESS
 580,69,Q_SAIFS 1999 Child.pdf,pdf,SUCCESS
-581,69,Q_SAIFS 1999 Child.pdf,pdf,SUCCESS
 582,69,Q_SAIFS 1999 Health.pdf,pdf,SUCCESS
-583,69,Q_SAIFS 1999 Health.pdf,pdf,SUCCESS
 584,69,Q_SAIFS 1999 Hhold.pdf,pdf,SUCCESS
-585,69,Q_SAIFS 1999 Hhold.pdf,pdf,SUCCESS
 586,69,Q_SAIFS 1999 Older.pdf,pdf,SUCCESS
-587,69,Q_SAIFS 1999 Older.pdf,pdf,SUCCESS
 588,69,Q_SAIFS 1999 Younger.pdf,pdf,SUCCESS
-589,69,Q_SAIFS 1999 Younger.pdf,pdf,SUCCESS
 590,69,saifs-1999-data-quality-issues.pdf,pdf,SUCCESS
-591,69,saifs-1999-data-quality-issues.pdf,pdf,SUCCESS
 592,69,SAIFS 1999 Intro.pdf,pdf,SUCCESS
-593,69,SAIFS 1999 Intro.pdf,pdf,SUCCESS
 594,69,SAIFS 1999 Manual.pdf,pdf,SUCCESS
-595,69,SAIFS 1999 Manual.pdf,pdf,SUCCESS
 596,69,saifs-1999-syntax.zip,zip,SUCCESS
-597,69,saifs-1999-syntax.zip,zip,SUCCESS
 598,70,q-clsds-2016-2017.pdf,pdf,SUCCESS
-599,70,q-clsds-2016-2017.pdf,pdf,SUCCESS
 600,70,clsds-2016-2017-technical-report.pdf,pdf,SUCCESS
-601,70,clsds-2016-2017-technical-report.pdf,pdf,SUCCESS
 602,71,Free State HH questionnaire.pdf,pdf,SUCCESS
-603,71,Free State HH questionnaire.pdf,pdf,SUCCESS
 604,71,Limpopo HH questionnaire.pdf,pdf,SUCCESS
-605,71,Limpopo HH questionnaire.pdf,pdf,SUCCESS
 606,71,Description of datasets and unique identifiers.pdf,pdf,SUCCESS
-607,71,Description of datasets and unique identifiers.pdf,pdf,SUCCESS
 608,71,Interviewer Manual.pdf,pdf,SUCCESS
-609,71,Interviewer Manual.pdf,pdf,SUCCESS
 610,71,Informal Settlement Upgrading in South Africa Report.pdf,pdf,SUCCESS
-611,71,Informal Settlement Upgrading in South Africa Report.pdf,pdf,SUCCESS
 612,71,Presentation of Results.pdf,pdf,SUCCESS
-613,71,Presentation of Results.pdf,pdf,SUCCESS
 614,71,Upgrading of Informal Settlements DIME Brief.pdf,pdf,SUCCESS
-615,71,Upgrading of Informal Settlements DIME Brief.pdf,pdf,SUCCESS
 616,72,q-sarb-2021-r17.pdf,pdf,SUCCESS
-617,72,q-sarb-2021-r17.pdf,pdf,SUCCESS
 618,72,sarb-2021-r17-report.pdf,pdf,SUCCESS
-619,72,sarb-2021-r17-report.pdf,pdf,SUCCESS
 620,73,mw-2014-2018-research-protocol.pdf,pdf,SUCCESS
-621,73,mw-2014-2018-research-protocol.pdf,pdf,SUCCESS
 622,73,mw-2014-2018-questionnaires.zip,zip,SUCCESS
-623,73,mw-2014-2018-questionnaires.zip,zip,SUCCESS
 624,73,mw-2014-2018-codebook.xlsx,xlsx,SUCCESS
-625,73,mw-2014-2018-codebook.xlsx,xlsx,SUCCESS
 626,74,q-cnep-3.5-sa-2009-2090930.pdf,pdf,SUCCESS
-627,74,q-cnep-3.5-sa-2009-2090930.pdf,pdf,SUCCESS
 628,74,cses-3-sa-2009-design-report.pdf,pdf,SUCCESS
-629,74,cses-3-sa-2009-design-report.pdf,pdf,SUCCESS
 630,74,cnep-sa-2009-technical-report.pdf,pdf,SUCCESS
-631,74,cnep-sa-2009-technical-report.pdf,pdf,SUCCESS
 632,75,Q_Internal Migration in SA 1999-2000.pdf,pdf,SUCCESS
-633,75,Q_Internal Migration in SA 1999-2000.pdf,pdf,SUCCESS
 634,75,Internal Migration in SA 1999-2000 Codebook.pdf,pdf,SUCCESS
-635,75,Internal Migration in SA 1999-2000 Codebook.pdf,pdf,SUCCESS
 636,76,IDASA Local Election Study 1995 Codebook.pdf,pdf,SUCCESS
-637,76,IDASA Local Election Study 1995 Codebook.pdf,pdf,SUCCESS
 638,76,IDASA Local Election Study 1995 Outline.pdf,pdf,SUCCESS
-639,76,IDASA Local Election Study 1995 Outline.pdf,pdf,SUCCESS
 640,77,IDASA Opinion99-Nyulo-T2.pdf,pdf,SUCCESS
-641,77,IDASA Opinion99-Nyulo-T2.pdf,pdf,SUCCESS
 642,77,IDASA Opinion99-Nyulo-T3.pdf,pdf,SUCCESS
-643,77,IDASA Opinion99-Nyulo-T3.pdf,pdf,SUCCESS
 644,77,IDASA Opinion99-Nyulo-T4.pdf,pdf,SUCCESS
-645,77,IDASA Opinion99-Nyulo-T4.pdf,pdf,SUCCESS
 646,77,IDASA Opinion99 1998 Codebook.pdf,pdf,SUCCESS
-647,77,IDASA Opinion99 1998 Codebook.pdf,pdf,SUCCESS
 648,77,IDASA Opinion99 1998 Methodology.pdf,pdf,SUCCESS
-649,77,IDASA Opinion99 1998 Methodology.pdf,pdf,SUCCESS
 650,77,IDASA Opinion99 1998 Info.pdf,pdf,SUCCESS
-651,77,IDASA Opinion99 1998 Info.pdf,pdf,SUCCESS
 652,78,q-afr39-2021-2023.zip,zip,SUCCESS
-653,78,q-afr39-2021-2023.zip,zip,SUCCESS
 654,78,afr39-2021-2023-codebooks.zip,zip,SUCCESS
-655,78,afr39-2021-2023-codebooks.zip,zip,SUCCESS
 656,79,q-zmfs-2015-2016.zip,zip,SUCCESS
-657,79,q-zmfs-2015-2016.zip,zip,SUCCESS
 658,79,zmfs-2015-2016-readme.pdf,pdf,SUCCESS
-659,79,zmfs-2015-2016-readme.pdf,pdf,SUCCESS
 660,79,zmfs-2015-2016-sampling.pdf,pdf,SUCCESS
-661,79,zmfs-2015-2016-sampling.pdf,pdf,SUCCESS
 662,79,zmfs-2015-codebook-formal.pdf,pdf,SUCCESS
-663,79,zmfs-2015-codebook-formal.pdf,pdf,SUCCESS
 664,79,zmfs-2015-codebook-informal.pdf,pdf,SUCCESS
-665,79,zmfs-2015-codebook-informal.pdf,pdf,SUCCESS
 666,80,KMP_2000_documentation.zip,zip,SUCCESS
-667,80,KMP_2000_documentation.zip,zip,SUCCESS
 668,81,q-rammps-mwi-2022-2023.pdf,pdf,SUCCESS
-669,81,q-rammps-mwi-2022-2023.pdf,pdf,SUCCESS
 670,81,rammps-mwi-2022-2023-codebook.pdf,pdf,SUCCESS
-671,81,rammps-mwi-2022-2023-codebook.pdf,pdf,SUCCESS
-672,81,q-rammps-mwi-2022-2023.pdf,pdf,SUCCESS
-673,81,q-rammps-mwi-2022-2023.pdf,pdf,SUCCESS
-674,81,rammps-mwi-2022-2023-codebook.pdf,pdf,SUCCESS
-675,81,rammps-mwi-2022-2023-codebook.pdf,pdf,SUCCESS
 676,81,rammps-mwi-2022-2023-v1-csv.zip,zip,SUCCESS
-677,81,rammps-mwi-2022-2023-v1-csv.zip,zip,SUCCESS
 678,81,rammps-mwi-2022-2023-v1-stata.zip,zip,SUCCESS
-679,81,rammps-mwi-2022-2023-v1-stata.zip,zip,SUCCESS
 680,82,q-sayp-1999.pdf,pdf,SUCCESS
-681,82,q-sayp-1999.pdf,pdf,SUCCESS
 682,82,2002-child-labour-action-programme.pdf,pdf,SUCCESS
-683,82,2002-child-labour-action-programme.pdf,pdf,SUCCESS
 684,82,sayp-1999-report.pdf,pdf,SUCCESS
-685,82,sayp-1999-report.pdf,pdf,SUCCESS
 686,82,sayp-1999-metadata.pdf,pdf,SUCCESS
-687,82,sayp-1999-metadata.pdf,pdf,SUCCESS
 688,82,sayp_1999_v1.1_syntax.zip,zip,SUCCESS
-689,82,sayp_1999_v1.1_syntax.zip,zip,SUCCESS
 690,83,q-qols-2023-2024.pdf,pdf,SUCCESS
-691,83,q-qols-2023-2024.pdf,pdf,SUCCESS
 692,83,qols-2023-2024-data.pdf,pdf,SUCCESS
-693,83,qols-2023-2024-data.pdf,pdf,SUCCESS
 694,83,qols-2023-2024-fieldwork.pdf,pdf,SUCCESS
-695,83,qols-2023-2024-fieldwork.pdf,pdf,SUCCESS
 696,83,qols-2023-2024-index.pdf,pdf,SUCCESS
-697,83,qols-2023-2024-index.pdf,pdf,SUCCESS
 698,83,qols-2023-2024-sampling.pdf,pdf,SUCCESS
-699,83,qols-2023-2024-sampling.pdf,pdf,SUCCESS
 700,83,qols-2023-2024-weighting.pdf,pdf,SUCCESS
-701,83,qols-2023-2024-weighting.pdf,pdf,SUCCESS
 702,83,qols-2023-2024-w-analysis.pdf,pdf,SUCCESS
-703,83,qols-2023-2024-w-analysis.pdf,pdf,SUCCESS
 704,84,pases-1995-2024-guide.pdf,pdf,SUCCESS
-705,84,pases-1995-2024-guide.pdf,pdf,SUCCESS
 706,84,pases-1995-2024-v1-syntax.zip,zip,SUCCESS
-707,84,pases-1995-2024-v1-syntax.zip,zip,SUCCESS
 708,85,q-pslsd-1993-hhold.pdf,pdf,SUCCESS
-709,85,q-pslsd-1993-hhold.pdf,pdf,SUCCESS
 710,85,q-pslsd-1993-community.pdf,pdf,SUCCESS
-711,85,q-pslsd-1993-community.pdf,pdf,SUCCESS
 712,85,q-kids-1998-hhold.pdf,pdf,SUCCESS
-713,85,q-kids-1998-hhold.pdf,pdf,SUCCESS
 714,85,q-kids-1998-community.pdf,pdf,SUCCESS
-715,85,q-kids-1998-community.pdf,pdf,SUCCESS
 716,85,pslsd-1993-coding-manual.pdf,pdf,SUCCESS
-717,85,pslsd-1993-coding-manual.pdf,pdf,SUCCESS
 718,85,kids-1998-hhidform.pdf,pdf,SUCCESS
-719,85,kids-1998-hhidform.pdf,pdf,SUCCESS
 720,85,kids-1998-coding-manual.pdf,pdf,SUCCESS
-721,85,kids-1998-coding-manual.pdf,pdf,SUCCESS
 722,85,kids-1998-fieldworkers-manual.pdf,pdf,SUCCESS
-723,85,kids-1998-fieldworkers-manual.pdf,pdf,SUCCESS
 724,85,kids-1993-1998-overview-v2.pdf,pdf,SUCCESS
-725,85,kids-1993-1998-overview-v2.pdf,pdf,SUCCESS
 726,85,kids-1993-1998-v2-program-library.zip,zip,SUCCESS
-727,85,kids-1993-1998-v2-program-library.zip,zip,SUCCESS
 728,86,q-qols-2023-2024.pdf,pdf,SUCCESS
-729,86,q-qols-2023-2024.pdf,pdf,SUCCESS
 730,86,qols-2023-2024-data.pdf,pdf,SUCCESS
-731,86,qols-2023-2024-data.pdf,pdf,SUCCESS
 732,86,qols-2023-2024-fieldwork.pdf,pdf,SUCCESS
-733,86,qols-2023-2024-fieldwork.pdf,pdf,SUCCESS
 734,86,qols-2023-2024-index.pdf,pdf,SUCCESS
-735,86,qols-2023-2024-index.pdf,pdf,SUCCESS
 736,86,qols-2023-2024-sampling.pdf,pdf,SUCCESS
-737,86,qols-2023-2024-sampling.pdf,pdf,SUCCESS
 738,86,qols-2023-2024-w-analysis.pdf,pdf,SUCCESS
-739,86,qols-2023-2024-w-analysis.pdf,pdf,SUCCESS
 740,86,qols-2023-2024-weighting.pdf,pdf,SUCCESS
-741,86,qols-2023-2024-weighting.pdf,pdf,SUCCESS
 742,87,q-vcs-1998.pdf,pdf,SUCCESS
-743,87,q-vcs-1998.pdf,pdf,SUCCESS
 744,87,vcs-1998-layout.pdf,pdf,SUCCESS
-745,87,vcs-1998-layout.pdf,pdf,SUCCESS
 746,87,vcs-1998-md-codes.pdf,pdf,SUCCESS
-747,87,vcs-1998-md-codes.pdf,pdf,SUCCESS
 748,87,vcs-1998-metadata.pdf,pdf,SUCCESS
-749,87,vcs-1998-metadata.pdf,pdf,SUCCESS
 750,87,vcs-1998-occ-codes.pdf,pdf,SUCCESS
-751,87,vcs-1998-occ-codes.pdf,pdf,SUCCESS
 752,87,vcs-1998-q-codelist.pdf,pdf,SUCCESS
-753,87,vcs-1998-q-codelist.pdf,pdf,SUCCESS
 754,87,vcs-1998-report.pdf,pdf,SUCCESS
-755,87,vcs-1998-report.pdf,pdf,SUCCESS
 756,88,lfl-2017-instruments.zip,zip,SUCCESS
-757,88,lfl-2017-instruments.zip,zip,SUCCESS
 758,88,lfl-2017-case-studies.zip,zip,SUCCESS
-759,88,lfl-2017-case-studies.zip,zip,SUCCESS
 760,88,leadership-for-literacy-2017-user-guide.pdf,pdf,SUCCESS
-761,88,leadership-for-literacy-2017-user-guide.pdf,pdf,SUCCESS
 762,88,lfl-2017-codebooks.zip,zip,SUCCESS
-763,88,lfl-2017-codebooks.zip,zip,SUCCESS
 764,88,20160905-lfl-2017-ethics-approval.pdf,pdf,SUCCESS
-765,88,20160905-lfl-2017-ethics-approval.pdf,pdf,SUCCESS
 766,89,Q_PSS Ethiopia 2001.pdf,pdf,SUCCESS
-767,89,Q_PSS Ethiopia 2001.pdf,pdf,SUCCESS
 768,89,PSS Ethiopia 2001 Report.pdf,pdf,SUCCESS
-769,89,PSS Ethiopia 2001 Report.pdf,pdf,SUCCESS
 770,90,agr-1984-codebook.pdf,pdf,SUCCESS
-771,90,agr-1984-codebook.pdf,pdf,SUCCESS
 772,91,Q_ERHS_Household 1989.pdf,pdf,SUCCESS
-773,91,Q_ERHS_Household 1989.pdf,pdf,SUCCESS
 774,91,Q_ERHS_Household 1994a.pdf,pdf,SUCCESS
-775,91,Q_ERHS_Household 1994a.pdf,pdf,SUCCESS
 776,91,Q_ERHS_Household 1994b.pdf,pdf,SUCCESS
-777,91,Q_ERHS_Household 1994b.pdf,pdf,SUCCESS
 778,91,Q_ERHS_Household 1995.pdf,pdf,SUCCESS
-779,91,Q_ERHS_Household 1995.pdf,pdf,SUCCESS
 780,91,Q_ERHS_Household 1997.pdf,pdf,SUCCESS
-781,91,Q_ERHS_Household 1997.pdf,pdf,SUCCESS
 782,91,Q_ERHS_Community 1997.pdf,pdf,SUCCESS
-783,91,Q_ERHS_Community 1997.pdf,pdf,SUCCESS
 784,91,Q_ERHS_Household 1999.pdf,pdf,SUCCESS
-785,91,Q_ERHS_Household 1999.pdf,pdf,SUCCESS
 786,91,Q_ERHS_Community 2004.pdf,pdf,SUCCESS
-787,91,Q_ERHS_Community 2004.pdf,pdf,SUCCESS
 788,91,Q_ERHS_Household 2004.pdf,pdf,SUCCESS
-789,91,Q_ERHS_Household 2004.pdf,pdf,SUCCESS
 790,91,Q_ERHS_Price 2004.pdf,pdf,SUCCESS
-791,91,Q_ERHS_Price 2004.pdf,pdf,SUCCESS
 792,91,Q_ERHS_Community 2009.pdf,pdf,SUCCESS
-793,91,Q_ERHS_Community 2009.pdf,pdf,SUCCESS
 794,91,Q_ERHS_Household 2009.pdf,pdf,SUCCESS
-795,91,Q_ERHS_Household 2009.pdf,pdf,SUCCESS
 796,91,Q_ERHS_Contents by Village 1989.pdf,pdf,SUCCESS
-797,91,Q_ERHS_Contents by Village 1989.pdf,pdf,SUCCESS
 798,91,ERHS 1989-2009 Introduction.pdf,pdf,SUCCESS
-799,91,ERHS 1989-2009 Introduction.pdf,pdf,SUCCESS
 800,91,ERHS 1989-2009s.pdf,pdf,SUCCESS
-801,91,ERHS 1989-2009s.pdf,pdf,SUCCESS
 802,92,tbfi-2021-fieldwork-report.pdf,pdf,SUCCESS
-803,92,tbfi-2021-fieldwork-report.pdf,pdf,SUCCESS
 804,92,tbfi-2021-technical-report.pdf,pdf,SUCCESS
-805,92,tbfi-2021-technical-report.pdf,pdf,SUCCESS
 806,92,tbfi-2021-summary-report.pdf,pdf,SUCCESS
-807,92,tbfi-2021-summary-report.pdf,pdf,SUCCESS
 808,92,tbfi-2021-baseline-report.pdf,pdf,SUCCESS
-809,92,tbfi-2021-baseline-report.pdf,pdf,SUCCESS
 810,93,ZFDP 2015 Enrolment Questionnaire.docx,docx,SUCCESS
-811,93,ZFDP 2015 Enrolment Questionnaire.docx,docx,SUCCESS
 812,93,ZFDP 2015 Paper instrument instructions.pdf,pdf,SUCCESS
-813,93,ZFDP 2015 Paper instrument instructions.pdf,pdf,SUCCESS
 814,93,ZFDP 2015 Cross-sectional Survey.xlsx,xlsx,SUCCESS
-815,93,ZFDP 2015 Cross-sectional Survey.xlsx,xlsx,SUCCESS
 816,93,ZFDP 2015 Report.pdf,pdf,SUCCESS
-817,93,ZFDP 2015 Report.pdf,pdf,SUCCESS
 818,93,ZFDP 2015 Interim Report.pdf,pdf,SUCCESS
-819,93,ZFDP 2015 Interim Report.pdf,pdf,SUCCESS
 820,93,FSDZ Financial Diaries Project User Guide v1.2.pdf,pdf,SUCCESS
-821,93,FSDZ Financial Diaries Project User Guide v1.2.pdf,pdf,SUCCESS
 822,94,q-2a-diary-consumption.pdf,pdf,SUCCESS
-823,94,q-2a-diary-consumption.pdf,pdf,SUCCESS
 824,94,q-1a-hhold-member.pdf,pdf,SUCCESS
-825,94,q-1a-hhold-member.pdf,pdf,SUCCESS
 826,94,q-2b-diary-purchases.pdf,pdf,SUCCESS
-827,94,q-2b-diary-purchases.pdf,pdf,SUCCESS
 828,94,q-3-market.pdf,pdf,SUCCESS
-829,94,q-3-market.pdf,pdf,SUCCESS
 830,94,q-1b-hhold.pdf,pdf,SUCCESS
-831,94,q-1b-hhold.pdf,pdf,SUCCESS
 832,94,q1c-consumption-expenditure.pdf,pdf,SUCCESS
-833,94,q1c-consumption-expenditure.pdf,pdf,SUCCESS
 834,94,q-4-community.pdf,pdf,SUCCESS
-835,94,q-4-community.pdf,pdf,SUCCESS
 836,94,kihbs-2015-2016-report.pdf,pdf,SUCCESS
-837,94,kihbs-2015-2016-report.pdf,pdf,SUCCESS
 838,95,Brazza2_Brazil02_QuestCompleto-Ilheus.pdf,pdf,SUCCESS
-839,95,Brazza2_Brazil02_QuestCompleto-Ilheus.pdf,pdf,SUCCESS
 840,95,Brazza2_Brazil02_QuestSuplemento-Ilheus.pdf,pdf,SUCCESS
-841,95,Brazza2_Brazil02_QuestSuplemento-Ilheus.pdf,pdf,SUCCESS
 842,95,Brazza2_Brazil08_Folha_de_capa.pdf,pdf,SUCCESS
-843,95,Brazza2_Brazil08_Folha_de_capa.pdf,pdf,SUCCESS
 844,95,Brazza2_Brazil08_Quest 2008 VF2.pdf,pdf,SUCCESS
-845,95,Brazza2_Brazil08_Quest 2008 VF2.pdf,pdf,SUCCESS
 846,95,Brazza2_Brazil08_Quest Suplementar 2008 VF2.pdf,pdf,SUCCESS
-847,95,Brazza2_Brazil08_Quest Suplementar 2008 VF2.pdf,pdf,SUCCESS
 848,95,Brazza2_SouthAfrica02_Final front page and admin sheet.pdf,pdf,SUCCESS
-849,95,Brazza2_SouthAfrica02_Final front page and admin sheet.pdf,pdf,SUCCESS
 850,95,Brazza2_SouthAfrica02_Final Household Head Questionnaire.pdf,pdf,SUCCESS
-851,95,Brazza2_SouthAfrica02_Final Household Head Questionnaire.pdf,pdf,SUCCESS
 852,95,Brazza2_SouthAfrica09_English Questionnaires2008.pdf,pdf,SUCCESS
-853,95,Brazza2_SouthAfrica09_English Questionnaires2008.pdf,pdf,SUCCESS
 854,95,Brazza2_SouthAfrica09_Front page and admin sheet.pdf,pdf,SUCCESS
-855,95,Brazza2_SouthAfrica09_Front page and admin sheet.pdf,pdf,SUCCESS
 856,95,Brazza2_Brazil02_Report.pdf,pdf,SUCCESS
-857,95,Brazza2_Brazil02_Report.pdf,pdf,SUCCESS
 858,95,Brazza2_Brazil08_Report.pdf,pdf,SUCCESS
-859,95,Brazza2_Brazil08_Report.pdf,pdf,SUCCESS
 860,95,Brazza2_SouthAfrica02_DRA Draft Methodology and field report.pdf,pdf,SUCCESS
-861,95,Brazza2_SouthAfrica02_DRA Draft Methodology and field report.pdf,pdf,SUCCESS
 862,96,documentation_583.pdf,pdf,SUCCESS
 863,97,q-gcro-qols-2009-20090714-v3.pdf,pdf,SUCCESS
-864,97,q-gcro-qols-2009-20090714-v3.pdf,pdf,SUCCESS
 865,97,gcro-qols-2009-report.pdf,pdf,SUCCESS
-866,97,gcro-qols-2009-report.pdf,pdf,SUCCESS
 867,97,gcro-qols-2009-weighting.pdf,pdf,SUCCESS
-868,97,gcro-qols-2009-weighting.pdf,pdf,SUCCESS
 869,97,gcro-qols-2009-field-report.pdf,pdf,SUCCESS
-870,97,gcro-qols-2009-field-report.pdf,pdf,SUCCESS
 871,97,gcro-qols-2009-recode-notes-20091209.pdf,pdf,SUCCESS
-872,97,gcro-qols-2009-recode-notes-20091209.pdf,pdf,SUCCESS
 873,98,Q_Migration Study WC 2001.pdf,pdf,SUCCESS
-874,98,Q_Migration Study WC 2001.pdf,pdf,SUCCESS
 875,98,Migration Study WC 2001 Main Report.pdf,pdf,SUCCESS
-876,98,Migration Study WC 2001 Main Report.pdf,pdf,SUCCESS
 877,98,Migration Study WC 2001 Introduction.pdf,pdf,SUCCESS
-878,98,Migration Study WC 2001 Introduction.pdf,pdf,SUCCESS
 879,99,Codebooks.zip,zip,SUCCESS
-880,99,Codebooks.zip,zip,SUCCESS
 881,99,Questionnaires.zip,zip,SUCCESS
-882,99,Questionnaires.zip,zip,SUCCESS
 883,99,Reports.zip,zip,SUCCESS
-884,99,Reports.zip,zip,SUCCESS
 885,99,sarb-2003-2015-merge-report.pdf,pdf,SUCCESS
-886,99,sarb-2003-2015-merge-report.pdf,pdf,SUCCESS
 887,100,q-vpuu-2012-baseline-draft.pdf,pdf,SUCCESS
-888,100,q-vpuu-2012-baseline-draft.pdf,pdf,SUCCESS
 889,100,vpuu-2012-baseline-report.pdf,pdf,SUCCESS
-890,100,vpuu-2012-baseline-report.pdf,pdf,SUCCESS
 891,100,vpuu-2012-data-quality-notes-df-v1.pdf,pdf,SUCCESS
-892,100,vpuu-2012-data-quality-notes-df-v1.pdf,pdf,SUCCESS
 893,101,LFS 2000_February Questionnaire.pdf,pdf,SUCCESS
-894,101,LFS 2000_February Questionnaire.pdf,pdf,SUCCESS
 895,101,LFS 2000_February Release.pdf,pdf,SUCCESS
-896,101,LFS 2000_February Release.pdf,pdf,SUCCESS
 897,101,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-898,101,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 899,101,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-900,101,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-901,101,LFS 2000_February Release.pdf,pdf,SUCCESS
-902,101,LFS 2000_February Release.pdf,pdf,SUCCESS
 903,101,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-904,101,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 905,101,LFS 2000_February Readme.pdf,pdf,SUCCESS
-906,101,LFS 2000_February Readme.pdf,pdf,SUCCESS
 907,101,LFS 2000_February Industry Codelist.pdf,pdf,SUCCESS
-908,101,LFS 2000_February Industry Codelist.pdf,pdf,SUCCESS
 909,101,LFS 2000_February Occupation Codelist.pdf,pdf,SUCCESS
-910,101,LFS 2000_February Occupation Codelist.pdf,pdf,SUCCESS
 911,101,LFS 2000_February Metadata.pdf,pdf,SUCCESS
-912,101,LFS 2000_February Metadata.pdf,pdf,SUCCESS
 913,102,q-sarb-2017-r15.pdf,pdf,SUCCESS
-914,102,q-sarb-2017-r15.pdf,pdf,SUCCESS
 915,102,sarb-2017-r15-report.pdf,pdf,SUCCESS
-916,102,sarb-2017-r15-report.pdf,pdf,SUCCESS
 917,103,q_pslsd 1993 household.pdf,pdf,SUCCESS
-918,103,q_pslsd 1993 household.pdf,pdf,SUCCESS
 919,103,q_pslsd 1993 community.pdf,pdf,SUCCESS
-920,103,q_pslsd 1993 community.pdf,pdf,SUCCESS
 921,103,q_pslsd 1993 literacy.pdf,pdf,SUCCESS
-922,103,q_pslsd 1993 literacy.pdf,pdf,SUCCESS
 923,103,pslsd-1993-report-rich-poor.pdf,pdf,SUCCESS
-924,103,pslsd-1993-report-rich-poor.pdf,pdf,SUCCESS
 925,103,pslsd 1993 overview.pdf,pdf,SUCCESS
-926,103,pslsd 1993 overview.pdf,pdf,SUCCESS
 927,103,pslsd_1993_codebook.pdf,pdf,SUCCESS
-928,103,pslsd_1993_codebook.pdf,pdf,SUCCESS
 929,103,pslsd 1993 datamap.pdf,pdf,SUCCESS
-930,103,pslsd 1993 datamap.pdf,pdf,SUCCESS
 931,103,Sampling_Frame.pdf,pdf,SUCCESS
-932,103,Sampling_Frame.pdf,pdf,SUCCESS
 933,103,pslsd-1993-sample-design.pdf,pdf,SUCCESS
-934,103,pslsd-1993-sample-design.pdf,pdf,SUCCESS
 935,103,pslsd-1993-listing.pdf,pdf,SUCCESS
-936,103,pslsd-1993-listing.pdf,pdf,SUCCESS
 937,103,pslsd-1993-hh-datamap.pdf,pdf,SUCCESS
-938,103,pslsd-1993-hh-datamap.pdf,pdf,SUCCESS
 939,103,pslsd-1993-lessons.pdf,pdf,SUCCESS
-940,103,pslsd-1993-lessons.pdf,pdf,SUCCESS
 941,103,za94pgm.zip,zip,SUCCESS
-942,103,za94pgm.zip,zip,SUCCESS
 943,104,q-nses-2007-2009-20110124.xls,xls,SUCCESS
-944,104,q-nses-2007-2009-20110124.xls,xls,SUCCESS
 945,104,nses-2007-2009-guide.pdf,pdf,SUCCESS
-946,104,nses-2007-2009-guide.pdf,pdf,SUCCESS
 947,105,Q_PSS Ghana 2002.pdf,pdf,SUCCESS
-948,105,Q_PSS Ghana 2002.pdf,pdf,SUCCESS
 949,105,PSS Ghana 2002 Report.pdf,pdf,SUCCESS
-950,105,PSS Ghana 2002 Report.pdf,pdf,SUCCESS
 951,106,q-saes-2022.pdf,pdf,SUCCESS
-952,106,q-saes-2022.pdf,pdf,SUCCESS
 953,106,saes-2022-manual.pdf,pdf,SUCCESS
-954,106,saes-2022-manual.pdf,pdf,SUCCESS
 955,107,q-tus-2010.pdf,pdf,SUCCESS
-956,107,q-tus-2010.pdf,pdf,SUCCESS
 957,107,tus-2010-report.pdf,pdf,SUCCESS
-958,107,tus-2010-report.pdf,pdf,SUCCESS
 959,107,tus-2010-metadata.pdf,pdf,SUCCESS
-960,107,tus-2010-metadata.pdf,pdf,SUCCESS
 961,108,slftms-2010-2013-manual.pdf,pdf,SUCCESS
-962,108,slftms-2010-2013-manual.pdf,pdf,SUCCESS
 963,109,IDASA National Election Survey 1994 Codebook.pdf,pdf,SUCCESS
-964,109,IDASA National Election Survey 1994 Codebook.pdf,pdf,SUCCESS
 965,109,IDASA National Election Survey 1994 Variables.pdf,pdf,SUCCESS
-966,109,IDASA National Election Survey 1994 Variables.pdf,pdf,SUCCESS
 967,110,q-sarb-2019-r16.pdf,pdf,SUCCESS
-968,110,q-sarb-2019-r16.pdf,pdf,SUCCESS
 969,110,sarb-2019-r16-report.pdf,pdf,SUCCESS
-970,110,sarb-2019-r16-report.pdf,pdf,SUCCESS
 971,111,LFS 2002_September Questionnaire.pdf,pdf,SUCCESS
-972,111,LFS 2002_September Questionnaire.pdf,pdf,SUCCESS
 973,111,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-974,111,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 975,111,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-976,111,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 977,111,LFS 2002_September Release.pdf,pdf,SUCCESS
-978,111,LFS 2002_September Release.pdf,pdf,SUCCESS
 979,111,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-980,111,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 981,111,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-982,111,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 983,111,LFS 2002_September Readme.pdf,pdf,SUCCESS
-984,111,LFS 2002_September Readme.pdf,pdf,SUCCESS
 985,111,LFS 2002_September Industry Codelist.pdf,pdf,SUCCESS
-986,111,LFS 2002_September Industry Codelist.pdf,pdf,SUCCESS
 987,111,LFS 2002_September Occupation Codelist.pdf,pdf,SUCCESS
-988,111,LFS 2002_September Occupation Codelist.pdf,pdf,SUCCESS
 989,111,LFS 2002_September Metadata.pdf,pdf,SUCCESS
-990,111,LFS 2002_September Metadata.pdf,pdf,SUCCESS
 991,112,ghs-2023-release.pdf,pdf,SUCCESS
-992,112,ghs-2023-release.pdf,pdf,SUCCESS
 993,112,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
-994,112,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
 995,112,q-ghs-2023-capi.pdf,pdf,SUCCESS
-996,112,q-ghs-2023-capi.pdf,pdf,SUCCESS
 997,112,ghs-2023-metadata.pdf,pdf,SUCCESS
-998,112,ghs-2023-metadata.pdf,pdf,SUCCESS
 999,113,q-ghs-2022-capi.pdf,pdf,SUCCESS
-1000,113,q-ghs-2022-capi.pdf,pdf,SUCCESS
 1001,113,ghs-2022-release.pdf,pdf,SUCCESS
-1002,113,ghs-2022-release.pdf,pdf,SUCCESS
 1003,113,ghs-2022-metadata.pdf,pdf,SUCCESS
-1004,113,ghs-2022-metadata.pdf,pdf,SUCCESS
 1005,113,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
-1006,113,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
 1007,114,Q_HBMS 2005 v1.6.pdf,pdf,SUCCESS
-1008,114,Q_HBMS 2005 v1.6.pdf,pdf,SUCCESS
 1009,114,hbms report 2005.pdf,pdf,SUCCESS
-1010,114,hbms report 2005.pdf,pdf,SUCCESS
 1011,115,q-nhts-2003.pdf,pdf,SUCCESS
-1012,115,q-nhts-2003.pdf,pdf,SUCCESS
 1013,115,nhts-2003-key-results.pdf,pdf,SUCCESS
-1014,115,nhts-2003-key-results.pdf,pdf,SUCCESS
 1015,115,nhts-2003-keynote.pdf,pdf,SUCCESS
-1016,115,nhts-2003-keynote.pdf,pdf,SUCCESS
 1017,115,nhst-2003-metadata.pdf,pdf,SUCCESS
-1018,115,nhst-2003-metadata.pdf,pdf,SUCCESS
 1019,115,nhts-2003-technical-report.pdf,pdf,SUCCESS
-1020,115,nhts-2003-technical-report.pdf,pdf,SUCCESS
 1021,115,nhts-2003-industry-codes.pdf,pdf,SUCCESS
-1022,115,nhts-2003-industry-codes.pdf,pdf,SUCCESS
 1023,115,nhts-2003-occupation-codes.pdf,pdf,SUCCESS
-1024,115,nhts-2003-occupation-codes.pdf,pdf,SUCCESS
 1025,115,nhts-2003-transport-problem-codes.pdf,pdf,SUCCESS
-1026,115,nhts-2003-transport-problem-codes.pdf,pdf,SUCCESS
 1027,116,sarb-2023-r18-report.pdf,pdf,SUCCESS
-1028,116,sarb-2023-r18-report.pdf,pdf,SUCCESS
 1029,117,HSRC Omnibus Survey 1995_1 Codebook.pdf,pdf,SUCCESS
-1030,117,HSRC Omnibus Survey 1995_1 Codebook.pdf,pdf,SUCCESS
 1031,118,Q_OHS 1994_ssa_v2.pdf,pdf,SUCCESS
-1032,118,Q_OHS 1994_ssa_v2.pdf,pdf,SUCCESS
 1033,118,OHS 1994 Codes.pdf,pdf,SUCCESS
-1034,118,OHS 1994 Codes.pdf,pdf,SUCCESS
 1035,118,2008-ohs-1994-wittenberg.pdf,pdf,SUCCESS
-1036,118,2008-ohs-1994-wittenberg.pdf,pdf,SUCCESS
 1037,118,1994-code-list-areas.pdf,pdf,SUCCESS
-1038,118,1994-code-list-areas.pdf,pdf,SUCCESS
 1039,119,q-ghs-2019.pdf,pdf,SUCCESS
-1040,119,q-ghs-2019.pdf,pdf,SUCCESS
 1041,119,ghs-2019-release.pdf,pdf,SUCCESS
-1042,119,ghs-2019-release.pdf,pdf,SUCCESS
 1043,119,ghs-2019-metadata.pdf,pdf,SUCCESS
-1044,119,ghs-2019-metadata.pdf,pdf,SUCCESS
 1045,119,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
-1046,119,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
 1047,120,Q_GHS 2011.pdf,pdf,SUCCESS
-1048,120,Q_GHS 2011.pdf,pdf,SUCCESS
 1049,120,GHS 2011 Release.pdf,pdf,SUCCESS
-1050,120,GHS 2011 Release.pdf,pdf,SUCCESS
 1051,120,GHS 2011 Metadata.pdf,pdf,SUCCESS
-1052,120,GHS 2011 Metadata.pdf,pdf,SUCCESS
 1053,121,elom-tb5i-2016-2023-codebook.xlsx,xlsx,SUCCESS
-1054,121,elom-tb5i-2016-2023-codebook.xlsx,xlsx,SUCCESS
 1055,121,elom-tb5i-2016-2023-data-dict.xlsx,xlsx,SUCCESS
-1056,121,elom-tb5i-2016-2023-data-dict.xlsx,xlsx,SUCCESS
 1057,122,q-ssoa-1991-1994-eng-sotho-zulu.pdf,pdf,SUCCESS
-1058,122,q-ssoa-1991-1994-eng-sotho-zulu.pdf,pdf,SUCCESS
 1059,122,ssoa-1991-1994-codebook-20171128.pdf,pdf,SUCCESS
-1060,122,ssoa-1991-1994-codebook-20171128.pdf,pdf,SUCCESS
 1061,122,ssoa-1991-1994-enumerators-manual.pdf,pdf,SUCCESS
-1062,122,ssoa-1991-1994-enumerators-manual.pdf,pdf,SUCCESS
 1063,122,ssoa-1991-1994-rural-sample.pdf,pdf,SUCCESS
-1064,122,ssoa-1991-1994-rural-sample.pdf,pdf,SUCCESS
 1065,122,ssoa-1991-1994-sampling.pdf,pdf,SUCCESS
-1066,122,ssoa-1991-1994-sampling.pdf,pdf,SUCCESS
 1067,122,ssoa-1991-1994-survey-design.pdf,pdf,SUCCESS
-1068,122,ssoa-1991-1994-survey-design.pdf,pdf,SUCCESS
 1069,122,ssoa-1991-1994-codes-20171128.pdf,pdf,SUCCESS
-1070,122,ssoa-1991-1994-codes-20171128.pdf,pdf,SUCCESS
 1071,122,ssoa-1991-1994-md-codes.pdf,pdf,SUCCESS
-1072,122,ssoa-1991-1994-md-codes.pdf,pdf,SUCCESS
 1073,123,Q_GHS 2010.pdf,pdf,SUCCESS
-1074,123,Q_GHS 2010.pdf,pdf,SUCCESS
 1075,123,GHS 2010 Metadata.pdf,pdf,SUCCESS
-1076,123,GHS 2010 Metadata.pdf,pdf,SUCCESS
 1077,123,GHS 2002-2008 Reweighting_20110921.pdf,pdf,SUCCESS
-1078,123,GHS 2002-2008 Reweighting_20110921.pdf,pdf,SUCCESS
 1079,123,GHS 2010 Release (Revised version).pdf,pdf,SUCCESS
-1080,123,GHS 2010 Release (Revised version).pdf,pdf,SUCCESS
 1081,123,ghs-2009-2010-q129a-care-question.pdf,pdf,SUCCESS
-1082,123,ghs-2009-2010-q129a-care-question.pdf,pdf,SUCCESS
 1083,124,Q_GHS 2013.pdf,pdf,SUCCESS
-1084,124,Q_GHS 2013.pdf,pdf,SUCCESS
 1085,124,GHS 2013 Release.pdf,pdf,SUCCESS
-1086,124,GHS 2013 Release.pdf,pdf,SUCCESS
 1087,124,GHS 2013 Metadata.pdf,pdf,SUCCESS
-1088,124,GHS 2013 Metadata.pdf,pdf,SUCCESS
 1089,124,GHS 2013 Industry Codes.pdf,pdf,SUCCESS
-1090,124,GHS 2013 Industry Codes.pdf,pdf,SUCCESS
 1091,124,GHS 2013 Occupation Codes.pdf,pdf,SUCCESS
-1092,124,GHS 2013 Occupation Codes.pdf,pdf,SUCCESS
 1093,125,Q_GHS 2012.pdf,pdf,SUCCESS
-1094,125,Q_GHS 2012.pdf,pdf,SUCCESS
 1095,125,GHS 2012 Release.pdf,pdf,SUCCESS
-1096,125,GHS 2012 Release.pdf,pdf,SUCCESS
 1097,125,GHS 2012 Metadata.pdf,pdf,SUCCESS
-1098,125,GHS 2012 Metadata.pdf,pdf,SUCCESS
 1099,126,documentation_639.pdf,pdf,FAILED_HTTP_500
 1100,126,no_files,,FAILED_LOGIN_REQUIRED
 1101,127,q-mscma-1998.pdf,pdf,SUCCESS
-1102,127,q-mscma-1998.pdf,pdf,SUCCESS
 1103,127,mscma-1998-report.pdf,pdf,SUCCESS
-1104,127,mscma-1998-report.pdf,pdf,SUCCESS
 1105,128,Q_NVCS 2003.pdf,pdf,SUCCESS
-1106,128,Q_NVCS 2003.pdf,pdf,SUCCESS
 1107,128,National Victims of Crime Survey 2003.pdf,pdf,SUCCESS
-1108,128,National Victims of Crime Survey 2003.pdf,pdf,SUCCESS
 1109,129,GHS 2018 Questionnaire.pdf,pdf,SUCCESS
-1110,129,GHS 2018 Questionnaire.pdf,pdf,SUCCESS
 1111,129,GHS 2018 Release.pdf,pdf,SUCCESS
-1112,129,GHS 2018 Release.pdf,pdf,SUCCESS
 1113,129,GHS 2018 Metadata.pdf,pdf,SUCCESS
-1114,129,GHS 2018 Metadata.pdf,pdf,SUCCESS
 1115,130,q-ghs-2016.pdf,pdf,SUCCESS
-1116,130,q-ghs-2016.pdf,pdf,SUCCESS
 1117,130,ghs-2016-release.pdf,pdf,SUCCESS
-1118,130,ghs-2016-release.pdf,pdf,SUCCESS
 1119,130,ghs-2016-metadata-house.pdf,pdf,SUCCESS
-1120,130,ghs-2016-metadata-house.pdf,pdf,SUCCESS
 1121,130,ghs-2016-metadata-person.pdf,pdf,SUCCESS
-1122,130,ghs-2016-metadata-person.pdf,pdf,SUCCESS
 1123,131,q-ghs-2015.pdf,pdf,SUCCESS
-1124,131,q-ghs-2015.pdf,pdf,SUCCESS
 1125,131,ghs-2015-release.pdf,pdf,SUCCESS
-1126,131,ghs-2015-release.pdf,pdf,SUCCESS
 1127,131,ghs-2015-metadata.pdf,pdf,SUCCESS
-1128,131,ghs-2015-metadata.pdf,pdf,SUCCESS
 1129,131,ghs-2015-industry-codes.pdf,pdf,SUCCESS
-1130,131,ghs-2015-industry-codes.pdf,pdf,SUCCESS
 1131,131,ghs-2015-occupation-codes.pdf,pdf,SUCCESS
-1132,131,ghs-2015-occupation-codes.pdf,pdf,SUCCESS
 1133,132,Q_GHS 2014.pdf,pdf,SUCCESS
-1134,132,Q_GHS 2014.pdf,pdf,SUCCESS
 1135,132,GHS 2014 Release.pdf,pdf,SUCCESS
-1136,132,GHS 2014 Release.pdf,pdf,SUCCESS
 1137,132,GHS 2014 Metadata.pdf,pdf,SUCCESS
-1138,132,GHS 2014 Metadata.pdf,pdf,SUCCESS
 1139,132,GHS 2014 Industry Codes.pdf,pdf,SUCCESS
-1140,132,GHS 2014 Industry Codes.pdf,pdf,SUCCESS
 1141,132,GHS 2014 Occupation Codes.pdf,pdf,SUCCESS
-1142,132,GHS 2014 Occupation Codes.pdf,pdf,SUCCESS
 1143,133,zgp-1993-codebook.pdf,pdf,SUCCESS
-1144,133,zgp-1993-codebook.pdf,pdf,SUCCESS
 1145,133,zgp-1996-codebook.pdf,pdf,SUCCESS
-1146,133,zgp-1996-codebook.pdf,pdf,SUCCESS
 1147,134,q-gseps-w2-2013-2014-hh-a.pdf,pdf,SUCCESS
-1148,134,q-gseps-w2-2013-2014-hh-a.pdf,pdf,SUCCESS
 1149,134,q-gseps-w2-2013-2014-hh-b.pdf,pdf,SUCCESS
-1150,134,q-gseps-w2-2013-2014-hh-b.pdf,pdf,SUCCESS
 1151,134,gseps-w2-2013-2014-report.pdf,pdf,SUCCESS
-1152,134,gseps-w2-2013-2014-report.pdf,pdf,SUCCESS
 1153,135,GHS 2017 Questionnaire.pdf,pdf,SUCCESS
-1154,135,GHS 2017 Questionnaire.pdf,pdf,SUCCESS
 1155,135,GHS 2017 Release.pdf,pdf,SUCCESS
-1156,135,GHS 2017 Release.pdf,pdf,SUCCESS
 1157,135,GHS 2017 Metadata.pdf,pdf,SUCCESS
-1158,135,GHS 2017 Metadata.pdf,pdf,SUCCESS
 1159,136,Q_GHS 2009.pdf,pdf,SUCCESS
-1160,136,Q_GHS 2009.pdf,pdf,SUCCESS
 1161,136,GHS 2009 Release.pdf,pdf,SUCCESS
-1162,136,GHS 2009 Release.pdf,pdf,SUCCESS
 1163,136,GHS 2009 Metadata_v1.1_20111005.pdf,pdf,SUCCESS
-1164,136,GHS 2009 Metadata_v1.1_20111005.pdf,pdf,SUCCESS
 1165,136,GHS 2002-2008 Reweighting_20110921.pdf,pdf,SUCCESS
-1166,136,GHS 2002-2008 Reweighting_20110921.pdf,pdf,SUCCESS
 1167,136,ghs-2009-2010-q129a-care-question.pdf,pdf,SUCCESS
-1168,136,ghs-2009-2010-q129a-care-question.pdf,pdf,SUCCESS
 1169,137,asenze-scales-measures.zip,zip,SUCCESS
-1170,137,asenze-scales-measures.zip,zip,SUCCESS
 1171,137,asenze-questionnaires.zip,zip,SUCCESS
-1172,137,asenze-questionnaires.zip,zip,SUCCESS
 1173,137,asenze-2008-2012-w1-2-data-dict.xlsx,xlsx,SUCCESS
-1174,137,asenze-2008-2012-w1-2-data-dict.xlsx,xlsx,SUCCESS
 1175,138,q-sjsa-1998.pdf,pdf,SUCCESS
-1176,138,q-sjsa-1998.pdf,pdf,SUCCESS
 1177,138,sjsa-1998-report.pdf,pdf,SUCCESS
-1178,138,sjsa-1998-report.pdf,pdf,SUCCESS
 1179,139,IDASA Poilitical Culture Study 1997 Codebook.pdf,pdf,SUCCESS
-1180,139,IDASA Poilitical Culture Study 1997 Codebook.pdf,pdf,SUCCESS
 1181,140,Q_FSHIS 2001-2004 W1.pdf,pdf,SUCCESS
-1182,140,Q_FSHIS 2001-2004 W1.pdf,pdf,SUCCESS
 1183,140,Q_FSHIS 2001-2004 W2.pdf,pdf,SUCCESS
-1184,140,Q_FSHIS 2001-2004 W2.pdf,pdf,SUCCESS
 1185,140,Q_FSHIS 2001-2004 W3.pdf,pdf,SUCCESS
-1186,140,Q_FSHIS 2001-2004 W3.pdf,pdf,SUCCESS
 1187,140,Q_FSHIS 2001-2004 W4.pdf,pdf,SUCCESS
-1188,140,Q_FSHIS 2001-2004 W4.pdf,pdf,SUCCESS
 1189,140,Q_FSHIS 2001-2004 W5.pdf,pdf,SUCCESS
-1190,140,Q_FSHIS 2001-2004 W5.pdf,pdf,SUCCESS
 1191,140,Q_FSHIS 2001-2004 W6.pdf,pdf,SUCCESS
-1192,140,Q_FSHIS 2001-2004 W6.pdf,pdf,SUCCESS
 1193,140,FSHIS 2001-2004 Agreement.pdf,pdf,SUCCESS
-1194,140,FSHIS 2001-2004 Agreement.pdf,pdf,SUCCESS
 1195,140,FSHIS 2001-2004 Attrition.pdf,pdf,SUCCESS
-1196,140,FSHIS 2001-2004 Attrition.pdf,pdf,SUCCESS
 1197,140,FSHIS 2001-2004 Background.pdf,pdf,SUCCESS
-1198,140,FSHIS 2001-2004 Background.pdf,pdf,SUCCESS
 1199,140,FSHIS 2001-2004 Changes.pdf,pdf,SUCCESS
-1200,140,FSHIS 2001-2004 Changes.pdf,pdf,SUCCESS
 1201,140,FSHIS 2001-2004 Code List.pdf,pdf,SUCCESS
-1202,140,FSHIS 2001-2004 Code List.pdf,pdf,SUCCESS
 1203,140,FSHIS 2001-2004 Report.pdf,pdf,SUCCESS
-1204,140,FSHIS 2001-2004 Report.pdf,pdf,SUCCESS
 1205,141,elom-2018-insights.pdf,pdf,SUCCESS
-1206,141,elom-2018-insights.pdf,pdf,SUCCESS
 1207,141,2020-elom-manual.pdf,pdf,SUCCESS
-1208,141,2020-elom-manual.pdf,pdf,SUCCESS
 1209,141,elom-2018-master.xlsx,xlsx,SUCCESS
-1210,141,elom-2018-master.xlsx,xlsx,SUCCESS
 1211,142,q-vcs-2013-14.pdf,pdf,SUCCESS
-1212,142,q-vcs-2013-14.pdf,pdf,SUCCESS
 1213,142,vcs-2013-14-release.pdf,pdf,SUCCESS
-1214,142,vcs-2013-14-release.pdf,pdf,SUCCESS
 1215,142,vcs-2013-14-metadata.pdf,pdf,SUCCESS
-1216,142,vcs-2013-14-metadata.pdf,pdf,SUCCESS
 1217,143,Q_IES 2000.pdf,pdf,SUCCESS
-1218,143,Q_IES 2000.pdf,pdf,SUCCESS
 1219,143,IES 2000 Metadata.pdf,pdf,SUCCESS
-1220,143,IES 2000 Metadata.pdf,pdf,SUCCESS
 1221,143,IES 2000 Eastern Cape.pdf,pdf,SUCCESS
-1222,143,IES 2000 Eastern Cape.pdf,pdf,SUCCESS
 1223,143,IES 2000 Gauteng.pdf,pdf,SUCCESS
-1224,143,IES 2000 Gauteng.pdf,pdf,SUCCESS
 1225,143,IES 2000 Free State.pdf,pdf,SUCCESS
-1226,143,IES 2000 Free State.pdf,pdf,SUCCESS
 1227,143,IES 2000 Kwazulu-Natal.pdf,pdf,SUCCESS
-1228,143,IES 2000 Kwazulu-Natal.pdf,pdf,SUCCESS
 1229,143,IES 2000 Limpopo.pdf,pdf,SUCCESS
-1230,143,IES 2000 Limpopo.pdf,pdf,SUCCESS
 1231,143,IES 2000 Mpumalanga.pdf,pdf,SUCCESS
-1232,143,IES 2000 Mpumalanga.pdf,pdf,SUCCESS
 1233,143,IES 2000 Northern Cape.pdf,pdf,SUCCESS
-1234,143,IES 2000 Northern Cape.pdf,pdf,SUCCESS
 1235,143,IES 2000 North West.pdf,pdf,SUCCESS
-1236,143,IES 2000 North West.pdf,pdf,SUCCESS
 1237,143,IES 2000 South Africa.pdf,pdf,SUCCESS
-1238,143,IES 2000 South Africa.pdf,pdf,SUCCESS
 1239,143,IES 2000 Western Cape.pdf,pdf,SUCCESS
-1240,143,IES 2000 Western Cape.pdf,pdf,SUCCESS
 1241,143,IES 2000 Industry Codes.pdf,pdf,SUCCESS
-1242,143,IES 2000 Industry Codes.pdf,pdf,SUCCESS
 1243,143,IES 2000 Occupation Codes.pdf,pdf,SUCCESS
-1244,143,IES 2000 Occupation Codes.pdf,pdf,SUCCESS
 1245,143,ies-2000-isco-88.pdf,pdf,SUCCESS
-1246,143,ies-2000-isco-88.pdf,pdf,SUCCESS
 1247,144,IES_HSRC_1990_doc.pdf,pdf,SUCCESS
-1248,144,IES_HSRC_1990_doc.pdf,pdf,SUCCESS
 1249,145,q-pslsd-1993-community.pdf,pdf,SUCCESS
-1250,145,q-pslsd-1993-community.pdf,pdf,SUCCESS
 1251,145,q-pslsd-1993-hhold.pdf,pdf,SUCCESS
-1252,145,q-pslsd-1993-hhold.pdf,pdf,SUCCESS
 1253,145,q-pslsd-1993-literacy.pdf,pdf,SUCCESS
-1254,145,q-pslsd-1993-literacy.pdf,pdf,SUCCESS
 1255,146,q-hcp-nrb-2016-hh.pdf,pdf,SUCCESS
-1256,146,q-hcp-nrb-2016-hh.pdf,pdf,SUCCESS
 1257,146,q-hcp-nrb-2019-vendor.pdf,pdf,SUCCESS
-1258,146,q-hcp-nrb-2019-vendor.pdf,pdf,SUCCESS
 1259,146,hcp-nrb-2016-hh-report.pdf,pdf,SUCCESS
-1260,146,hcp-nrb-2016-hh-report.pdf,pdf,SUCCESS
 1261,146,hcp-nrb-2016-hh-sampling-report-1.pdf,pdf,SUCCESS
-1262,146,hcp-nrb-2016-hh-sampling-report-1.pdf,pdf,SUCCESS
 1263,146,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
-1264,146,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
 1265,146,hcp-nrb-2016-hh-sampling-report-2.pdf,pdf,SUCCESS
-1266,146,hcp-nrb-2016-hh-sampling-report-2.pdf,pdf,SUCCESS
 1267,146,hcp-nrb-2019-vendor-sampling-report.pdf,pdf,SUCCESS
-1268,146,hcp-nrb-2019-vendor-sampling-report.pdf,pdf,SUCCESS
 1269,147,egrs-1-2015-2021-instruments.zip,zip,SUCCESS
-1270,147,egrs-1-2015-2021-instruments.zip,zip,SUCCESS
 1271,147,egrs-1-2015-2021-reports.zip,zip,SUCCESS
-1272,147,egrs-1-2015-2021-reports.zip,zip,SUCCESS
 1273,147,egrs-1-2015-2021-user-guide.pdf,pdf,SUCCESS
-1274,147,egrs-1-2015-2021-user-guide.pdf,pdf,SUCCESS
 1275,148,documentation_1020.pdf,pdf,FAILED_HTTP_500
 1276,148,no_files,,FAILED_LOGIN_REQUIRED
 1277,149,q-hcp-whk-2016-hh.pdf,pdf,SUCCESS
-1278,149,q-hcp-whk-2016-hh.pdf,pdf,SUCCESS
 1279,149,q-hcp-whk-2019-vendor.pdf,pdf,SUCCESS
-1280,149,q-hcp-whk-2019-vendor.pdf,pdf,SUCCESS
 1281,149,hcp-whk-2016-2019-methodology.pdf,pdf,SUCCESS
-1282,149,hcp-whk-2016-2019-methodology.pdf,pdf,SUCCESS
 1283,149,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
-1284,149,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
 1285,150,TIMSS 1999 User Guide Supplement 1.pdf,pdf,SUCCESS
-1286,150,TIMSS 1999 User Guide Supplement 1.pdf,pdf,SUCCESS
 1287,150,TIMSS 1999 User Guide Supplement 2.pdf,pdf,SUCCESS
-1288,150,TIMSS 1999 User Guide Supplement 2.pdf,pdf,SUCCESS
 1289,150,TIMSS 1999 User Guide Supplement 3.pdf,pdf,SUCCESS
-1290,150,TIMSS 1999 User Guide Supplement 3.pdf,pdf,SUCCESS
 1291,150,TIMSS 1999 User Guide.pdf,pdf,SUCCESS
-1292,150,TIMSS 1999 User Guide.pdf,pdf,SUCCESS
 1293,151,q-rias-2017-2018.pdf,pdf,SUCCESS
-1294,151,q-rias-2017-2018.pdf,pdf,SUCCESS
 1295,151,q-rias-2017-2018-businesses.pdf,pdf,SUCCESS
-1296,151,q-rias-2017-2018-businesses.pdf,pdf,SUCCESS
 1297,151,rias-2017-2018-experience.pdf,pdf,SUCCESS
-1298,151,rias-2017-2018-experience.pdf,pdf,SUCCESS
 1299,151,rias-2017-2018-training-manual.pdf,pdf,SUCCESS
-1300,151,rias-2017-2018-training-manual.pdf,pdf,SUCCESS
 1301,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 1.pdf,pdf,SUCCESS
-1302,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 1.pdf,pdf,SUCCESS
 1303,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 2.pdf,pdf,SUCCESS
-1304,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 2.pdf,pdf,SUCCESS
 1305,152,TIMSS 1995 - Pop 3 - International Version of the Background Questionnaires Supplement 1.pdf,pdf,SUCCESS
-1306,152,TIMSS 1995 - Pop 3 - International Version of the Background Questionnaires Supplement 1.pdf,pdf,SUCCESS
 1307,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 3.pdf,pdf,SUCCESS
-1308,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 3.pdf,pdf,SUCCESS
 1309,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 4.pdf,pdf,SUCCESS
-1310,152,TIMSS 1995 - Pop 1 & 2 - International Version of the Background Questionnaires Supplement 4.pdf,pdf,SUCCESS
 1311,152,TIMSS 1995 - Pop 3 - International Version of the Background Questionnaires Supplement 2.pdf,pdf,SUCCESS
-1312,152,TIMSS 1995 - Pop 3 - International Version of the Background Questionnaires Supplement 2.pdf,pdf,SUCCESS
 1313,152,TIMSS 1995 - Pop 3 - International Version of the Background Questionnaires Supplement 3.pdf,pdf,SUCCESS
-1314,152,TIMSS 1995 - Pop 3 - International Version of the Background Questionnaires Supplement 3.pdf,pdf,SUCCESS
 1315,152,TIMSS 1995 - Pop 3 - User Guide for the TIMSS International Database.pdf,pdf,SUCCESS
-1316,152,TIMSS 1995 - Pop 3 - User Guide for the TIMSS International Database.pdf,pdf,SUCCESS
 1317,152,TIMSS 1995 - Pop 1 & 2 - User Guide for the TIMSS International Database.pdf,pdf,SUCCESS
-1318,152,TIMSS 1995 - Pop 1 & 2 - User Guide for the TIMSS International Database.pdf,pdf,SUCCESS
 1319,153,Q1_SASAS 2003.pdf,pdf,SUCCESS
-1320,153,Q1_SASAS 2003.pdf,pdf,SUCCESS
 1321,153,Q2_SASAS 2003.pdf,pdf,SUCCESS
-1322,153,Q2_SASAS 2003.pdf,pdf,SUCCESS
 1323,153,SA Social Attitudes Survey Report1 2006.pdf,pdf,SUCCESS
-1324,153,SA Social Attitudes Survey Report1 2006.pdf,pdf,SUCCESS
 1325,153,SASAS 2003 Combined Codebook.pdf,pdf,SUCCESS
-1326,153,SASAS 2003 Combined Codebook.pdf,pdf,SUCCESS
 1327,153,SASAS 2003 Fieldwork Manual.pdf,pdf,SUCCESS
-1328,153,SASAS 2003 Fieldwork Manual.pdf,pdf,SUCCESS
 1329,153,SASAS 2003 Study Information.pdf,pdf,SUCCESS
-1330,153,SASAS 2003 Study Information.pdf,pdf,SUCCESS
 1331,153,SASAS 2003 User Guide.pdf,pdf,SUCCESS
-1332,153,SASAS 2003 User Guide.pdf,pdf,SUCCESS
 1333,154,Zambia Finscope 2015 Questionnaire.pdf,pdf,SUCCESS
-1334,154,Zambia Finscope 2015 Questionnaire.pdf,pdf,SUCCESS
 1335,154,Zambia Finscope 2015 Final Report.pdf,pdf,SUCCESS
-1336,154,Zambia Finscope 2015 Final Report.pdf,pdf,SUCCESS
 1337,154,Zambia Finscope 2015 Mini Report.pdf,pdf,SUCCESS
-1338,154,Zambia Finscope 2015 Mini Report.pdf,pdf,SUCCESS
 1339,154,Zambian Finscope 2005-2015 User Guide.pdf,pdf,SUCCESS
-1340,154,Zambian Finscope 2005-2015 User Guide.pdf,pdf,SUCCESS
 1341,155,q-rias-2005-2008.pdf,pdf,SUCCESS
-1342,155,q-rias-2005-2008.pdf,pdf,SUCCESS
 1343,155,rias-2005-2008-methodology.pdf,pdf,SUCCESS
-1344,155,rias-2005-2008-methodology.pdf,pdf,SUCCESS
 1345,156,q-hcp-hh-master.pdf,pdf,SUCCESS
-1346,156,q-hcp-hh-master.pdf,pdf,SUCCESS
 1347,156,q-hcp-mpt-2017-vendor.pdf,pdf,SUCCESS
-1348,156,q-hcp-mpt-2017-vendor.pdf,pdf,SUCCESS
 1349,156,hcp-mpt-2014-hh-report.pdf,pdf,SUCCESS
-1350,156,hcp-mpt-2014-hh-report.pdf,pdf,SUCCESS
 1351,156,hcp-mpt-2014-hh-sampling-report.pdf,pdf,SUCCESS
-1352,156,hcp-mpt-2014-hh-sampling-report.pdf,pdf,SUCCESS
 1353,156,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
-1354,156,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
 1355,157,q-hcp-cpt-2017-vendor.pdf,pdf,SUCCESS
-1356,157,q-hcp-cpt-2017-vendor.pdf,pdf,SUCCESS
 1357,157,q-hcp-cpt-2013-hh.pdf,pdf,SUCCESS
-1358,157,q-hcp-cpt-2013-hh.pdf,pdf,SUCCESS
 1359,157,hcp-cpt-2013-hh-sampling.pdf,pdf,SUCCESS
-1360,157,hcp-cpt-2013-hh-sampling.pdf,pdf,SUCCESS
 1361,157,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
-1362,157,hcp-2013-2019-food-lists.xlsx,xlsx,SUCCESS
 1363,158,q-gcro-qols-2017-2018.pdf,pdf,SUCCESS
-1364,158,q-gcro-qols-2017-2018.pdf,pdf,SUCCESS
 1365,158,gcro-qols-2017-2018-field-report.pdf,pdf,SUCCESS
-1366,158,gcro-qols-2017-2018-field-report.pdf,pdf,SUCCESS
 1367,158,gcro-qols-2017-2018-report.pdf,pdf,SUCCESS
-1368,158,gcro-qols-2017-2018-report.pdf,pdf,SUCCESS
 1369,159,hiva40-2010-2019-instruments.zip,zip,SUCCESS
-1370,159,hiva40-2010-2019-instruments.zip,zip,SUCCESS
 1371,159,ahdss-hanakekela-hiv-hyp-codebook.pdf,pdf,SUCCESS
-1372,159,ahdss-hanakekela-hiv-hyp-codebook.pdf,pdf,SUCCESS
 1373,159,hivafter40-twin-epidemics-hiv-hyp-codebook.pdf,pdf,SUCCESS
-1374,159,hivafter40-twin-epidemics-hiv-hyp-codebook.pdf,pdf,SUCCESS
 1375,159,hiva40-2010-2019-project.pdf,pdf,SUCCESS
-1376,159,hiva40-2010-2019-project.pdf,pdf,SUCCESS
 1377,159,hiva40-2010-2019-dofiles.zip,zip,SUCCESS
-1378,159,hiva40-2010-2019-dofiles.zip,zip,SUCCESS
 1379,160,Q_DSD Survey 2006_baseline 130706.pdf,pdf,SUCCESS
-1380,160,Q_DSD Survey 2006_baseline 130706.pdf,pdf,SUCCESS
 1381,160,Q_DSD Survey 2008_measurement.pdf,pdf,SUCCESS
-1382,160,Q_DSD Survey 2008_measurement.pdf,pdf,SUCCESS
 1383,160,DSD Nodal Survey Overview.pdf,pdf,SUCCESS
-1384,160,DSD Nodal Survey Overview.pdf,pdf,SUCCESS
 1385,161,q-gcro-qols-2011-28072011-V1.8.pdf,pdf,SUCCESS
-1386,161,q-gcro-qols-2011-28072011-V1.8.pdf,pdf,SUCCESS
 1387,161,gcro-qols-2011-data-report.pdf,pdf,SUCCESS
-1388,161,gcro-qols-2011-data-report.pdf,pdf,SUCCESS
 1389,161,gcro-qols-2011-field-report.pdf,pdf,SUCCESS
-1390,161,gcro-qols-2011-field-report.pdf,pdf,SUCCESS
 1391,161,gcro-qols-2011-mmq-recodes.pdf,pdf,SUCCESS
-1392,161,gcro-qols-2011-mmq-recodes.pdf,pdf,SUCCESS
 1393,161,gcro-qols-2011-place-names.pdf,pdf,SUCCESS
-1394,161,gcro-qols-2011-place-names.pdf,pdf,SUCCESS
 1395,161,gcro-qols-2011-weighting.pdf,pdf,SUCCESS
-1396,161,gcro-qols-2011-weighting.pdf,pdf,SUCCESS
 1397,162,q-idsa-1998.pdf,pdf,SUCCESS
-1398,162,q-idsa-1998.pdf,pdf,SUCCESS
 1399,162,idsa-1998-report.pdf,pdf,SUCCESS
-1400,162,idsa-1998-report.pdf,pdf,SUCCESS
 1401,163,q-afr12-1999-2001.zip,zip,SUCCESS
-1402,163,q-afr12-1999-2001.zip,zip,SUCCESS
 1403,163,afr12-1999-2001-codebooks.zip,zip,SUCCESS
-1404,163,afr12-1999-2001-codebooks.zip,zip,SUCCESS
 1405,163,afr-1999-2006-survey-dates.pdf,pdf,SUCCESS
-1406,163,afr-1999-2006-survey-dates.pdf,pdf,SUCCESS
 1407,164,rscaoersa-2016-description.pdf,pdf,SUCCESS
-1408,164,rscaoersa-2016-description.pdf,pdf,SUCCESS
 1409,164,rscaoersa-2016-variable-description-students-blended.pdf,pdf,SUCCESS
-1410,164,rscaoersa-2016-variable-description-students-blended.pdf,pdf,SUCCESS
 1411,164,rscaoersa-2016-variable-description-students-contact.pdf,pdf,SUCCESS
-1412,164,rscaoersa-2016-variable-description-students-contact.pdf,pdf,SUCCESS
 1413,165,q-qlfs-2022-q2-capi.pdf,pdf,SUCCESS
-1414,165,q-qlfs-2022-q2-capi.pdf,pdf,SUCCESS
 1415,165,qlfs-2022-q2-release.pdf,pdf,SUCCESS
-1416,165,qlfs-2022-q2-release.pdf,pdf,SUCCESS
 1417,165,qlfs-2022-q2-metadata.pdf,pdf,SUCCESS
-1418,165,qlfs-2022-q2-metadata.pdf,pdf,SUCCESS
 1419,165,qlfs-2022-q2-guide.pdf,pdf,SUCCESS
-1420,165,qlfs-2022-q2-guide.pdf,pdf,SUCCESS
 1421,165,qlfs-2022-q2-concepts-and-definitions.pdf,pdf,SUCCESS
-1422,165,qlfs-2022-q2-concepts-and-definitions.pdf,pdf,SUCCESS
 1423,166,q-qlfs-2022-q3-capi.pdf,pdf,SUCCESS
-1424,166,q-qlfs-2022-q3-capi.pdf,pdf,SUCCESS
 1425,166,qlfs-2022-q3-release.pdf,pdf,SUCCESS
-1426,166,qlfs-2022-q3-release.pdf,pdf,SUCCESS
 1427,166,qlfs-2022-q3-metadata.pdf,pdf,SUCCESS
-1428,166,qlfs-2022-q3-metadata.pdf,pdf,SUCCESS
 1429,166,qlfs-2022-q3-guide.pdf,pdf,SUCCESS
-1430,166,qlfs-2022-q3-guide.pdf,pdf,SUCCESS
 1431,166,qlfs-2022-q3-concepts-and-definitions.pdf,pdf,SUCCESS
-1432,166,qlfs-2022-q3-concepts-and-definitions.pdf,pdf,SUCCESS
 1433,167,q-sayp-2019.pdf,pdf,SUCCESS
-1434,167,q-sayp-2019.pdf,pdf,SUCCESS
 1435,167,sayp-2019-release.pdf,pdf,SUCCESS
-1436,167,sayp-2019-release.pdf,pdf,SUCCESS
 1437,167,sayp-2019-metadata.pdf,pdf,SUCCESS
-1438,167,sayp-2019-metadata.pdf,pdf,SUCCESS
 1439,168,q-sayp-2015.pdf,pdf,SUCCESS
-1440,168,q-sayp-2015.pdf,pdf,SUCCESS
 1441,168,sayp-2015-release.pdf,pdf,SUCCESS
-1442,168,sayp-2015-release.pdf,pdf,SUCCESS
 1443,168,sayp-2015-metadata.pdf,pdf,SUCCESS
-1444,168,sayp-2015-metadata.pdf,pdf,SUCCESS
 1445,169,ISS Victim Survey 2007 final with 2003 comparisons.ppt,ppt,SUCCESS
-1446,169,ISS Victim Survey 2007 final with 2003 comparisons.ppt,ppt,SUCCESS
 1447,169,ISS Victim Survey 2007 report.ppt,ppt,SUCCESS
-1448,169,ISS Victim Survey 2007 report.ppt,ppt,SUCCESS
 1449,170,kids-2004-overview.pdf,pdf,SUCCESS
-1450,170,kids-2004-overview.pdf,pdf,SUCCESS
 1451,171,fpoi-2014-2015-interview-instrument.pdf,pdf,SUCCESS
-1452,171,fpoi-2014-2015-interview-instrument.pdf,pdf,SUCCESS
 1453,171,q-fpoi-2014-2015.pdf,pdf,SUCCESS
-1454,171,q-fpoi-2014-2015.pdf,pdf,SUCCESS
 1455,171,fpoi-2014-2015-dataset-description.pdf,pdf,SUCCESS
-1456,171,fpoi-2014-2015-dataset-description.pdf,pdf,SUCCESS
 1457,171,fpoi-2014-2015-de-identification-overview.pdf,pdf,SUCCESS
-1458,171,fpoi-2014-2015-de-identification-overview.pdf,pdf,SUCCESS
 1459,172,census-2022-wards.pdf,pdf,SUCCESS
-1460,172,census-2022-wards.pdf,pdf,SUCCESS
 1461,172,q-census-2022-household.pdf,pdf,SUCCESS
-1462,172,q-census-2022-household.pdf,pdf,SUCCESS
 1463,172,census-2022-pes.pdf,pdf,SUCCESS
-1464,172,census-2022-pes.pdf,pdf,SUCCESS
 1465,172,census-2022-metadata-geography.pdf,pdf,SUCCESS
-1466,172,census-2022-metadata-geography.pdf,pdf,SUCCESS
 1467,172,census-2022-metadata-household.pdf,pdf,SUCCESS
-1468,172,census-2022-metadata-household.pdf,pdf,SUCCESS
 1469,172,census-2022-metadata-person.pdf,pdf,SUCCESS
-1470,172,census-2022-metadata-person.pdf,pdf,SUCCESS
 1471,172,census-2022-sample-information.pdf,pdf,SUCCESS
-1472,172,census-2022-sample-information.pdf,pdf,SUCCESS
 1473,172,census-2022-provincial.zip,zip,SUCCESS
-1474,172,census-2022-provincial.zip,zip,SUCCESS
 1475,172,census-2022-release.pdf,pdf,SUCCESS
-1476,172,census-2022-release.pdf,pdf,SUCCESS
 1477,172,census-2022-how-the-count-was-done.pdf,pdf,SUCCESS
-1478,172,census-2022-how-the-count-was-done.pdf,pdf,SUCCESS
 1479,172,census-2022-code-lists.pdf,pdf,SUCCESS
-1480,172,census-2022-code-lists.pdf,pdf,SUCCESS
 1481,172,census-2022-socio-economic-status.pdf,pdf,SUCCESS
-1482,172,census-2022-socio-economic-status.pdf,pdf,SUCCESS
 1483,172,census-2022-agricultural-hholds.pdf,pdf,SUCCESS
-1484,172,census-2022-agricultural-hholds.pdf,pdf,SUCCESS
 1485,172,census-2022-education.pdf,pdf,SUCCESS
-1486,172,census-2022-education.pdf,pdf,SUCCESS
 1487,172,census-2022-municipal-factsheet.pdf,pdf,SUCCESS
-1488,172,census-2022-municipal-factsheet.pdf,pdf,SUCCESS
 1489,173,Q_NETS 2002 Hhold.pdf,pdf,SUCCESS
-1490,173,Q_NETS 2002 Hhold.pdf,pdf,SUCCESS
 1491,173,NETS 2002 Keswell 2004.pdf,pdf,SUCCESS
-1492,173,NETS 2002 Keswell 2004.pdf,pdf,SUCCESS
 1493,173,NETS 2002 Readme.pdf,pdf,SUCCESS
-1494,173,NETS 2002 Readme.pdf,pdf,SUCCESS
 1495,174,Zambia Finscope 2009 Questionnaire.pdf,pdf,SUCCESS
-1496,174,Zambia Finscope 2009 Questionnaire.pdf,pdf,SUCCESS
 1497,174,Zambia Finscope 2009 Main Report.pdf,pdf,SUCCESS
-1498,174,Zambia Finscope 2009 Main Report.pdf,pdf,SUCCESS
 1499,174,Zambian Finscope 2005-2015 User Guide.pdf,pdf,SUCCESS
-1500,174,Zambian Finscope 2005-2015 User Guide.pdf,pdf,SUCCESS
 1501,175,oerm-2015-2016-interview-instrument.pdf,pdf,SUCCESS
-1502,175,oerm-2015-2016-interview-instrument.pdf,pdf,SUCCESS
 1503,175,oerm-2015-2016-description.pdf,pdf,SUCCESS
-1504,175,oerm-2015-2016-description.pdf,pdf,SUCCESS
 1505,175,oerm-2015-2016-data-de-identification.pdf,pdf,SUCCESS
-1506,175,oerm-2015-2016-data-de-identification.pdf,pdf,SUCCESS
 1507,175,oerm-2015-2016-ched-rec-clearance.pdf,pdf,SUCCESS
-1508,175,oerm-2015-2016-ched-rec-clearance.pdf,pdf,SUCCESS
 1509,176,q-rscaoersa-2015-survey-instrument.pdf,pdf,SUCCESS
-1510,176,q-rscaoersa-2015-survey-instrument.pdf,pdf,SUCCESS
 1511,176,rscaoersa-2015-interview-schedule.pdf,pdf,SUCCESS
-1512,176,rscaoersa-2015-interview-schedule.pdf,pdf,SUCCESS
 1513,176,rscaoersa-2015-description.pdf,pdf,SUCCESS
-1514,176,rscaoersa-2015-description.pdf,pdf,SUCCESS
 1515,177,q-qlfs-2020-q2-cati.pdf,pdf,SUCCESS
-1516,177,q-qlfs-2020-q2-cati.pdf,pdf,SUCCESS
 1517,177,qlfs-2020-q2-statistical-release.pdf,pdf,SUCCESS
-1518,177,qlfs-2020-q2-statistical-release.pdf,pdf,SUCCESS
 1519,177,qlfs-2020-q2-guide.pdf,pdf,SUCCESS
-1520,177,qlfs-2020-q2-guide.pdf,pdf,SUCCESS
 1521,177,qlfs-2020-q2-concepts-and-definitions.pdf,pdf,SUCCESS
-1522,177,qlfs-2020-q2-concepts-and-definitions.pdf,pdf,SUCCESS
 1523,178,q-qlfs-2020-q3-cati.pdf,pdf,SUCCESS
-1524,178,q-qlfs-2020-q3-cati.pdf,pdf,SUCCESS
 1525,178,qlfs-2020-q3-release.pdf,pdf,SUCCESS
-1526,178,qlfs-2020-q3-release.pdf,pdf,SUCCESS
 1527,178,qlfs-2020-q3-media-release.pdf,pdf,SUCCESS
-1528,178,qlfs-2020-q3-media-release.pdf,pdf,SUCCESS
 1529,178,qlfs-2020-q3-guide.pdf,pdf,SUCCESS
-1530,178,qlfs-2020-q3-guide.pdf,pdf,SUCCESS
 1531,178,qlfs-2020-q3-concepts-and-definitions.pdf,pdf,SUCCESS
-1532,178,qlfs-2020-q3-concepts-and-definitions.pdf,pdf,SUCCESS
 1533,178,qlfs-2020-q3-metadata.pdf,pdf,SUCCESS
-1534,178,qlfs-2020-q3-metadata.pdf,pdf,SUCCESS
 1535,179,q-sayp-2010.pdf,pdf,SUCCESS
-1536,179,q-sayp-2010.pdf,pdf,SUCCESS
 1537,179,sayp-2010-release.pdf,pdf,SUCCESS
-1538,179,sayp-2010-release.pdf,pdf,SUCCESS
 1539,179,sayp-2010-metadata-reweighted.pdf,pdf,SUCCESS
-1540,179,sayp-2010-metadata-reweighted.pdf,pdf,SUCCESS
 1541,180,Zambia Finscope 2005 Questionnaire.pdf,pdf,SUCCESS
-1542,180,Zambia Finscope 2005 Questionnaire.pdf,pdf,SUCCESS
 1543,180,Zambia Finscope 2005 Main Report.pdf,pdf,SUCCESS
-1544,180,Zambia Finscope 2005 Main Report.pdf,pdf,SUCCESS
 1545,180,Zambia Finscope 2005 Launch Presentations.pdf,pdf,SUCCESS
-1546,180,Zambia Finscope 2005 Launch Presentations.pdf,pdf,SUCCESS
 1547,180,Zambia Finscope 2005 Appendices.pdf,pdf,SUCCESS
-1548,180,Zambia Finscope 2005 Appendices.pdf,pdf,SUCCESS
 1549,180,Zambian Finscope 2005-2015 User Guide.pdf,pdf,SUCCESS
-1550,180,Zambian Finscope 2005-2015 User Guide.pdf,pdf,SUCCESS
 1551,181,qlfs-2025-q1-guide.pdf,pdf,SUCCESS
-1552,181,qlfs-2025-q1-guide.pdf,pdf,SUCCESS
 1553,181,q-qlfs-2025-q1.pdf,pdf,SUCCESS
-1554,181,q-qlfs-2025-q1.pdf,pdf,SUCCESS
 1555,181,qlfs-2025-q1-release.pdf,pdf,SUCCESS
-1556,181,qlfs-2025-q1-release.pdf,pdf,SUCCESS
 1557,181,qlfs-2025-q1-concepts-and-definitions.pdf,pdf,SUCCESS
-1558,181,qlfs-2025-q1-concepts-and-definitions.pdf,pdf,SUCCESS
 1559,181,qlfs-2025-q1-metadata.pdf,pdf,SUCCESS
-1560,181,qlfs-2025-q1-metadata.pdf,pdf,SUCCESS
 1561,182,qlfs-2024-q1-guide.pdf,pdf,SUCCESS
-1562,182,qlfs-2024-q1-guide.pdf,pdf,SUCCESS
 1563,182,q-qlfs-2024-q1.pdf,pdf,SUCCESS
-1564,182,q-qlfs-2024-q1.pdf,pdf,SUCCESS
 1565,182,qlfs-2024-q1-release.pdf,pdf,SUCCESS
-1566,182,qlfs-2024-q1-release.pdf,pdf,SUCCESS
 1567,182,qlfs-2024-q1-concepts-and-definitions.pdf,pdf,SUCCESS
-1568,182,qlfs-2024-q1-concepts-and-definitions.pdf,pdf,SUCCESS
 1569,182,qlfs-2024-q1-metadata.pdf,pdf,SUCCESS
-1570,182,qlfs-2024-q1-metadata.pdf,pdf,SUCCESS
 1571,183,qlfs-2024-q2-guide.pdf,pdf,SUCCESS
-1572,183,qlfs-2024-q2-guide.pdf,pdf,SUCCESS
 1573,183,q-qlfs-2024-q2.pdf,pdf,SUCCESS
-1574,183,q-qlfs-2024-q2.pdf,pdf,SUCCESS
 1575,183,qlfs-2024-q2-release.pdf,pdf,SUCCESS
-1576,183,qlfs-2024-q2-release.pdf,pdf,SUCCESS
 1577,183,qlfs-2024-q2-concepts-and-definitions.pdf,pdf,SUCCESS
-1578,183,qlfs-2024-q2-concepts-and-definitions.pdf,pdf,SUCCESS
 1579,183,qlfs-2024-q2-metadata.pdf,pdf,SUCCESS
-1580,183,qlfs-2024-q2-metadata.pdf,pdf,SUCCESS
 1581,184,qlfs-2024-q3-guide.pdf,pdf,SUCCESS
-1582,184,qlfs-2024-q3-guide.pdf,pdf,SUCCESS
 1583,184,q-qlfs-2024-q3.pdf,pdf,SUCCESS
-1584,184,q-qlfs-2024-q3.pdf,pdf,SUCCESS
 1585,184,qlfs-2024-q3-release.pdf,pdf,SUCCESS
-1586,184,qlfs-2024-q3-release.pdf,pdf,SUCCESS
 1587,184,qlfs-2024-q3-concepts-and-definitions.pdf,pdf,SUCCESS
-1588,184,qlfs-2024-q3-concepts-and-definitions.pdf,pdf,SUCCESS
 1589,184,qlfs-2024-q3-metadata.pdf,pdf,SUCCESS
-1590,184,qlfs-2024-q3-metadata.pdf,pdf,SUCCESS
 1591,185,qlfs-2024-q4-guide.pdf,pdf,SUCCESS
-1592,185,qlfs-2024-q4-guide.pdf,pdf,SUCCESS
 1593,185,q-qlfs-2024-q4.pdf,pdf,SUCCESS
-1594,185,q-qlfs-2024-q4.pdf,pdf,SUCCESS
 1595,185,qlfs-2024-q4-release.pdf,pdf,SUCCESS
-1596,185,qlfs-2024-q4-release.pdf,pdf,SUCCESS
 1597,185,qlfs-2024-q4-concepts-and-definitions.pdf,pdf,SUCCESS
-1598,185,qlfs-2024-q4-concepts-and-definitions.pdf,pdf,SUCCESS
 1599,185,qlfs-2024-q4-metadata.pdf,pdf,SUCCESS
-1600,185,qlfs-2024-q4-metadata.pdf,pdf,SUCCESS
 1601,186,qlfs-2023-q1-guide.pdf,pdf,SUCCESS
-1602,186,qlfs-2023-q1-guide.pdf,pdf,SUCCESS
 1603,186,q-qlfs-2023-q1.pdf,pdf,SUCCESS
-1604,186,q-qlfs-2023-q1.pdf,pdf,SUCCESS
 1605,186,qlfs-2023-q1-release.pdf,pdf,SUCCESS
-1606,186,qlfs-2023-q1-release.pdf,pdf,SUCCESS
 1607,186,qlfs-2023-q1-concepts-and-definitions.pdf,pdf,SUCCESS
-1608,186,qlfs-2023-q1-concepts-and-definitions.pdf,pdf,SUCCESS
 1609,186,qlfs-2023-q1-metadata.pdf,pdf,SUCCESS
-1610,186,qlfs-2023-q1-metadata.pdf,pdf,SUCCESS
 1611,187,qlfs-2023-q2-guide.pdf,pdf,SUCCESS
-1612,187,qlfs-2023-q2-guide.pdf,pdf,SUCCESS
 1613,187,q-qlfs-2023-q2.pdf,pdf,SUCCESS
-1614,187,q-qlfs-2023-q2.pdf,pdf,SUCCESS
 1615,187,qlfs-2023-q2-release.pdf,pdf,SUCCESS
-1616,187,qlfs-2023-q2-release.pdf,pdf,SUCCESS
 1617,187,qlfs-2023-q2-concepts-and-definitions.pdf,pdf,SUCCESS
-1618,187,qlfs-2023-q2-concepts-and-definitions.pdf,pdf,SUCCESS
 1619,187,qlfs-2023-q2-metadata.pdf,pdf,SUCCESS
-1620,187,qlfs-2023-q2-metadata.pdf,pdf,SUCCESS
 1621,188,qlfs-2023-q3-guide.pdf,pdf,SUCCESS
-1622,188,qlfs-2023-q3-guide.pdf,pdf,SUCCESS
 1623,188,q-qlfs-2023-q3.pdf,pdf,SUCCESS
-1624,188,q-qlfs-2023-q3.pdf,pdf,SUCCESS
 1625,188,qlfs-2023-q3-release.pdf,pdf,SUCCESS
-1626,188,qlfs-2023-q3-release.pdf,pdf,SUCCESS
 1627,188,qlfs-2023-q3-concepts-and-definitions.pdf,pdf,SUCCESS
-1628,188,qlfs-2023-q3-concepts-and-definitions.pdf,pdf,SUCCESS
 1629,188,qlfs-2023-q3-metadata.pdf,pdf,SUCCESS
-1630,188,qlfs-2023-q3-metadata.pdf,pdf,SUCCESS
 1631,189,qlfs-2023-q4-guide.pdf,pdf,SUCCESS
-1632,189,qlfs-2023-q4-guide.pdf,pdf,SUCCESS
 1633,189,q-qlfs-2023-q4.pdf,pdf,SUCCESS
-1634,189,q-qlfs-2023-q4.pdf,pdf,SUCCESS
 1635,189,qlfs-2023-q4-release.pdf,pdf,SUCCESS
-1636,189,qlfs-2023-q4-release.pdf,pdf,SUCCESS
 1637,189,qlfs-2023-q4-concepts-and-definitions.pdf,pdf,SUCCESS
-1638,189,qlfs-2023-q4-concepts-and-definitions.pdf,pdf,SUCCESS
 1639,189,qlfs-2023-q4-metadata.pdf,pdf,SUCCESS
-1640,189,qlfs-2023-q4-metadata.pdf,pdf,SUCCESS
 1641,190,qlfs-2022-q4-guide.pdf,pdf,SUCCESS
-1642,190,qlfs-2022-q4-guide.pdf,pdf,SUCCESS
 1643,190,q-qlfs-2022-q4.pdf,pdf,SUCCESS
-1644,190,q-qlfs-2022-q4.pdf,pdf,SUCCESS
 1645,190,qlfs-2022-q4-release.pdf,pdf,SUCCESS
-1646,190,qlfs-2022-q4-release.pdf,pdf,SUCCESS
 1647,190,qlfs-2022-q4-concepts-and-definitions.pdf,pdf,SUCCESS
-1648,190,qlfs-2022-q4-concepts-and-definitions.pdf,pdf,SUCCESS
 1649,190,qlfs-2022-q4-metadata.pdf,pdf,SUCCESS
-1650,190,qlfs-2022-q4-metadata.pdf,pdf,SUCCESS
 1651,191,Q_DTS 2008.pdf,pdf,SUCCESS
-1652,191,Q_DTS 2008.pdf,pdf,SUCCESS
 1653,191,DTS 2008 Release.pdf,pdf,SUCCESS
-1654,191,DTS 2008 Release.pdf,pdf,SUCCESS
 1655,191,DTS 2008 Metadata.pdf,pdf,SUCCESS
-1656,191,DTS 2008 Metadata.pdf,pdf,SUCCESS
 1657,192,q-agra-2016-bf-hh.pdf,pdf,SUCCESS
-1658,192,q-agra-2016-bf-hh.pdf,pdf,SUCCESS
 1659,192,agra-2016-bf-report.pdf,pdf,SUCCESS
-1660,192,agra-2016-bf-report.pdf,pdf,SUCCESS
 1661,193,acp-permission-letter.zip,zip,SUCCESS
-1662,193,acp-permission-letter.zip,zip,SUCCESS
 1663,193,acp-fieldworker-info.zip,zip,SUCCESS
-1664,193,acp-fieldworker-info.zip,zip,SUCCESS
-1665,193,acp-permission-letter.zip,zip,SUCCESS
-1666,193,acp-permission-letter.zip,zip,SUCCESS
-1667,193,acp-fieldworker-info.zip,zip,SUCCESS
-1668,193,acp-fieldworker-info.zip,zip,SUCCESS
-1669,193,acp-permission-letter.zip,zip,SUCCESS
-1670,193,acp-permission-letter.zip,zip,SUCCESS
 1671,194,Q1_SASAS 2008.pdf,pdf,SUCCESS
-1672,194,Q1_SASAS 2008.pdf,pdf,SUCCESS
 1673,194,Q2_SASAS 2008.pdf,pdf,SUCCESS
-1674,194,Q2_SASAS 2008.pdf,pdf,SUCCESS
 1675,194,SASAS 2008 Q2 Codebook_b.pdf,pdf,SUCCESS
-1676,194,SASAS 2008 Q2 Codebook_b.pdf,pdf,SUCCESS
 1677,194,SASAS 2008 User guide V2_b.pdf,pdf,SUCCESS
-1678,194,SASAS 2008 User guide V2_b.pdf,pdf,SUCCESS
 1679,194,SASAS 2008 Q1 Codebook_b.pdf,pdf,SUCCESS
-1680,194,SASAS 2008 Q1 Codebook_b.pdf,pdf,SUCCESS
 1681,194,SASAS 2008 Study information V2_b.pdf,pdf,SUCCESS
-1682,194,SASAS 2008 Study information V2_b.pdf,pdf,SUCCESS
 1683,195,ghs-2024-release.pdf,pdf,SUCCESS
-1684,195,ghs-2024-release.pdf,pdf,SUCCESS
 1685,195,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
-1686,195,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
 1687,195,q-ghs-2024-capi.pdf,pdf,SUCCESS
-1688,195,q-ghs-2024-capi.pdf,pdf,SUCCESS
 1689,195,ghs-2024-metadata.pdf,pdf,SUCCESS
-1690,195,ghs-2024-metadata.pdf,pdf,SUCCESS
 1691,196,q-gseps-2009-2010-hh-a.pdf,pdf,SUCCESS
-1692,196,q-gseps-2009-2010-hh-a.pdf,pdf,SUCCESS
 1693,196,q-gseps-2009-2010-hh-b.pdf,pdf,SUCCESS
-1694,196,q-gseps-2009-2010-hh-b.pdf,pdf,SUCCESS
 1695,196,gseps-w1-2009-2019-int-manual.pdf,pdf,SUCCESS
-1696,196,gseps-w1-2009-2019-int-manual.pdf,pdf,SUCCESS
 1697,196,gseps-2009-2019-info.pdf,pdf,SUCCESS
-1698,196,gseps-2009-2019-info.pdf,pdf,SUCCESS
 1699,196,gseps-2009-2019-codebook.pdf,pdf,SUCCESS
-1700,196,gseps-2009-2019-codebook.pdf,pdf,SUCCESS
 1701,196,gseps-w1-2009-2010-report.pdf,pdf,SUCCESS
-1702,196,gseps-w1-2009-2010-report.pdf,pdf,SUCCESS
 1703,197,q-sese-2001.pdf,pdf,SUCCESS
-1704,197,q-sese-2001.pdf,pdf,SUCCESS
 1705,197,sese-2001-release.pdf,pdf,SUCCESS
-1706,197,sese-2001-release.pdf,pdf,SUCCESS
 1707,197,sese-2001-metadata.pdf,pdf,SUCCESS
-1708,197,sese-2001-metadata.pdf,pdf,SUCCESS
 1709,198,trac-2017-2018-protocol-v3.pdf,pdf,SUCCESS
-1710,198,trac-2017-2018-protocol-v3.pdf,pdf,SUCCESS
 1711,199,gpsjs-2023-2024-release.pdf,pdf,SUCCESS
-1712,199,gpsjs-2023-2024-release.pdf,pdf,SUCCESS
 1713,199,q-gpsjs-2023-2024.pdf,pdf,SUCCESS
-1714,199,q-gpsjs-2023-2024.pdf,pdf,SUCCESS
 1715,199,gpsjs-2023-2024-metadata.pdf,pdf,SUCCESS
-1716,199,gpsjs-2023-2024-metadata.pdf,pdf,SUCCESS
 1717,200,gpsjs-2022-2023-release.pdf,pdf,SUCCESS
-1718,200,gpsjs-2022-2023-release.pdf,pdf,SUCCESS
 1719,200,q-gpsjs-2022-2023.pdf,pdf,SUCCESS
-1720,200,q-gpsjs-2022-2023.pdf,pdf,SUCCESS
 1721,200,gpsjs-2022-2023-metadata.pdf,pdf,SUCCESS
-1722,200,gpsjs-2022-2023-metadata.pdf,pdf,SUCCESS
 1723,200,gpsjs-2022-2023-vcs.pdf,pdf,SUCCESS
-1724,200,gpsjs-2022-2023-vcs.pdf,pdf,SUCCESS
 1725,201,q-sese-2017.pdf,pdf,SUCCESS
-1726,201,q-sese-2017.pdf,pdf,SUCCESS
 1727,201,sese-2017-release.pdf,pdf,SUCCESS
-1728,201,sese-2017-release.pdf,pdf,SUCCESS
 1729,201,sese-2017-metadata.pdf,pdf,SUCCESS
-1730,201,sese-2017-metadata.pdf,pdf,SUCCESS
 1731,202,q-sese-2013.pdf,pdf,SUCCESS
-1732,202,q-sese-2013.pdf,pdf,SUCCESS
 1733,202,sese-2013-release.pdf,pdf,SUCCESS
-1734,202,sese-2013-release.pdf,pdf,SUCCESS
 1735,202,sese-2013-metadata.pdf,pdf,SUCCESS
-1736,202,sese-2013-metadata.pdf,pdf,SUCCESS
 1737,203,q-sese-2009.pdf,pdf,SUCCESS
-1738,203,q-sese-2009.pdf,pdf,SUCCESS
 1739,203,sese-2009-release.pdf,pdf,SUCCESS
-1740,203,sese-2009-release.pdf,pdf,SUCCESS
 1741,203,sese-2009-metadata.pdf,pdf,SUCCESS
-1742,203,sese-2009-metadata.pdf,pdf,SUCCESS
 1743,204,q-scs-2018-luanda-en.pdf,pdf,SUCCESS
-1744,204,q-scs-2018-luanda-en.pdf,pdf,SUCCESS
 1745,204,q-scs-2018-luanda-pt.pdf,pdf,SUCCESS
-1746,204,q-scs-2018-luanda-pt.pdf,pdf,SUCCESS
 1747,204,scs-2018-luanda-report-eng.pdf,pdf,SUCCESS
-1748,204,scs-2018-luanda-report-eng.pdf,pdf,SUCCESS
 1749,204,scs-2018-luanda-report-pt.pdf,pdf,SUCCESS
-1750,204,scs-2018-luanda-report-pt.pdf,pdf,SUCCESS
 1751,205,q-scs-2019-maputo-en.pdf,pdf,SUCCESS
-1752,205,q-scs-2019-maputo-en.pdf,pdf,SUCCESS
 1753,205,q-scs-2019-maputo-pt.pdf,pdf,SUCCESS
-1754,205,q-scs-2019-maputo-pt.pdf,pdf,SUCCESS
 1755,205,scs-2019-maputo-report-eng.pdf,pdf,SUCCESS
-1756,205,scs-2019-maputo-report-eng.pdf,pdf,SUCCESS
 1757,205,scs-2019-maputo-report-pt.pdf,pdf,SUCCESS
-1758,205,scs-2019-maputo-report-pt.pdf,pdf,SUCCESS
 1759,206,Q1_SASAS 2004.pdf,pdf,SUCCESS
-1760,206,Q1_SASAS 2004.pdf,pdf,SUCCESS
 1761,206,Q2_SASAS.pdf,pdf,SUCCESS
-1762,206,Q2_SASAS.pdf,pdf,SUCCESS
 1763,206,SASAS 2004 Combined Codebook.pdf,pdf,SUCCESS
-1764,206,SASAS 2004 Combined Codebook.pdf,pdf,SUCCESS
 1765,206,SASAS 2004 Study Information.pdf,pdf,SUCCESS
-1766,206,SASAS 2004 Study Information.pdf,pdf,SUCCESS
 1767,206,SASAS 2004 User Guide.pdf,pdf,SUCCESS
-1768,206,SASAS 2004 User Guide.pdf,pdf,SUCCESS
 1769,207,q-itlr-2016.pdf,pdf,SUCCESS
-1770,207,q-itlr-2016.pdf,pdf,SUCCESS
 1771,208,Q1_SASAS 2007.pdf,pdf,SUCCESS
-1772,208,Q1_SASAS 2007.pdf,pdf,SUCCESS
 1773,208,Q2_SASAS 2007.pdf,pdf,SUCCESS
-1774,208,Q2_SASAS 2007.pdf,pdf,SUCCESS
 1775,208,SASAS 2007 Q2 Codebook_b.pdf,pdf,SUCCESS
-1776,208,SASAS 2007 Q2 Codebook_b.pdf,pdf,SUCCESS
 1777,208,SASAS 2007 User guide V2_b.pdf,pdf,SUCCESS
-1778,208,SASAS 2007 User guide V2_b.pdf,pdf,SUCCESS
 1779,208,SASAS 2007 Q1 Codebook.pdf,pdf,SUCCESS
-1780,208,SASAS 2007 Q1 Codebook.pdf,pdf,SUCCESS
 1781,208,SASAS_Realisation 2003-2007.pdf,pdf,SUCCESS
-1782,208,SASAS_Realisation 2003-2007.pdf,pdf,SUCCESS
 1783,208,SASAS 2007 Study information_b.pdf,pdf,SUCCESS
-1784,208,SASAS 2007 Study information_b.pdf,pdf,SUCCESS
 1785,209,q-cca-1996-1997.pdf,pdf,SUCCESS
-1786,209,q-cca-1996-1997.pdf,pdf,SUCCESS
 1787,210,Launching Democracy 1993-1994 Codebook.pdf,pdf,SUCCESS
-1788,210,Launching Democracy 1993-1994 Codebook.pdf,pdf,SUCCESS
 1789,211,q-epworth-household.pdf,pdf,SUCCESS
-1790,211,q-epworth-household.pdf,pdf,SUCCESS
 1791,211,q-epworth-retailer.pdf,pdf,SUCCESS
-1792,211,q-epworth-retailer.pdf,pdf,SUCCESS
 1793,211,q-epworth-retailer-mapping.pdf,pdf,SUCCESS
-1794,211,q-epworth-retailer-mapping.pdf,pdf,SUCCESS
 1795,211,q-kisumu-household.pdf,pdf,SUCCESS
-1796,211,q-kisumu-household.pdf,pdf,SUCCESS
 1797,211,q-kisumu-retailer.pdf,pdf,SUCCESS
-1798,211,q-kisumu-retailer.pdf,pdf,SUCCESS
 1799,211,q-kisumu-retailer-mapping.pdf,pdf,SUCCESS
-1800,211,q-kisumu-retailer-mapping.pdf,pdf,SUCCESS
 1801,211,q-kitwe-household.pdf,pdf,SUCCESS
-1802,211,q-kitwe-household.pdf,pdf,SUCCESS
 1803,211,q-kitwe-retailer.pdf,pdf,SUCCESS
-1804,211,q-kitwe-retailer.pdf,pdf,SUCCESS
 1805,211,q-kitwe-retailer-mapping.pdf,pdf,SUCCESS
-1806,211,q-kitwe-retailer-mapping.pdf,pdf,SUCCESS
 1807,211,epworth-retailer-sampling.xlsx,xlsx,SUCCESS
-1808,211,epworth-retailer-sampling.xlsx,xlsx,SUCCESS
 1809,211,cup.readme.txt,txt,SUCCESS
-1810,211,cup.readme.txt,txt,SUCCESS
 1811,211,cup-2016-info-consent-hh.pdf,pdf,SUCCESS
-1812,211,cup-2016-info-consent-hh.pdf,pdf,SUCCESS
 1813,211,cup-2016-info-consent-retailers.pdf,pdf,SUCCESS
-1814,211,cup-2016-info-consent-retailers.pdf,pdf,SUCCESS
 1815,212,q-ghs-2021-cati.pdf,pdf,SUCCESS
-1816,212,q-ghs-2021-cati.pdf,pdf,SUCCESS
 1817,212,ghs-2021-release.pdf,pdf,SUCCESS
-1818,212,ghs-2021-release.pdf,pdf,SUCCESS
 1819,212,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
-1820,212,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
 1821,212,ghs-2021-metadata.pdf,pdf,SUCCESS
-1822,212,ghs-2021-metadata.pdf,pdf,SUCCESS
 1823,213,q-gpsjs-2021-2022.pdf,pdf,SUCCESS
-1824,213,q-gpsjs-2021-2022.pdf,pdf,SUCCESS
 1825,213,gpsjs-2021-2022-release.pdf,pdf,SUCCESS
-1826,213,gpsjs-2021-2022-release.pdf,pdf,SUCCESS
 1827,213,gpsjs-2021-2022-metadata.pdf,pdf,SUCCESS
-1828,213,gpsjs-2021-2022-metadata.pdf,pdf,SUCCESS
 1829,214,q-ghs-2020.pdf,pdf,SUCCESS
-1830,214,q-ghs-2020.pdf,pdf,SUCCESS
 1831,214,ghs-2020-release.pdf,pdf,SUCCESS
-1832,214,ghs-2020-release.pdf,pdf,SUCCESS
 1833,214,ghs-2020-metadata.pdf,pdf,SUCCESS
-1834,214,ghs-2020-metadata.pdf,pdf,SUCCESS
 1835,214,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
-1836,214,ghs-2019-variables-renamed.xlsx,xlsx,SUCCESS
 1837,215,q-ibes-2014-p2-form1-agriculture.pdf,pdf,SUCCESS
-1838,215,q-ibes-2014-p2-form1-agriculture.pdf,pdf,SUCCESS
 1839,215,q-ibes-2014-p2-form2-mining and quarrying.pdf,pdf,SUCCESS
-1840,215,q-ibes-2014-p2-form2-mining and quarrying.pdf,pdf,SUCCESS
 1841,215,q-ibes-2014-p2-form3a-manufacturing.pdf,pdf,SUCCESS
-1842,215,q-ibes-2014-p2-form3a-manufacturing.pdf,pdf,SUCCESS
 1843,215,q-ibes-2014-p2-form3b-manufacturing.pdf,pdf,SUCCESS
-1844,215,q-ibes-2014-p2-form3b-manufacturing.pdf,pdf,SUCCESS
 1845,215,q-ibes-2014-p2-form4-electricity and water.pdf,pdf,SUCCESS
-1846,215,q-ibes-2014-p2-form4-electricity and water.pdf,pdf,SUCCESS
 1847,215,q-ibes-2014-p2-form5-construction.pdf,pdf,SUCCESS
-1848,215,q-ibes-2014-p2-form5-construction.pdf,pdf,SUCCESS
 1849,215,q-ibes-2014-p2-form6-services-1.pdf,pdf,SUCCESS
-1850,215,q-ibes-2014-p2-form6-services-1.pdf,pdf,SUCCESS
 1851,215,q-ibes-2014-p2-form7-services-2.pdf,pdf,SUCCESS
-1852,215,q-ibes-2014-p2-form7-services-2.pdf,pdf,SUCCESS
 1853,215,q-ibes-2014-p2-form8-wholesale-and-retail.pdf,pdf,SUCCESS
-1854,215,q-ibes-2014-p2-form8-wholesale-and-retail.pdf,pdf,SUCCESS
 1855,215,ibes-2014-p2-report.pdf,pdf,SUCCESS
-1856,215,ibes-2014-p2-report.pdf,pdf,SUCCESS
 1857,215,ibes-2014-p2-guide-v1.pdf,pdf,SUCCESS
-1858,215,ibes-2014-p2-guide-v1.pdf,pdf,SUCCESS
 1859,216,him-karonga-2002-2017-info.pdf,pdf,SUCCESS
-1860,216,him-karonga-2002-2017-info.pdf,pdf,SUCCESS
 1861,217,q-gpsjs-2020-2021.pdf,pdf,SUCCESS
-1862,217,q-gpsjs-2020-2021.pdf,pdf,SUCCESS
 1863,217,gpsjs-2020-2021-release.pdf,pdf,SUCCESS
-1864,217,gpsjs-2020-2021-release.pdf,pdf,SUCCESS
 1865,217,gpsjs-2020-2021-metadata.pdf,pdf,SUCCESS
-1866,217,gpsjs-2020-2021-metadata.pdf,pdf,SUCCESS
 1867,218,q-vcs-2016-2017.pdf,pdf,SUCCESS
-1868,218,q-vcs-2016-2017.pdf,pdf,SUCCESS
 1869,218,vcs-2016-2017-release.pdf,pdf,SUCCESS
-1870,218,vcs-2016-2017-release.pdf,pdf,SUCCESS
 1871,218,vcs-2016-2017-metadata.pdf,pdf,SUCCESS
-1872,218,vcs-2016-2017-metadata.pdf,pdf,SUCCESS
 1873,219,q-vcs-2015-2016.pdf,pdf,SUCCESS
-1874,219,q-vcs-2015-2016.pdf,pdf,SUCCESS
 1875,219,vcs-2015-2016-release.pdf,pdf,SUCCESS
-1876,219,vcs-2015-2016-release.pdf,pdf,SUCCESS
 1877,219,vcs-2015-2016-metadata.pdf,pdf,SUCCESS
-1878,219,vcs-2015-2016-metadata.pdf,pdf,SUCCESS
 1879,220,Q_LCS 2008-2009 Hhold.pdf,pdf,SUCCESS
-1880,220,Q_LCS 2008-2009 Hhold.pdf,pdf,SUCCESS
 1881,220,Q_LCS 2008-2009 Weekly Diary.pdf,pdf,SUCCESS
-1882,220,Q_LCS 2008-2009 Weekly Diary.pdf,pdf,SUCCESS
 1883,220,LCS 2008-2009 Release 20110915.pdf,pdf,SUCCESS
-1884,220,LCS 2008-2009 Release 20110915.pdf,pdf,SUCCESS
 1885,220,LCS 2008-2009 Subjective Poverty 20130123.pdf,pdf,SUCCESS
-1886,220,LCS 2008-2009 Subjective Poverty 20130123.pdf,pdf,SUCCESS
 1887,220,LCS 2008-2009 Poverty Profile 20130123.pdf,pdf,SUCCESS
-1888,220,LCS 2008-2009 Poverty Profile 20130123.pdf,pdf,SUCCESS
 1889,220,lcs-2008-2009-metadata-v2.pdf,pdf,SUCCESS
-1890,220,lcs-2008-2009-metadata-v2.pdf,pdf,SUCCESS
 1891,220,lcs-2008-2009-coicop-codes.xls,xls,SUCCESS
-1892,220,lcs-2008-2009-coicop-codes.xls,xls,SUCCESS
 1893,221,Q1_SASAS 2005.pdf,pdf,SUCCESS
-1894,221,Q1_SASAS 2005.pdf,pdf,SUCCESS
 1895,221,Q2_SASAS 2005.pdf,pdf,SUCCESS
-1896,221,Q2_SASAS 2005.pdf,pdf,SUCCESS
 1897,221,SA Social Attitudes Report2 2010.pdf,pdf,SUCCESS
-1898,221,SA Social Attitudes Report2 2010.pdf,pdf,SUCCESS
 1899,221,SASAS 2005 Combined Codebook.pdf,pdf,SUCCESS
-1900,221,SASAS 2005 Combined Codebook.pdf,pdf,SUCCESS
 1901,221,SASAS 2005 Study Information.pdf,pdf,SUCCESS
-1902,221,SASAS 2005 Study Information.pdf,pdf,SUCCESS
 1903,221,SASAS 2005 User Guide.pdf,pdf,SUCCESS
-1904,221,SASAS 2005 User Guide.pdf,pdf,SUCCESS
 1905,221,SASAS 2005 Fieldwork Manual.pdf,pdf,SUCCESS
-1906,221,SASAS 2005 Fieldwork Manual.pdf,pdf,SUCCESS
 1907,222,Q1_SASAS 2006.pdf,pdf,SUCCESS
-1908,222,Q1_SASAS 2006.pdf,pdf,SUCCESS
 1909,222,SASAS 2006_Q2.pdf,pdf,SUCCESS
-1910,222,SASAS 2006_Q2.pdf,pdf,SUCCESS
 1911,222,SASAS 2006 Combined Codebook.pdf,pdf,SUCCESS
-1912,222,SASAS 2006 Combined Codebook.pdf,pdf,SUCCESS
 1913,222,SASAS 2006 User Guide.pdf,pdf,SUCCESS
-1914,222,SASAS 2006 User Guide.pdf,pdf,SUCCESS
 1915,222,SASAS 2003-2006_realisation.pdf,pdf,SUCCESS
-1916,222,SASAS 2003-2006_realisation.pdf,pdf,SUCCESS
 1917,222,SASAS 2006 Study Information.pdf,pdf,SUCCESS
-1918,222,SASAS 2006 Study Information.pdf,pdf,SUCCESS
 1919,223,q-qlfs-2020-q4-cati.pdf,pdf,SUCCESS
-1920,223,q-qlfs-2020-q4-cati.pdf,pdf,SUCCESS
 1921,223,qlfs-2020-q4-release.pdf,pdf,SUCCESS
-1922,223,qlfs-2020-q4-release.pdf,pdf,SUCCESS
 1923,223,qlfs-2020-q4-guide.pdf,pdf,SUCCESS
-1924,223,qlfs-2020-q4-guide.pdf,pdf,SUCCESS
 1925,223,qlfs-2020-q4-metadata.pdf,pdf,SUCCESS
-1926,223,qlfs-2020-q4-metadata.pdf,pdf,SUCCESS
 1927,223,qlfs-2020-q4-concepts-and-definitions.pdf,pdf,SUCCESS
-1928,223,qlfs-2020-q4-concepts-and-definitions.pdf,pdf,SUCCESS
 1929,224,documentation_906.pdf,pdf,SUCCESS
 1930,225,q-qlfs-2025-q2.pdf,pdf,SUCCESS
-1931,225,q-qlfs-2025-q2.pdf,pdf,SUCCESS
 1932,225,qlfs-2025-q2-release.pdf,pdf,SUCCESS
-1933,225,qlfs-2025-q2-release.pdf,pdf,SUCCESS
 1934,226,qlfs-2025-q3-questionnaire.pdf,pdf,SUCCESS
-1935,226,qlfs-2025-q3-questionnaire.pdf,pdf,SUCCESS
 1936,226,qlfs-2023-q3-report.pdf,pdf,SUCCESS
-1937,226,qlfs-2023-q3-report.pdf,pdf,SUCCESS
 1938,226,qlfs-2025-q3-codebook.pdf,pdf,SUCCESS
-1939,226,qlfs-2025-q3-codebook.pdf,pdf,SUCCESS
 1940,227,lmdsa-2022-release.pdf,pdf,SUCCESS
-1941,227,lmdsa-2022-release.pdf,pdf,SUCCESS
 1942,228,q-vcs-2017-2018.pdf,pdf,SUCCESS
-1943,228,q-vcs-2017-2018.pdf,pdf,SUCCESS
 1944,228,vcs-2017-2018-release.pdf,pdf,SUCCESS
-1945,228,vcs-2017-2018-release.pdf,pdf,SUCCESS
 1946,228,vcs-2017-2018-metadata.pdf,pdf,SUCCESS
-1947,228,vcs-2017-2018-metadata.pdf,pdf,SUCCESS
 1948,229,documentation_761.pdf,pdf,FAILED_HTTP_500
 1949,229,no_files,,FAILED_LOGIN_REQUIRED
 1950,230,q-lmdsa-2021.pdf,pdf,SUCCESS
-1951,230,q-lmdsa-2021.pdf,pdf,SUCCESS
 1952,230,lmdsa-2021-release.pdf,pdf,SUCCESS
-1953,230,lmdsa-2021-release.pdf,pdf,SUCCESS
 1954,230,lmdsa-2021-concepts-and-definitions.pdf,pdf,SUCCESS
-1955,230,lmdsa-2021-concepts-and-definitions.pdf,pdf,SUCCESS
 1956,231,q_gds-2012.pdf,pdf,SUCCESS
-1957,231,q_gds-2012.pdf,pdf,SUCCESS
 1958,231,gds-2012-report.pdf,pdf,SUCCESS
-1959,231,gds-2012-report.pdf,pdf,SUCCESS
 1960,231,gds-2012-metadata-note.pdf,pdf,SUCCESS
-1961,231,gds-2012-metadata-note.pdf,pdf,SUCCESS
 1962,232,q-sese-2005.pdf,pdf,SUCCESS
-1963,232,q-sese-2005.pdf,pdf,SUCCESS
 1964,232,sese-2005-release.pdf,pdf,SUCCESS
-1965,232,sese-2005-release.pdf,pdf,SUCCESS
 1966,232,sese-2005-metadata.pdf,pdf,SUCCESS
-1967,232,sese-2005-metadata.pdf,pdf,SUCCESS
 1968,233,ahim-manicaland-1995-2016.pdf,pdf,SUCCESS
-1969,233,ahim-manicaland-1995-2016.pdf,pdf,SUCCESS
 1970,234,IES-2022-2023-questionaire.pdf,pdf,SUCCESS
-1971,234,IES-2022-2023-questionaire.pdf,pdf,SUCCESS
 1972,234,ies-2022-2023-povertytrends-report.pdf,pdf,SUCCESS
-1973,234,ies-2022-2023-povertytrends-report.pdf,pdf,SUCCESS
 1974,234,IES-2022-2023-codebook.pdf,pdf,SUCCESS
-1975,234,IES-2022-2023-codebook.pdf,pdf,SUCCESS
 1976,234,ies-2022-2023-report.pdf,pdf,SUCCESS
-1977,234,ies-2022-2023-report.pdf,pdf,SUCCESS
 1978,235,q-qlfs-2022-q1-cati.pdf,pdf,SUCCESS
-1979,235,q-qlfs-2022-q1-cati.pdf,pdf,SUCCESS
 1980,235,qlfs-2022-q1-release.pdf,pdf,SUCCESS
-1981,235,qlfs-2022-q1-release.pdf,pdf,SUCCESS
 1982,235,qlfs-2022-q1-metadata.pdf,pdf,SUCCESS
-1983,235,qlfs-2022-q1-metadata.pdf,pdf,SUCCESS
 1984,235,qlfs-2022-q1-guide.pdf,pdf,SUCCESS
-1985,235,qlfs-2022-q1-guide.pdf,pdf,SUCCESS
 1986,235,qlfs-2022-q1-concepts-and-definitions.pdf,pdf,SUCCESS
-1987,235,qlfs-2022-q1-concepts-and-definitions.pdf,pdf,SUCCESS
 1988,236,q-qlfs-2021-q1-cati.pdf,pdf,SUCCESS
-1989,236,q-qlfs-2021-q1-cati.pdf,pdf,SUCCESS
 1990,236,qlfs-2021-q1-release.pdf,pdf,SUCCESS
-1991,236,qlfs-2021-q1-release.pdf,pdf,SUCCESS
 1992,236,qlfs-2021-q1-guide.pdf,pdf,SUCCESS
-1993,236,qlfs-2021-q1-guide.pdf,pdf,SUCCESS
 1994,236,qlfs-2021-q1-concepts-and-definitions.pdf,pdf,SUCCESS
-1995,236,qlfs-2021-q1-concepts-and-definitions.pdf,pdf,SUCCESS
 1996,237,q-qlfs-2021-q2-cati.pdf,pdf,SUCCESS
-1997,237,q-qlfs-2021-q2-cati.pdf,pdf,SUCCESS
 1998,237,qlfs-2021-q2-release.pdf,pdf,SUCCESS
-1999,237,qlfs-2021-q2-release.pdf,pdf,SUCCESS
 2000,237,qlfs-2021-q2-metadata.pdf,pdf,SUCCESS
-2001,237,qlfs-2021-q2-metadata.pdf,pdf,SUCCESS
 2002,237,qlfs-2021-q2-guide.pdf,pdf,SUCCESS
-2003,237,qlfs-2021-q2-guide.pdf,pdf,SUCCESS
 2004,237,qlfs-2021-q2-concepts-and-definitions.pdf,pdf,SUCCESS
-2005,237,qlfs-2021-q2-concepts-and-definitions.pdf,pdf,SUCCESS
 2006,238,q-qlfs-2021-q3-cati.pdf,pdf,SUCCESS
-2007,238,q-qlfs-2021-q3-cati.pdf,pdf,SUCCESS
 2008,238,qlfs-2021-q3-release.pdf,pdf,SUCCESS
-2009,238,qlfs-2021-q3-release.pdf,pdf,SUCCESS
 2010,238,qlfs-2021-q3-metadata.pdf,pdf,SUCCESS
-2011,238,qlfs-2021-q3-metadata.pdf,pdf,SUCCESS
 2012,238,qlfs-2021-q3-guide.pdf,pdf,SUCCESS
-2013,238,qlfs-2021-q3-guide.pdf,pdf,SUCCESS
 2014,238,qlfs-2021-q3-concepts-and-definitions.pdf,pdf,SUCCESS
-2015,238,qlfs-2021-q3-concepts-and-definitions.pdf,pdf,SUCCESS
 2016,239,q-qlfs-2021-q4-cati.pdf,pdf,SUCCESS
-2017,239,q-qlfs-2021-q4-cati.pdf,pdf,SUCCESS
 2018,239,qlfs-2021-q4-release.pdf,pdf,SUCCESS
-2019,239,qlfs-2021-q4-release.pdf,pdf,SUCCESS
 2020,239,qlfs-2021-q4-metadata.pdf,pdf,SUCCESS
-2021,239,qlfs-2021-q4-metadata.pdf,pdf,SUCCESS
 2022,239,qlfs-2021-q4-guide.pdf,pdf,SUCCESS
-2023,239,qlfs-2021-q4-guide.pdf,pdf,SUCCESS
 2024,239,qlfs-2021-q4-concepts-and-definitions.pdf,pdf,SUCCESS
-2025,239,qlfs-2021-q4-concepts-and-definitions.pdf,pdf,SUCCESS
 2026,240,q-lmdsa-2020.pdf,pdf,SUCCESS
-2027,240,q-lmdsa-2020.pdf,pdf,SUCCESS
 2028,240,lmdsa-2020-release.pdf,pdf,SUCCESS
-2029,240,lmdsa-2020-release.pdf,pdf,SUCCESS
 2030,240,lmdsa-2020-metadata.pdf,pdf,SUCCESS
-2031,240,lmdsa-2020-metadata.pdf,pdf,SUCCESS
 2032,240,lmdsa-2020-concepts-and-definitions.pdf,pdf,SUCCESS
-2033,240,lmdsa-2020-concepts-and-definitions.pdf,pdf,SUCCESS
 2034,241,alpha-kisesa-1994-2016.pdf,pdf,SUCCESS
-2035,241,alpha-kisesa-1994-2016.pdf,pdf,SUCCESS
 2036,242,q-salss-2020-r1.pdf,pdf,SUCCESS
-2037,242,q-salss-2020-r1.pdf,pdf,SUCCESS
 2038,242,q-salss-2020-r2.pdf,pdf,SUCCESS
-2039,242,q-salss-2020-r2.pdf,pdf,SUCCESS
 2040,242,q-salss-2020-r3.pdf,pdf,SUCCESS
-2041,242,q-salss-2020-r3.pdf,pdf,SUCCESS
 2042,242,salss-2020-report-r1.pdf,pdf,SUCCESS
-2043,242,salss-2020-report-r1.pdf,pdf,SUCCESS
 2044,242,salss-2020-report-r2.pdf,pdf,SUCCESS
-2045,242,salss-2020-report-r2.pdf,pdf,SUCCESS
 2046,242,salss-2020-report-r3.pdf,pdf,SUCCESS
-2047,242,salss-2020-report-r3.pdf,pdf,SUCCESS
 2048,243,documentation_997.pdf,pdf,FAILED_HTTP_500
 2049,243,no_files,,FAILED_LOGIN_REQUIRED
 2050,244,q-vcs-2014-15.pdf,pdf,SUCCESS
-2051,244,q-vcs-2014-15.pdf,pdf,SUCCESS
 2052,244,vcs-2014-15-release.pdf,pdf,SUCCESS
-2053,244,vcs-2014-15-release.pdf,pdf,SUCCESS
 2054,244,vcs-2014-15-metadata.pdf,pdf,SUCCESS
-2055,244,vcs-2014-15-metadata.pdf,pdf,SUCCESS
 2056,245,QLFS 2020_1 Questionnaire.pdf,pdf,SUCCESS
-2057,245,QLFS 2020_1 Questionnaire.pdf,pdf,SUCCESS
 2058,245,QLFS 2020_1 Release.pdf,pdf,SUCCESS
-2059,245,QLFS 2020_1 Release.pdf,pdf,SUCCESS
 2060,245,QLFS 2020_1 Concepts and Definitions.pdf,pdf,SUCCESS
-2061,245,QLFS 2020_1 Concepts and Definitions.pdf,pdf,SUCCESS
 2062,245,QLFS 2020_1 Metadata.pdf,pdf,SUCCESS
-2063,245,QLFS 2020_1 Metadata.pdf,pdf,SUCCESS
 2064,245,QLFS 2020_1  Guide.pdf,pdf,SUCCESS
-2065,245,QLFS 2020_1  Guide.pdf,pdf,SUCCESS
 2066,246,q-lcs-204-2015-hhold.pdf,pdf,SUCCESS
-2067,246,q-lcs-204-2015-hhold.pdf,pdf,SUCCESS
 2068,246,lcs-2014-2015-diary.pdf,pdf,SUCCESS
-2069,246,lcs-2014-2015-diary.pdf,pdf,SUCCESS
 2070,246,lcs-2014-2015-metadata.pdf,pdf,SUCCESS
-2071,246,lcs-2014-2015-metadata.pdf,pdf,SUCCESS
 2072,246,lcs-2014-2015-coicop-codes.pdf,pdf,SUCCESS
-2073,246,lcs-2014-2015-coicop-codes.pdf,pdf,SUCCESS
 2074,246,lcs-2014-2015-household-assets-codebook.pdf,pdf,SUCCESS
-2075,246,lcs-2014-2015-household-assets-codebook.pdf,pdf,SUCCESS
 2076,246,lcs-2014-2015-household-codebook.pdf,pdf,SUCCESS
-2077,246,lcs-2014-2015-household-codebook.pdf,pdf,SUCCESS
 2078,246,lcs-2014-2015-person-income-codebook.pdf,pdf,SUCCESS
-2079,246,lcs-2014-2015-person-income-codebook.pdf,pdf,SUCCESS
 2080,246,lcs-2014-2015-persons-codebook.pdf,pdf,SUCCESS
-2081,246,lcs-2014-2015-persons-codebook.pdf,pdf,SUCCESS
 2082,247,Q1_SASAS 2012.pdf,pdf,SUCCESS
-2083,247,Q1_SASAS 2012.pdf,pdf,SUCCESS
 2084,247,Q2_SASAS 2012.pdf,pdf,SUCCESS
-2085,247,Q2_SASAS 2012.pdf,pdf,SUCCESS
 2086,247,SASAS 2012 User guide_b.pdf,pdf,SUCCESS
-2087,247,SASAS 2012 User guide_b.pdf,pdf,SUCCESS
 2088,247,SASAS 2012 Q1 Codebook_b.pdf,pdf,SUCCESS
-2089,247,SASAS 2012 Q1 Codebook_b.pdf,pdf,SUCCESS
 2090,248,Q_SASAS 2011.pdf,pdf,SUCCESS
-2091,248,Q_SASAS 2011.pdf,pdf,SUCCESS
 2092,248,SASAS 2011 User guide V2_b.pdf,pdf,SUCCESS
-2093,248,SASAS 2011 User guide V2_b.pdf,pdf,SUCCESS
 2094,248,SASAS 2011 Q1 Codebook_b.pdf,pdf,SUCCESS
-2095,248,SASAS 2011 Q1 Codebook_b.pdf,pdf,SUCCESS
 2096,248,SASAS 2011 Study information_b.pdf,pdf,SUCCESS
-2097,248,SASAS 2011 Study information_b.pdf,pdf,SUCCESS
 2098,249,Q_SASAS 2009.pdf,pdf,SUCCESS
-2099,249,Q_SASAS 2009.pdf,pdf,SUCCESS
 2100,249,SASAS 2009 User guide V2_b.pdf,pdf,SUCCESS
-2101,249,SASAS 2009 User guide V2_b.pdf,pdf,SUCCESS
 2102,249,SASAS 2009 Q1 Codebook_b.pdf,pdf,SUCCESS
-2103,249,SASAS 2009 Q1 Codebook_b.pdf,pdf,SUCCESS
 2104,249,SASAS 2009 Study information V2_b.pdf,pdf,SUCCESS
-2105,249,SASAS 2009 Study information V2_b.pdf,pdf,SUCCESS
 2106,250,Q_SASAS 2010.pdf,pdf,SUCCESS
-2107,250,Q_SASAS 2010.pdf,pdf,SUCCESS
 2108,250,SASAS 2010 User guide V2_b.pdf,pdf,SUCCESS
-2109,250,SASAS 2010 User guide V2_b.pdf,pdf,SUCCESS
 2110,250,SASAS 2010 Q1 Codebook_b.pdf,pdf,SUCCESS
-2111,250,SASAS 2010 Q1 Codebook_b.pdf,pdf,SUCCESS
 2112,250,SASAS 2010 Study information V2_b.pdf,pdf,SUCCESS
-2113,250,SASAS 2010 Study information V2_b.pdf,pdf,SUCCESS
 2114,251,lmdsa-2023-metadata.pdf,pdf,SUCCESS
-2115,251,lmdsa-2023-metadata.pdf,pdf,SUCCESS
 2116,251,lmdsa-2023-report.pdf,pdf,SUCCESS
-2117,251,lmdsa-2023-report.pdf,pdf,SUCCESS
 2118,252,q-agra-2016-gha-hh.pdf,pdf,SUCCESS
-2119,252,q-agra-2016-gha-hh.pdf,pdf,SUCCESS
 2120,252,agra-2016-gha-report.pdf,pdf,SUCCESS
-2121,252,agra-2016-gha-report.pdf,pdf,SUCCESS
 2122,253,q-sjsa-2005.pdf,pdf,SUCCESS
-2123,253,q-sjsa-2005.pdf,pdf,SUCCESS
 2124,253,sjsa-2005-codes.pdf,pdf,SUCCESS
-2125,253,sjsa-2005-codes.pdf,pdf,SUCCESS
 2126,254,sised-2020-metadata-age-year-delivery.pdf,pdf,SUCCESS
-2127,254,sised-2020-metadata-age-year-delivery.pdf,pdf,SUCCESS
 2128,254,sised-2020-metadata-basic.pdf,pdf,SUCCESS
-2129,254,sised-2020-metadata-basic.pdf,pdf,SUCCESS
 2130,254,sised-2020-metadata-detailed.pdf,pdf,SUCCESS
-2131,254,sised-2020-metadata-detailed.pdf,pdf,SUCCESS
 2132,255,q-dels-nlrts-1994-1999.pdf,pdf,SUCCESS
-2133,255,q-dels-nlrts-1994-1999.pdf,pdf,SUCCESS
 2134,255,q-dels-nlrts-2005.pdf,pdf,SUCCESS
-2135,255,q-dels-nlrts-2005.pdf,pdf,SUCCESS
 2136,255,dels-2020-report.pdf,pdf,SUCCESS
-2137,255,dels-2020-report.pdf,pdf,SUCCESS
 2138,255,dels-1994-1999-datamap.xlsx,xlsx,SUCCESS
-2139,255,dels-1994-1999-datamap.xlsx,xlsx,SUCCESS
 2140,255,dels-2000-2014-datamap.xlsx,xlsx,SUCCESS
-2141,255,dels-2000-2014-datamap.xlsx,xlsx,SUCCESS
 2142,255,dels-2014-collection-kit.pdf,pdf,SUCCESS
-2143,255,dels-2014-collection-kit.pdf,pdf,SUCCESS
 2144,255,dels-delm-1994-2014-descriptor.pdf,pdf,SUCCESS
-2145,255,dels-delm-1994-2014-descriptor.pdf,pdf,SUCCESS
 2146,255,dels 1994-2014-codebook.zip,zip,SUCCESS
-2147,255,dels 1994-2014-codebook.zip,zip,SUCCESS
 2148,255,dels-1994-2014-program-files.zip,zip,SUCCESS
-2149,255,dels-1994-2014-program-files.zip,zip,SUCCESS
 2150,256,q-nrs-2022-2023.xlsx,xlsx,SUCCESS
-2151,256,q-nrs-2022-2023.xlsx,xlsx,SUCCESS
 2152,256,nrs-2022-2023-technical-report.pdf,pdf,SUCCESS
-2153,256,nrs-2022-2023-technical-report.pdf,pdf,SUCCESS
 2154,256,nrs-2022-2023-report.pdf,pdf,SUCCESS
-2155,256,nrs-2022-2023-report.pdf,pdf,SUCCESS
 2156,257,ecdc-2021-codebook.xls,xls,SUCCESS
-2157,257,ecdc-2021-codebook.xls,xls,SUCCESS
 2158,257,ecdc-2021-interview.pdf,pdf,SUCCESS
-2159,257,ecdc-2021-interview.pdf,pdf,SUCCESS
 2160,257,ecdc-2021-observations.pdf,pdf,SUCCESS
-2161,257,ecdc-2021-observations.pdf,pdf,SUCCESS
 2162,257,ecdc-2021-report.pdf,pdf,SUCCESS
-2163,257,ecdc-2021-report.pdf,pdf,SUCCESS
 2164,258,q-sstf-2019-english.pdf,pdf,SUCCESS
-2165,258,q-sstf-2019-english.pdf,pdf,SUCCESS
 2166,258,q-sstf-2019-shona.pdf,pdf,SUCCESS
-2167,258,q-sstf-2019-shona.pdf,pdf,SUCCESS
 2168,258,sstf-2019-ethics-approval.pdf,pdf,SUCCESS
-2169,258,sstf-2019-ethics-approval.pdf,pdf,SUCCESS
 2170,259,q-gseps-2018-2019-w3.pdf,pdf,SUCCESS
-2171,259,q-gseps-2018-2019-w3.pdf,pdf,SUCCESS
 2172,260,agra-2016-2017-mli-report.pdf,pdf,SUCCESS
-2173,260,agra-2016-2017-mli-report.pdf,pdf,SUCCESS
 2174,261,q-cmphs-mus-2009.xls,xls,SUCCESS
-2175,261,q-cmphs-mus-2009.xls,xls,SUCCESS
 2176,261,cmphs-mus-2009-coding.pdf,pdf,SUCCESS
-2177,261,cmphs-mus-2009-coding.pdf,pdf,SUCCESS
 2178,262,q-cmphs-mus-2008.xls,xls,SUCCESS
-2179,262,q-cmphs-mus-2008.xls,xls,SUCCESS
 2180,262,cmphs-mus-2008-coding.pdf,pdf,SUCCESS
-2181,262,cmphs-mus-2008-coding.pdf,pdf,SUCCESS
 2182,263,q-cmphs-mus-2007.xls,xls,SUCCESS
-2183,263,q-cmphs-mus-2007.xls,xls,SUCCESS
 2184,263,cmphs-mus-2007-coding.pdf,pdf,SUCCESS
-2185,263,cmphs-mus-2007-coding.pdf,pdf,SUCCESS
 2186,264,q-cmphs-2006.xls,xls,SUCCESS
-2187,264,q-cmphs-2006.xls,xls,SUCCESS
 2188,264,cmphs-mus-2006-coding.pdf,pdf,SUCCESS
-2189,264,cmphs-mus-2006-coding.pdf,pdf,SUCCESS
 2190,265,q-cmphs-mus-2005.xls,xls,SUCCESS
-2191,265,q-cmphs-mus-2005.xls,xls,SUCCESS
 2192,265,cmphs-mus-2005-coding.doc,doc,SUCCESS
-2193,265,cmphs-mus-2005-coding.doc,doc,SUCCESS
 2194,266,Attitudes Towards the TRC 1996 Codebook.pdf,pdf,SUCCESS
-2195,266,Attitudes Towards the TRC 1996 Codebook.pdf,pdf,SUCCESS
 2196,267,1.1-pre-training-form-instrument.pdf,pdf,SUCCESS
-2197,267,1.1-pre-training-form-instrument.pdf,pdf,SUCCESS
 2198,267,1.2-pre-training-scoring-rubric-instrument.pdf,pdf,SUCCESS
-2199,267,1.2-pre-training-scoring-rubric-instrument.pdf,pdf,SUCCESS
 2200,267,1.3-pre-training-survey-instrument.pdf,pdf,SUCCESS
-2201,267,1.3-pre-training-survey-instrument.pdf,pdf,SUCCESS
 2202,267,1.4-post-training-form-instrument.pdf,pdf,SUCCESS
-2203,267,1.4-post-training-form-instrument.pdf,pdf,SUCCESS
 2204,267,1.5-post-training-scoring-rubric-instrument.pdf,pdf,SUCCESS
-2205,267,1.5-post-training-scoring-rubric-instrument.pdf,pdf,SUCCESS
 2206,267,1.6-post-training-survey-instrument.pdf,pdf,SUCCESS
-2207,267,1.6-post-training-survey-instrument.pdf,pdf,SUCCESS
 2208,267,1.7-post-training-teacher-classroom-obs-instrument.pdf,pdf,SUCCESS
-2209,267,1.7-post-training-teacher-classroom-obs-instrument.pdf,pdf,SUCCESS
 2210,267,sp10.4-data-de-identification.pdf,pdf,SUCCESS
-2211,267,sp10.4-data-de-identification.pdf,pdf,SUCCESS
 2212,267,sp10.4-dataset-description.pdf,pdf,SUCCESS
-2213,267,sp10.4-dataset-description.pdf,pdf,SUCCESS
 2214,267,sp10.4-variable-description.pdf,pdf,SUCCESS
-2215,267,sp10.4-variable-description.pdf,pdf,SUCCESS
 2216,268,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2217,268,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2218,268,amps-data-user-guide.pdf,pdf,SUCCESS
-2219,268,amps-data-user-guide.pdf,pdf,SUCCESS
 2220,268,amps-2015-product-layout.pdf,pdf,SUCCESS
-2221,268,amps-2015-product-layout.pdf,pdf,SUCCESS
 2222,268,amps-2015-release-layout.pdf,pdf,SUCCESS
-2223,268,amps-2015-release-layout.pdf,pdf,SUCCESS
 2224,268,2013-saarf-attitudes-guide.pdf,pdf,SUCCESS
-2225,268,2013-saarf-attitudes-guide.pdf,pdf,SUCCESS
 2226,269,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2227,269,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2228,269,amps-2014-layout.pdf,pdf,SUCCESS
-2229,269,amps-2014-layout.pdf,pdf,SUCCESS
 2230,269,amps-2014-product-section.pdf,pdf,SUCCESS
-2231,269,amps-2014-product-section.pdf,pdf,SUCCESS
 2232,269,amps-data-user-guide.pdf,pdf,SUCCESS
-2233,269,amps-data-user-guide.pdf,pdf,SUCCESS
 2234,269,2013-saarf-attitudes-guide.pdf,pdf,SUCCESS
-2235,269,2013-saarf-attitudes-guide.pdf,pdf,SUCCESS
 2236,270,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2237,270,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2238,270,amps-2013-layout.pdf,pdf,SUCCESS
-2239,270,amps-2013-layout.pdf,pdf,SUCCESS
 2240,270,amps-2013-product-section.pdf,pdf,SUCCESS
-2241,270,amps-2013-product-section.pdf,pdf,SUCCESS
 2242,270,amps-data-user-guide.pdf,pdf,SUCCESS
-2243,270,amps-data-user-guide.pdf,pdf,SUCCESS
 2244,270,2013-saarf-attitudes-guide.pdf,pdf,SUCCESS
-2245,270,2013-saarf-attitudes-guide.pdf,pdf,SUCCESS
 2246,271,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2247,271,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2248,271,amps-data-user-guide.pdf,pdf,SUCCESS
-2249,271,amps-data-user-guide.pdf,pdf,SUCCESS
 2250,272,amps-2009-questionnaire.pdf,pdf,SUCCESS
-2251,272,amps-2009-questionnaire.pdf,pdf,SUCCESS
 2252,272,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2253,272,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2254,272,amps-data-user-guide.pdf,pdf,SUCCESS
-2255,272,amps-data-user-guide.pdf,pdf,SUCCESS
 2256,273,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2257,273,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2258,273,amps-data-user-guide.pdf,pdf,SUCCESS
-2259,273,amps-data-user-guide.pdf,pdf,SUCCESS
 2260,274,amps-data-user-guide.pdf,pdf,SUCCESS
-2261,274,amps-data-user-guide.pdf,pdf,SUCCESS
 2262,274,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2263,274,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2264,275,amps-data-user-guide.pdf,pdf,SUCCESS
-2265,275,amps-data-user-guide.pdf,pdf,SUCCESS
 2266,275,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2267,275,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2268,276,amps-data-user-guide.pdf,pdf,SUCCESS
-2269,276,amps-data-user-guide.pdf,pdf,SUCCESS
 2270,276,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2271,276,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2272,277,amps-data-user-guide.pdf,pdf,SUCCESS
-2273,277,amps-data-user-guide.pdf,pdf,SUCCESS
 2274,277,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2275,277,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2276,278,amps-data-user-guide.pdf,pdf,SUCCESS
-2277,278,amps-data-user-guide.pdf,pdf,SUCCESS
 2278,278,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2279,278,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2280,279,amps-2002-layout.pdf,pdf,SUCCESS
-2281,279,amps-2002-layout.pdf,pdf,SUCCESS
 2282,279,amps-data-user-guide.pdf,pdf,SUCCESS
-2283,279,amps-data-user-guide.pdf,pdf,SUCCESS
 2284,279,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2285,279,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2286,280,amps-1995-codebook.pdf,pdf,SUCCESS
-2287,280,amps-1995-codebook.pdf,pdf,SUCCESS
 2288,281,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2289,281,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2290,281,amps-data-user-guide.pdf,pdf,SUCCESS
-2291,281,amps-data-user-guide.pdf,pdf,SUCCESS
 2292,282,2025-public-spaces-luanda-phd.pdf,pdf,SUCCESS
-2293,282,2025-public-spaces-luanda-phd.pdf,pdf,SUCCESS
 2294,282,q-eepl-2022.pdf,pdf,SUCCESS
-2295,282,q-eepl-2022.pdf,pdf,SUCCESS
 2296,283,amps-data-user-guide.pdf,pdf,SUCCESS
-2297,283,amps-data-user-guide.pdf,pdf,SUCCESS
 2298,283,amps-2011-description-format-example.pdf,pdf,SUCCESS
-2299,283,amps-2011-description-format-example.pdf,pdf,SUCCESS
 2300,284,geps-2003-2014-guide.pdf,pdf,SUCCESS
-2301,284,geps-2003-2014-guide.pdf,pdf,SUCCESS
 2302,285,q-lfs-2001-2004-panel.pdf,pdf,SUCCESS
-2303,285,q-lfs-2001-2004-panel.pdf,pdf,SUCCESS
 2304,285,lfs-2001-2004-beta-panel.pdf,pdf,SUCCESS
-2305,285,lfs-2001-2004-beta-panel.pdf,pdf,SUCCESS
 2306,285,lfs-2001-2004-panel-metadata.pdf,pdf,SUCCESS
-2307,285,lfs-2001-2004-panel-metadata.pdf,pdf,SUCCESS
 2308,285,lfs-2001-2004-panel-methodology.pdf,pdf,SUCCESS
-2309,285,lfs-2001-2004-panel-methodology.pdf,pdf,SUCCESS
 2310,285,lfs-2001-2004-panel-person.xlsx,xlsx,SUCCESS
-2311,285,lfs-2001-2004-panel-person.xlsx,xlsx,SUCCESS
 2312,285,lfs-2001-2004-panel-industry-codes.xls,xls,SUCCESS
-2313,285,lfs-2001-2004-panel-industry-codes.xls,xls,SUCCESS
 2314,285,lfs-2001-2004-panel-occupation-codes.pdf,pdf,SUCCESS
-2315,285,lfs-2001-2004-panel-occupation-codes.pdf,pdf,SUCCESS
 2316,286,Q_PICS South Africa1 2004.pdf,pdf,SUCCESS
-2317,286,Q_PICS South Africa1 2004.pdf,pdf,SUCCESS
 2318,286,SA investment climate_DTI report.pdf,pdf,SUCCESS
-2319,286,SA investment climate_DTI report.pdf,pdf,SUCCESS
 2320,286,PICS 2000-2005 Manual.pdf,pdf,SUCCESS
-2321,286,PICS 2000-2005 Manual.pdf,pdf,SUCCESS
 2322,287,Q_OHS 1999.pdf,pdf,SUCCESS
-2323,287,Q_OHS 1999.pdf,pdf,SUCCESS
 2324,287,2001 SA InTransition.pdf,pdf,SUCCESS
-2325,287,2001 SA InTransition.pdf,pdf,SUCCESS
 2326,287,OHS 1999 Release.pdf,pdf,SUCCESS
-2327,287,OHS 1999 Release.pdf,pdf,SUCCESS
 2328,287,OHS 1999 Readme.pdf,pdf,SUCCESS
-2329,287,OHS 1999 Readme.pdf,pdf,SUCCESS
 2330,287,OHS 1996 Occ Codes.pdf,pdf,SUCCESS
-2331,287,OHS 1996 Occ Codes.pdf,pdf,SUCCESS
 2332,287,OHS 1999 Occ Codes2.pdf,pdf,SUCCESS
-2333,287,OHS 1999 Occ Codes2.pdf,pdf,SUCCESS
 2334,287,OHS 1999 Stratpsu readme.pdf,pdf,SUCCESS
-2335,287,OHS 1999 Stratpsu readme.pdf,pdf,SUCCESS
 2336,287,OHS 1999 Metadata.pdf,pdf,SUCCESS
-2337,287,OHS 1999 Metadata.pdf,pdf,SUCCESS
 2338,287,OHS 1999 String Variables.pdf,pdf,SUCCESS
-2339,287,OHS 1999 String Variables.pdf,pdf,SUCCESS
 2340,287,Cross Entropy Weights_Branson.zip,zip,SUCCESS
-2341,287,Cross Entropy Weights_Branson.zip,zip,SUCCESS
 2342,288,Calibrating StatsSA's Survey Weights-v2.pdf,pdf,SUCCESS
-2343,288,Calibrating StatsSA's Survey Weights-v2.pdf,pdf,SUCCESS
 2344,288,2008-princeton-paper-81360.pdf,pdf,SUCCESS
-2345,288,2008-princeton-paper-81360.pdf,pdf,SUCCESS
 2346,288,ProvOutput_051129.zip,zip,SUCCESS
-2347,288,ProvOutput_051129.zip,zip,SUCCESS
 2348,288,Cross Entropy Weights-do files-v1.1.zip,zip,SUCCESS
-2349,288,Cross Entropy Weights-do files-v1.1.zip,zip,SUCCESS
 2350,289,egrs-2017-2020-instruments.zip,zip,SUCCESS
-2351,289,egrs-2017-2020-instruments.zip,zip,SUCCESS
 2352,289,egrs-w4-vocab-instruments.zip,zip,SUCCESS
-2353,289,egrs-w4-vocab-instruments.zip,zip,SUCCESS
 2354,289,egrs-2017-2020-reports.zip,zip,SUCCESS
-2355,289,egrs-2017-2020-reports.zip,zip,SUCCESS
 2356,289,egrs-2017-2020-userguide.pdf,pdf,SUCCESS
-2357,289,egrs-2017-2020-userguide.pdf,pdf,SUCCESS
 2358,289,egrs-2019-w4-vocab-userguide.pdf,pdf,SUCCESS
-2359,289,egrs-2019-w4-vocab-userguide.pdf,pdf,SUCCESS
 2360,290,egrs-2-2017-2020-userguide.pdf,pdf,SUCCESS
-2361,290,egrs-2-2017-2020-userguide.pdf,pdf,SUCCESS
 2362,290,egrs-2-2019-w4-vocab-userguide.pdf,pdf,SUCCESS
-2363,290,egrs-2-2019-w4-vocab-userguide.pdf,pdf,SUCCESS
 2364,291,Q_CS 2007.pdf,pdf,SUCCESS
-2365,291,Q_CS 2007.pdf,pdf,SUCCESS
 2366,291,CS 2007 Metadata.pdf,pdf,SUCCESS
-2367,291,CS 2007 Metadata.pdf,pdf,SUCCESS
 2368,291,CS 2007 Cautionary Note.pdf,pdf,SUCCESS
-2369,291,CS 2007 Cautionary Note.pdf,pdf,SUCCESS
 2370,292,LFS 2004_March Questionnaire.pdf,pdf,SUCCESS
-2371,292,LFS 2004_March Questionnaire.pdf,pdf,SUCCESS
 2372,292,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2373,292,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2374,292,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2375,292,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2376,292,LFS 2004_March Release.pdf,pdf,SUCCESS
-2377,292,LFS 2004_March Release.pdf,pdf,SUCCESS
 2378,292,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-2379,292,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 2380,292,LFS 2004_March Readme.pdf,pdf,SUCCESS
-2381,292,LFS 2004_March Readme.pdf,pdf,SUCCESS
 2382,292,LFS 2004_March Industry Codes.pdf,pdf,SUCCESS
-2383,292,LFS 2004_March Industry Codes.pdf,pdf,SUCCESS
 2384,292,LFS 2004_March Occupation Codes.pdf,pdf,SUCCESS
-2385,292,LFS 2004_March Occupation Codes.pdf,pdf,SUCCESS
 2386,292,LFS 2004_March Metadata.pdf,pdf,SUCCESS
-2387,292,LFS 2004_March Metadata.pdf,pdf,SUCCESS
 2388,293,Q_FDP 2003-2004.zip,zip,SUCCESS
-2389,293,Q_FDP 2003-2004.zip,zip,SUCCESS
 2390,293,FDP 2003-2004 Reports.zip,zip,SUCCESS
-2391,293,FDP 2003-2004 Reports.zip,zip,SUCCESS
 2392,294,LFS 2003_September Questionnaire.pdf,pdf,SUCCESS
-2393,294,LFS 2003_September Questionnaire.pdf,pdf,SUCCESS
 2394,294,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2395,294,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2396,294,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2397,294,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2398,294,LFS 2003_September Release.pdf,pdf,SUCCESS
-2399,294,LFS 2003_September Release.pdf,pdf,SUCCESS
 2400,294,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-2401,294,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 2402,294,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-2403,294,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 2404,294,LFS 2003_September Readme.pdf,pdf,SUCCESS
-2405,294,LFS 2003_September Readme.pdf,pdf,SUCCESS
 2406,294,LFS 2003_September Industry Codes.pdf,pdf,SUCCESS
-2407,294,LFS 2003_September Industry Codes.pdf,pdf,SUCCESS
 2408,294,LFS 2003_September Occupation Codes.pdf,pdf,SUCCESS
-2409,294,LFS 2003_September Occupation Codes.pdf,pdf,SUCCESS
 2410,294,LFS 2003_September Main Place Codes.pdf,pdf,SUCCESS
-2411,294,LFS 2003_September Main Place Codes.pdf,pdf,SUCCESS
 2412,294,LFS 2003_September Metadata.pdf,pdf,SUCCESS
-2413,294,LFS 2003_September Metadata.pdf,pdf,SUCCESS
 2414,295,LFS 2002_February Questionnaire.pdf,pdf,SUCCESS
-2415,295,LFS 2002_February Questionnaire.pdf,pdf,SUCCESS
 2416,295,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2417,295,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2418,295,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2419,295,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2420,295,LFS 2002_February Release.pdf,pdf,SUCCESS
-2421,295,LFS 2002_February Release.pdf,pdf,SUCCESS
 2422,295,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-2423,295,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 2424,295,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-2425,295,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 2426,295,LFS 2002_February Readme.pdf,pdf,SUCCESS
-2427,295,LFS 2002_February Readme.pdf,pdf,SUCCESS
 2428,295,LFS 2002_February Industry Codelist.pdf,pdf,SUCCESS
-2429,295,LFS 2002_February Industry Codelist.pdf,pdf,SUCCESS
 2430,295,LFS 2002_February Occupation Codelist.pdf,pdf,SUCCESS
-2431,295,LFS 2002_February Occupation Codelist.pdf,pdf,SUCCESS
 2432,295,LFS 2002_February Metadata.pdf,pdf,SUCCESS
-2433,295,LFS 2002_February Metadata.pdf,pdf,SUCCESS
 2434,296,LFS 2003_March Questionnaire.pdf,pdf,SUCCESS
-2435,296,LFS 2003_March Questionnaire.pdf,pdf,SUCCESS
 2436,296,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2437,296,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2438,296,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2439,296,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2440,296,LFS 2003_March Release.pdf,pdf,SUCCESS
-2441,296,LFS 2003_March Release.pdf,pdf,SUCCESS
 2442,296,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-2443,296,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 2444,296,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-2445,296,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 2446,296,LFS 2003_March Readme.pdf,pdf,SUCCESS
-2447,296,LFS 2003_March Readme.pdf,pdf,SUCCESS
 2448,296,LFS 2003_March Industry Codelist.pdf,pdf,SUCCESS
-2449,296,LFS 2003_March Industry Codelist.pdf,pdf,SUCCESS
 2450,296,LFS 2003_March Occupation Codelist.pdf,pdf,SUCCESS
-2451,296,LFS 2003_March Occupation Codelist.pdf,pdf,SUCCESS
 2452,296,LFS 2003_March Metadata.pdf,pdf,SUCCESS
-2453,296,LFS 2003_March Metadata.pdf,pdf,SUCCESS
 2454,297,Social giving questionnaire.pdf,pdf,SUCCESS
-2455,297,Social giving questionnaire.pdf,pdf,SUCCESS
 2456,297,A Nation of givers_Everatt.pdf,pdf,SUCCESS
-2457,297,A Nation of givers_Everatt.pdf,pdf,SUCCESS
 2458,297,20130423-sasgs-data-quality-notes.pdf,pdf,SUCCESS
-2459,297,20130423-sasgs-data-quality-notes.pdf,pdf,SUCCESS
 2460,298,LFS 2001_September Questionnaire.pdf,pdf,SUCCESS
-2461,298,LFS 2001_September Questionnaire.pdf,pdf,SUCCESS
 2462,298,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2463,298,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2464,298,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2465,298,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2466,298,LFS 2001_September Release.pdf,pdf,SUCCESS
-2467,298,LFS 2001_September Release.pdf,pdf,SUCCESS
 2468,298,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-2469,298,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 2470,298,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-2471,298,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 2472,298,LFS 2001_September Readme.pdf,pdf,SUCCESS
-2473,298,LFS 2001_September Readme.pdf,pdf,SUCCESS
 2474,298,LFS 2001_September Industry Codelist.pdf,pdf,SUCCESS
-2475,298,LFS 2001_September Industry Codelist.pdf,pdf,SUCCESS
 2476,298,LFS 2001_September Occupation Codelist.pdf,pdf,SUCCESS
-2477,298,LFS 2001_September Occupation Codelist.pdf,pdf,SUCCESS
 2478,298,LFS 2001_September Metadata.pdf,pdf,SUCCESS
-2479,298,LFS 2001_September Metadata.pdf,pdf,SUCCESS
 2480,299,q-ohs-1996-v3.pdf,pdf,SUCCESS
-2481,299,q-ohs-1996-v3.pdf,pdf,SUCCESS
 2482,299,OHS 1996 Release.pdf,pdf,SUCCESS
-2483,299,OHS 1996 Release.pdf,pdf,SUCCESS
 2484,299,OHS 1996 Strata.pdf,pdf,SUCCESS
-2485,299,OHS 1996 Strata.pdf,pdf,SUCCESS
 2486,299,OHS 1996 Metadata.pdf,pdf,SUCCESS
-2487,299,OHS 1996 Metadata.pdf,pdf,SUCCESS
 2488,299,OHS 1996 Area Codes.pdf,pdf,SUCCESS
-2489,299,OHS 1996 Area Codes.pdf,pdf,SUCCESS
 2490,299,OHS 1996 Domestic Codes.pdf,pdf,SUCCESS
-2491,299,OHS 1996 Domestic Codes.pdf,pdf,SUCCESS
 2492,299,OHS 1996 Ind Codes.pdf,pdf,SUCCESS
-2493,299,OHS 1996 Ind Codes.pdf,pdf,SUCCESS
 2494,299,OHS 1996 Occ Codes.pdf,pdf,SUCCESS
-2495,299,OHS 1996 Occ Codes.pdf,pdf,SUCCESS
 2496,299,ohs-1996-fieldworker-manual.pdf,pdf,SUCCESS
-2497,299,ohs-1996-fieldworker-manual.pdf,pdf,SUCCESS
-2498,299,ohs-1996-fieldworker-manual.pdf,pdf,SUCCESS
-2499,299,ohs-1996-fieldworker-manual.pdf,pdf,SUCCESS
 2500,299,OHS 1996_hhold id_varnames.pdf,pdf,SUCCESS
-2501,299,OHS 1996_hhold id_varnames.pdf,pdf,SUCCESS
 2502,300,LFS 2001_February Questionnaire.pdf,pdf,SUCCESS
-2503,300,LFS 2001_February Questionnaire.pdf,pdf,SUCCESS
 2504,300,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2505,300,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2506,300,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2507,300,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2508,300,LFS 2001_February Release.pdf,pdf,SUCCESS
-2509,300,LFS 2001_February Release.pdf,pdf,SUCCESS
 2510,300,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-2511,300,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 2512,300,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
-2513,300,LFS 2001-2007 Historical Revisions.pdf,pdf,SUCCESS
 2514,300,LFS 2001_February Readme.pdf,pdf,SUCCESS
-2515,300,LFS 2001_February Readme.pdf,pdf,SUCCESS
 2516,300,LFS 2001_February Occupation Codelist.pdf,pdf,SUCCESS
-2517,300,LFS 2001_February Occupation Codelist.pdf,pdf,SUCCESS
 2518,300,LFS 2001_February Industry Codelist.pdf,pdf,SUCCESS
-2519,300,LFS 2001_February Industry Codelist.pdf,pdf,SUCCESS
 2520,300,LFS 2001_February Metadata.pdf,pdf,SUCCESS
-2521,300,LFS 2001_February Metadata.pdf,pdf,SUCCESS
 2522,301,LFS 2000_September Questionnaire.pdf,pdf,SUCCESS
-2523,301,LFS 2000_September Questionnaire.pdf,pdf,SUCCESS
 2524,301,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
-2525,301,LFS 2000-2005 Historical Series of Revised Estimates.pdf,pdf,SUCCESS
 2526,301,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
-2527,301,LFS 2000-2008 - DataFirst - Collated Version Notes.pdf,pdf,SUCCESS
 2528,301,LFS 2000_September Release.pdf,pdf,SUCCESS
-2529,301,LFS 2000_September Release.pdf,pdf,SUCCESS
 2530,301,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
-2531,301,LFS 2000-2003 Reweighted Readme.pdf,pdf,SUCCESS
 2532,301,LFS 2000_September Readme.pdf,pdf,SUCCESS
-2533,301,LFS 2000_September Readme.pdf,pdf,SUCCESS
 2534,301,LFS 2000_September Metadata.pdf,pdf,SUCCESS
-2535,301,LFS 2000_September Metadata.pdf,pdf,SUCCESS
 2536,301,LFS 2000_September Revised Metadata.pdf,pdf,SUCCESS
-2537,301,LFS 2000_September Revised Metadata.pdf,pdf,SUCCESS
 2538,301,LFS 2000_September Industry Codelist.pdf,pdf,SUCCESS
-2539,301,LFS 2000_September Industry Codelist.pdf,pdf,SUCCESS
 2540,301,LFS 2000_September Occupation Codelist.pdf,pdf,SUCCESS
-2541,301,LFS 2000_September Occupation Codelist.pdf,pdf,SUCCESS
 2542,302,Media Tenor SA 2004 Codebook.pdf,pdf,SUCCESS
-2543,302,Media Tenor SA 2004 Codebook.pdf,pdf,SUCCESS
 2544,302,Media Tenor SA 2004 Guide.pdf,pdf,SUCCESS
-2545,302,Media Tenor SA 2004 Guide.pdf,pdf,SUCCESS
 2546,302,Media Tenor SA 2004 Data Checks.pdf,pdf,SUCCESS
-2547,302,Media Tenor SA 2004 Data Checks.pdf,pdf,SUCCESS
 2548,303,idc-2020-2021-variables.pdf,pdf,SUCCESS
-2549,303,idc-2020-2021-variables.pdf,pdf,SUCCESS
 2550,303,2021-idc-fp.pdf,pdf,SUCCESS
-2551,303,2021-idc-fp.pdf,pdf,SUCCESS
 2552,303,icd-2020-2021-prevalence-study-variables.pdf,pdf,SUCCESS
-2553,303,icd-2020-2021-prevalence-study-variables.pdf,pdf,SUCCESS
 2554,303,ecgi-2021-variables.pdf,pdf,SUCCESS
-2555,303,ecgi-2021-variables.pdf,pdf,SUCCESS
 2556,304,roer4d-metasynthesis-dataset-description.pdf,pdf,SUCCESS
-2557,304,roer4d-metasynthesis-dataset-description.pdf,pdf,SUCCESS
 2558,305,q-hiogs-2014-2015-instructors.pdf,pdf,SUCCESS
-2559,305,q-hiogs-2014-2015-instructors.pdf,pdf,SUCCESS
 2560,305,hiogs-2014-2015-description.pdf,pdf,SUCCESS
-2561,305,hiogs-2014-2015-description.pdf,pdf,SUCCESS
 2562,305,hiogs-2014-2015-de-identification.pdf,pdf,SUCCESS
-2563,305,hiogs-2014-2015-de-identification.pdf,pdf,SUCCESS
 2564,305,hiogs-2014-2015-codebook.pdf,pdf,SUCCESS
-2565,305,hiogs-2014-2015-codebook.pdf,pdf,SUCCESS
 2566,306,pnss-2013-2014-canevas-enquete-20140407.pdf,pdf,SUCCESS
-2567,306,pnss-2013-2014-canevas-enquete-20140407.pdf,pdf,SUCCESS
 2568,306,pnss-2013-2014-guide-entretiens-20131405.pdf,pdf,SUCCESS
-2569,306,pnss-2013-2014-guide-entretiens-20131405.pdf,pdf,SUCCESS
 2570,306,pnss-2013-2014-research-methodology.pdf,pdf,SUCCESS
-2571,306,pnss-2013-2014-research-methodology.pdf,pdf,SUCCESS
 2572,306,pnss-2013-2014-intro-2014.pdf,pdf,SUCCESS
-2573,306,pnss-2013-2014-intro-2014.pdf,pdf,SUCCESS
 2574,306,pnss-2013-2014-socio-anthropologique-2013.pdf.pdf,pdf,SUCCESS
-2575,306,pnss-2013-2014-socio-anthropologique-2013.pdf.pdf,pdf,SUCCESS
 2576,307,uct-sad-2006-2014-notes-v1.pdf,pdf,SUCCESS
-2577,307,uct-sad-2006-2014-notes-v1.pdf,pdf,SUCCESS
 2578,307,2007-uct-application.pdf,pdf,SUCCESS
-2579,307,2007-uct-application.pdf,pdf,SUCCESS
 2580,307,2009-uct-application.pdf,pdf,SUCCESS
-2581,307,2009-uct-application.pdf,pdf,SUCCESS
 2582,307,2010-uct-application.pdf,pdf,SUCCESS
-2583,307,2010-uct-application.pdf,pdf,SUCCESS
 2584,307,2012-uct-application.pdf,pdf,SUCCESS
-2585,307,2012-uct-application.pdf,pdf,SUCCESS
 2586,307,2013-uct-application-undergraduate.pdf,pdf,SUCCESS
-2587,307,2013-uct-application-undergraduate.pdf,pdf,SUCCESS
 2588,307,2014-uct-application-undergraduate.pdf,pdf,SUCCESS
-2589,307,2014-uct-application-undergraduate.pdf,pdf,SUCCESS
 2590,307,2015-uct-application-undergraduate.pdf,pdf,SUCCESS
-2591,307,2015-uct-application-undergraduate.pdf,pdf,SUCCESS
 2592,307,2016-uct-application-undergraduate.pdf,pdf,SUCCESS
-2593,307,2016-uct-application-undergraduate.pdf,pdf,SUCCESS
 2594,307,2013-uct-application-postgraduate.pdf,pdf,SUCCESS
-2595,307,2013-uct-application-postgraduate.pdf,pdf,SUCCESS
 2596,307,2014-uct-application-postgraduate.pdf,pdf,SUCCESS
-2597,307,2014-uct-application-postgraduate.pdf,pdf,SUCCESS
 2598,307,2015-uct-application-postgraduate.pdf,pdf,SUCCESS
-2599,307,2015-uct-application-postgraduate.pdf,pdf,SUCCESS
 2600,307,2016-uct-application-postgraduate.pdf,pdf,SUCCESS
-2601,307,2016-uct-application-postgraduate.pdf,pdf,SUCCESS
 2602,307,2016-uct-application-ba-fine-art.pdf,pdf,SUCCESS
-2603,307,2016-uct-application-ba-fine-art.pdf,pdf,SUCCESS
 2604,307,2016-uct-application-bas.pdf,pdf,SUCCESS
-2605,307,2016-uct-application-bas.pdf,pdf,SUCCESS
 2606,308,documentation_1033.pdf,pdf,SUCCESS
 2607,309,elmmfs-2013-2014-panel-questions.pdf,pdf,SUCCESS
-2608,309,elmmfs-2013-2014-panel-questions.pdf,pdf,SUCCESS
 2609,309,q-elmmfs-2013-2014-20140120.pdf,pdf,SUCCESS
-2610,309,q-elmmfs-2013-2014-20140120.pdf,pdf,SUCCESS
 2611,309,elmmfs-2013-2014-codebook.pdf,pdf,SUCCESS
-2612,309,elmmfs-2013-2014-codebook.pdf,pdf,SUCCESS
 2613,309,q-elmmfs-2013-2014-qual-codebook.pdf,pdf,SUCCESS
-2614,309,q-elmmfs-2013-2014-qual-codebook.pdf,pdf,SUCCESS
 2615,310,q-cois-2020.pdf,pdf,SUCCESS
-2616,310,q-cois-2020.pdf,pdf,SUCCESS
 2617,310,cois-2020-program-files.zip,zip,SUCCESS
-2618,310,cois-2020-program-files.zip,zip,SUCCESS
 2619,311,Q_SEPURN KMP 2006 Khayelitsha.pdf,pdf,SUCCESS
-2620,311,Q_SEPURN KMP 2006 Khayelitsha.pdf,pdf,SUCCESS
 2621,311,Q_SEPURN KMP 2006 Mitchells Plain.pdf,pdf,SUCCESS
-2622,311,Q_SEPURN KMP 2006 Mitchells Plain.pdf,pdf,SUCCESS
 2623,311,SEPURN KMP 2006 Report.pdf,pdf,SUCCESS
-2624,311,SEPURN KMP 2006 Report.pdf,pdf,SUCCESS
 2625,311,SEPURN KMP 2006 Data Layout.pdf,pdf,SUCCESS
-2626,311,SEPURN KMP 2006 Data Layout.pdf,pdf,SUCCESS
 2627,312,documentation_722.pdf,pdf,FAILED_HTTP_500
 2628,312,no_files,,FAILED_LOGIN_REQUIRED
 2629,313,Q_SA Census 2001 Household.pdf,pdf,SUCCESS
-2630,313,Q_SA Census 2001 Household.pdf,pdf,SUCCESS
 2631,313,Q_SA Census 2001 Ind in Institutions.pdf,pdf,SUCCESS
-2632,313,Q_SA Census 2001 Ind in Institutions.pdf,pdf,SUCCESS
 2633,313,Census 2001 Imputation Metadata.pdf,pdf,SUCCESS
-2634,313,Census 2001 Imputation Metadata.pdf,pdf,SUCCESS
 2635,313,Census 2001 Imputation of missing data.pdf,pdf,SUCCESS
-2636,313,Census 2001 Imputation of missing data.pdf,pdf,SUCCESS
 2637,314,no_files,,FAILED_NO_DOWNLOAD_LINK
 2638,315,no_files,,FAILED_NO_DOWNLOAD_LINK
 2639,316,descriptionjeanne_block_award_application_2024.doc,doc,SUCCESS
