@@ -295,3 +295,30 @@ Python 3.9+ required. Tested on macOS with Python 3.9.
 
 Code: MIT License
 Data: Downloaded under respective repository licenses (primarily CC BY for DataFirst UCT datasets)
+
+---
+
+## Qualitative Research Files Found
+
+Although no `.qdpx` or QDA-format files exist in these two repositories,
+the following qualitative research materials were successfully downloaded:
+
+| Type | Count |
+|------|-------|
+| Interview instruments | 4 |
+| Interview schedules | 2 |
+| Codebooks | 40+ |
+| Survey questionnaires | 200+ |
+| Research reports | 500+ |
+| Data documentation (ZIP) | 75 |
+
+Notable qualitative files:
+- `fpoi-2014-2015-interview-instrument.pdf` — Interview instrument (OER India study)
+- `oerm-2015-2016-interview-instrument.pdf` — Interview instrument (OER MOOCs study)
+- `rscaoersa-2015-interview-schedule.pdf` — Interview schedule (OER South Africa)
+- `ecdc-2021-interview.pdf` — Interview document (Early Childhood Development)
+- `q-elmmfs-2013-2014-qual-codebook.pdf` — Qualitative codebook
+
+DataFirst UCT and Harvard Murray Archive do not host `.qdpx` or other
+QDA software files — they are survey/statistics repositories. All publicly
+available files from both repositories have been downloaded.
