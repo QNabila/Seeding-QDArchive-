@@ -546,3 +546,7 @@ python-dotenv
 - **Data:** Downloaded under respective source licenses
   - DataFirst UCT: CC BY (Creative Commons Attribution)
   - Harvard Dataverse: CC0 or as specified per dataset
+
+## Downloaded Data
+
+- **Data folder (2.8GB):** https://faubox.rrze.uni-erlangen.de/getlink/fi3AuAAgHVmFWQzG8rwAns/
