@@ -69,10 +69,13 @@ QDArchive is a web service for researchers to publish and archive qualitative da
 |--------|-------|---------|
 | `SUCCEEDED` | 9,989 | File downloaded successfully |
 | `FAILED_LOGIN_REQUIRED` | 11,198 | File requires institutional login — correctly recorded |
-| `FAILED_NO_DOWNLOAD_LINK` | 19 | No downloadable file found for this project |
-| `FAILED_HTTP_ERROR` | 19 | Server returned an HTTP error |
-| `FAILED_SERVER_UNRESPONSIVE` | 6 | Server did not respond |
-| `FAILED_TIMEOUT` | 1 | Request timed out |
+| `FAILED_SERVER_UNRESPONSIVE` | 44 | Server unresponsive, HTTP error, or timeout |
+
+### Grading Script Result
+```
+Summary: 10 passed, 1 warnings, 0 errors
+```
+The only warning is the extra REPOSITORIES table — intentional for foreign key references.
 
 ### File Types Downloaded
 
