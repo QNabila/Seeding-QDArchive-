@@ -536,7 +536,7 @@ python-dotenv
 - **GitHub Repository:** https://github.com/QNabila/Seeding-QDArchive-
 - **Git Tag:** `part-1-release`
 - **Database File:** `23079506-seeding.db` (in repository root)
-- **Downloaded Data:** Available on Google Drive (~2.8 GB)
+- **Downloaded Data:** https://faubox.rrze.uni-erlangen.de/getlink/fi3AuAAgHVmFWQzG8rwAns/
 
 ---
 
@@ -546,7 +546,3 @@ python-dotenv
 - **Data:** Downloaded under respective source licenses
   - DataFirst UCT: CC BY (Creative Commons Attribution)
   - Harvard Dataverse: CC0 or as specified per dataset
-
-## Downloaded Data
-
-- **Data folder (2.8GB):** https://faubox.rrze.uni-erlangen.de/getlink/fi3AuAAgHVmFWQzG8rwAns/
