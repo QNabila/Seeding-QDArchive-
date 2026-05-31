@@ -1,40 +1,48 @@
-# QDArchive — Part 1: Data Acquisition Pipeline
+# QDArchive — Seeding Project (Part 1 + Part 2)
 
 **Student:** Nabila Kader | **Student ID:** 23079506
 **Course:** Seeding QDArchive (SQ26) — Applied Software Engineering
 **University:** FAU Erlangen-Nürnberg
-**Professor:** Dirk Riehle, Professorship for Open-Source Software
+**Professor:** Prof. Dr. Dirk Riehle, Professorship for Open-Source Software
 **Semester:** Winter 2025/26 + Summer 2026
-**Submission Tag:** `part-1-release`
+**Submission Tags:** `part-1-release` · `classification-results`
 
 ---
 
 ## Table of Contents
 
+**Part 1 — Data Acquisition**
 1. [Project Overview](#1-project-overview)
 2. [Assigned Repositories](#2-assigned-repositories)
-3. [Final Results](#3-final-results)
+3. [Part 1 Results](#3-part-1-results)
 4. [Repository Structure](#4-repository-structure)
 5. [Database Schema](#5-database-schema)
-6. [How to Run](#6-how-to-run)
+6. [How to Run Part 1](#6-how-to-run-part-1)
 7. [Scraping Strategy](#7-scraping-strategy)
 8. [Search Queries Used](#8-search-queries-used)
 9. [Download Strategy](#9-download-strategy)
 10. [Data Quality Notes](#10-data-quality-notes)
-11. [Technical Challenges](#11-technical-challenges)
-12. [Submission Checklist](#12-submission-checklist)
+11. [Technical Challenges (Part 1)](#11-technical-challenges-part-1)
+
+**Part 2 — Data Classification**
+
+12. [Part 2 Overview](#12-part-2-overview)
+13. [Part 2 Results](#13-part-2-results)
+14. [Classification Methodology](#14-classification-methodology)
+15. [ISIC Results by Repository](#15-isic-results-by-repository)
+16. [How to Run Part 2](#16-how-to-run-part-2)
+17. [Technical Challenges (Part 2)](#17-technical-challenges-part-2)
+18. [Submission Checklist](#18-submission-checklist)
 
 ---
 
 ## 1. Project Overview
 
-QDArchive is a web service for researchers to publish and archive qualitative data, with an emphasis on Qualitative Data Analysis (QDA) files. The goal of Part 1 is to **seed QDArchive** by building an automated data acquisition pipeline that:
+QDArchive is a web service for researchers to publish and archive qualitative data, with an emphasis on Qualitative Data Analysis (QDA) files. This project seeds QDArchive in two phases:
 
-- Scrapes qualitative research projects from assigned public repositories
-- Downloads all publicly available files
-- Stores structured metadata in a SQLite database following the professor's exact schema
-- Exports all data to CSV format
-- Reports clearly on what was downloaded and what could not be downloaded (with reasons)
+**Part 1 — Data Acquisition:** Build an automated pipeline that scrapes qualitative research projects from assigned public repositories, downloads all publicly available files, and stores structured metadata in a SQLite database.
+
+**Part 2 — Data Classification:** Classify every collected project by project type (QDA/QD/OTHER/NOT_A_PROJECT) and by economic sector using the ISIC Rev. 5 international standard (down to division level).
 
 ---
 
@@ -47,7 +55,7 @@ QDArchive is a web service for researchers to publish and archive qualitative da
 
 ---
 
-## 3. Final Results
+## 3. Part 1 Results
 
 ### Summary Statistics
 
@@ -111,131 +119,95 @@ Although neither repository hosts `.qdpx` or QDA software files (they are survey
 
 ```
 Seeding-QDArchive-/
-├── 23079506-seeding.db              ← SQLite database (professor's required naming)
-├── README.md                        ← This file
-├── .gitignore                       ← Excludes metadata.db, data/, .env
-├── requirements.txt                 ← Python dependencies
-├── main.py                          ← Main entry point
+├── 23079506-seeding.db                  ← Part 1: SQLite acquisition database
+├── 23079506-sq26-classification.db      ← Part 2: SQLite classification database
+├── 23079506-classification.xlsx         ← Part 2: XLSX export (required submission)
+├── 23079506-classification-report.pdf   ← Part 2: PDF report (vector graphics)
+├── 23079506-classification-report.docx  ← Part 2: Word version (editable)
+├── README.md                            ← This file
+├── .gitignore
+├── requirements.txt
+├── main.py                              ← Part 1 main entry point
 │
 ├── db/
-│   ├── __init__.py
-│   ├── schema.sql                   ← Creates all 6 tables + seeds repositories
-│   └── database.py                  ← DB functions, status/role constants
+│   ├── schema.sql                       ← Creates all 6 tables + seeds repositories
+│   └── database.py                      ← DB functions, status/role constants
 │
 ├── scrapers/
-│   ├── __init__.py
-│   ├── datafirst_scraper.py         ← DataFirst UCT keyword search scraper
-│   └── harvard_scraper.py           ← Harvard Murray website HTML scraper
+│   ├── datafirst_scraper.py             ← DataFirst UCT keyword search scraper
+│   └── harvard_scraper.py               ← Harvard Murray website HTML scraper
 │
 ├── pipeline/
-│   ├── __init__.py
-│   └── downloader.py                ← HTTP file downloader with status tracking
+│   └── downloader.py                    ← HTTP file downloader with status tracking
 │
 ├── export/
-│   ├── __init__.py
-│   ├── csv_exporter.py              ← Exports all 6 tables to CSV
-│   └── csv/
-│       ├── repositories.csv         ← 2 rows
-│       ├── projects.csv             ← 1,518 rows
-│       ├── files.csv                ← 21,232 rows
-│       ├── keywords.csv             ← 1,727 rows
-│       ├── person_role.csv          ← 24,757 rows
-│       └── licenses.csv             ← 1,518 rows
+│   ├── csv_exporter.py                  ← Exports all 6 tables to CSV
+│   └── csv/                             ← 6 CSV exports (repositories, projects, files…)
 │
 ├── scripts/
-│   ├── retry_429.py                 ← Retries HTTP 429 rate-limited downloads
-│   ├── crawl_all_datafirst.py       ← Full catalog crawl (all 596 studies)
-│   └── harvard_dataverse_scraper.py ← Harvard Dataverse API scraper
+│   ├── classify.py                      ← Part 2: ISIC classifier (keyword-based)
+│   ├── generate_report.py               ← Part 2: PDF report generator (vector charts)
+│   ├── generate_word.py                 ← Part 2: Word report generator
+│   ├── crawl_all_datafirst.py           ← Full DataFirst catalog crawl
+│   ├── harvard_dataverse_scraper.py     ← Harvard Dataverse API scraper
+│   └── retry_429.py                     ← Retries HTTP 429 rate-limited downloads
 │
-└── data/                            ← NOT in Git — on Google Drive
-    ├── datafirst/{project_idno}/    ← e.g. datafirst/zaf-statssa-dts-2021-v1/
-    └── harvard/{doi_as_folder}/     ← e.g. harvard/doi_10.7910_DVN_XXXXX/
+└── data/                                ← NOT in Git — on Google Drive (link below)
+    ├── datafirst/{project_idno}/
+    └── harvard/{doi_as_folder}/
 ```
 
 ---
 
 ## 5. Database Schema
 
-The database `23079506-seeding.db` follows the professor's exact schema with 6 tables.
+### Part 1 Database: `23079506-seeding.db`
 
-### REPOSITORIES
-Seed table for the two assigned repositories.
+Six tables following the professor's exact schema:
 
-| Field | Type | Value |
-|-------|------|-------|
-| id | INTEGER | 1 = datafirst, 2 = harvard |
-| name | TEXT | `datafirst` / `harvard` |
-| url | TEXT | Top-level repo URL |
+| Table | Rows | Description |
+|-------|------|-------------|
+| REPOSITORIES | 2 | DataFirst + Harvard |
+| PROJECTS | 1,518 | One row per research project |
+| FILES | 21,232 | All files (downloaded + failed) |
+| KEYWORDS | 1,727 | Keywords per project |
+| PERSON_ROLE | 24,757 | Authors, uploaders, contributors |
+| LICENSES | 1,518 | License per project |
 
-### PROJECTS
-One row per research project. All required fields are populated.
+**PROJECTS key fields:**
 
 | Field | Type | Notes |
 |-------|------|-------|
-| id | INTEGER | Auto-increment primary key |
-| query_string | STRING | Query that found this project |
 | repository_id | INTEGER | FK → REPOSITORIES |
-| repository_url | URL | Top-level repo URL |
 | project_url | URL | Full URL to project page |
-| version | STRING | Version string if any |
 | title | STRING | Project title |
 | description | TEXT | Abstract / description |
-| language | BCP 47 | e.g. `en` |
 | doi | URL | DOI URL if available |
-| upload_date | DATE | Upload date from source |
-| download_date | TIMESTAMP | When our download concluded |
+| download_method | ENUM | `API-CALL` or `SCRAPING` |
 | download_repository_folder | STRING | e.g. `datafirst` |
 | download_project_folder | STRING | Project ID from source site |
-| download_version_folder | STRING | NULL (see Data Quality Notes) |
-| download_method | ENUM | `API-CALL` or `SCRAPING` |
 
-### FILES
-One row per file per project — both successful and failed downloads.
-
-| Field | Type | Notes |
-|-------|------|-------|
-| id | INTEGER | Auto-increment primary key |
-| project_id | INTEGER | FK → PROJECTS |
-| file_name | STRING | Filename as on source site |
-| file_type | STRING | Extension only (e.g. `pdf`) |
-| status | DOWNLOAD_RESULT | See enum values below |
-
-**DOWNLOAD_RESULT enum values used:**
+**DOWNLOAD_RESULT enum values:**
 - `SUCCEEDED` — file downloaded successfully
 - `FAILED_LOGIN_REQUIRED` — institutional registration required
-- `FAILED_SERVER_UNRESPONSIVE` — server did not respond (HTTP 500)
+- `FAILED_SERVER_UNRESPONSIVE` — server did not respond
 - `FAILED_NO_DOWNLOAD_LINK` — no downloadable file found
 - `FAILED_HTTP_ERROR` — other HTTP error
 - `FAILED_TIMEOUT` — request timed out
 
-### KEYWORDS
-One row per keyword per project.
+### Part 2 Database: `23079506-sq26-classification.db`
 
-| Field | Notes |
-|-------|-------|
-| project_id | FK → PROJECTS |
-| keyword | Raw keyword string from source |
+Extends the Part 1 schema with two additional columns on PROJECTS:
 
-*Note: DataFirst does not return keywords in their API for most studies. Harvard Dataverse keywords are captured where available. See Data Quality Notes.*
-
-### PERSON_ROLE
-One row per person per project — 24,757 records.
-
-| Field | Notes |
-|-------|-------|
-| name | Full name string |
-| role | `AUTHOR`, `UPLOADER`, `OWNER`, `OTHER`, or `UNKNOWN` |
-
-### LICENSES
-One row per license per project — 1,518 records.
-
-| Field | Notes |
-|-------|-------|
-| license | e.g. `CC BY`, `CC0`, `CC BY-SA` |
+| Column | Type | Description |
+|--------|------|-------------|
+| `type` | TEXT | `QDA_PROJECT`, `QD_PROJECT`, `OTHER_PROJECT`, or `NOT_A_PROJECT` |
+| `primary_class` | TEXT | ISIC Rev. 5 division e.g. `86: Human health activities` |
+| `secondary_class` | TEXT | Second ISIC division if applicable |
 
 ---
 
-## 6. How to Run
+## 6. How to Run Part 1
 
 ### Prerequisites
 - Python 3.9+
@@ -244,69 +216,43 @@ One row per license per project — 1,518 records.
 
 ### Setup
 ```bash
-# Clone the repository
 git clone https://github.com/QNabila/Seeding-QDArchive-.git
 cd Seeding-QDArchive-
-
-# Create and activate virtual environment
 python3 -m venv .venv
 source .venv/bin/activate
-
-# Install dependencies
 pip install -r requirements.txt
 ```
 
-### Run the Main Pipeline
+### Run the Pipeline
 ```bash
-# Run both scrapers + export (full pipeline)
-python3 main.py
+python3 main.py                          # Full pipeline (both repos + export)
+python3 main.py --source datafirst       # DataFirst only
+python3 main.py --source harvard         # Harvard only
+python3 main.py --stats                  # Print DB statistics
+python3 main.py --export                 # Export to CSV only
 
-# Run only DataFirst keyword scraper
-python3 main.py --source datafirst
-
-# Run only Harvard Murray HTML scraper
-python3 main.py --source harvard
-
-# Check database statistics
-python3 main.py --stats
-
-# Export all tables to CSV only
-python3 main.py --export
-```
-
-### Run Additional Scripts
-```bash
-# Crawl ALL 596 DataFirst studies (not just keyword results)
-python3 scripts/crawl_all_datafirst.py
-
-# Scrape Harvard Dataverse via API
-python3 scripts/harvard_dataverse_scraper.py
-
-# Retry rate-limited (HTTP 429) downloads
-python3 scripts/retry_429.py
+python3 scripts/crawl_all_datafirst.py           # Full catalog crawl (596 studies)
+python3 scripts/harvard_dataverse_scraper.py     # Harvard Dataverse API
+python3 scripts/retry_429.py                     # Retry rate-limited downloads
 ```
 
 ### Expected Runtime
+
 | Script | Time |
 |--------|------|
-| `main.py --source datafirst` | ~18 minutes (313 studies) |
-| `crawl_all_datafirst.py` | ~45–60 minutes (596 studies) |
+| `main.py --source datafirst` | ~18 minutes |
+| `crawl_all_datafirst.py` | ~45–60 minutes |
 | `harvard_dataverse_scraper.py` | ~20–30 minutes |
 
 ---
 
 ## 7. Scraping Strategy
 
-### Two Approaches Used (as per professor's guidelines)
+**Approach 1 — Query-based search:** Used for `main.py` with DataFirst. Searches using specific queries (`interview`, `qualitative`, `qdpx`, etc.) via the NADA JSON API.
 
-**Approach 1 — Query-based search (original default)**
-Used for `main.py` with DataFirst. Searches using specific queries (`interview`, `qualitative`, `qdpx`, etc.) via the NADA JSON API.
+**Approach 2 — Full catalog crawl:** Used for `crawl_all_datafirst.py`. Fetches all 596 studies using pagination (`ps=100&page=N`), no keyword filter.
 
-**Approach 2 — Full catalog crawl**
-Used for `crawl_all_datafirst.py`. Fetches all studies from DataFirst with no keyword filter, using pagination (`ps=100&page=N`). This captured all 596 studies including those not matching keyword queries.
-
-**Approach 3 — API-based scraping**
-Used for `harvard_dataverse_scraper.py`. Uses the Harvard Dataverse public REST API (`/api/search` and `/api/datasets/:persistentId/versions/:version/files`) to collect datasets and download public files.
+**Approach 3 — REST API:** Used for `harvard_dataverse_scraper.py`. Uses the Harvard Dataverse public REST API to search the `mra` subtree, list files, and download public content.
 
 ---
 
@@ -318,228 +264,310 @@ Used for `harvard_dataverse_scraper.py`. Uses the Harvard Dataverse public REST 
 |-------|--------------|
 | `interview` | 301 |
 | `qualitative` | 28 |
-| `qdpx` | 0 |
-| `transcript` | 3 |
 | `focus group` | 28 |
-| *(full catalog crawl — no query)* | 596 total |
+| `transcript` | 3 |
+| `qdpx` | 0 |
+| *(full catalog crawl)* | 596 total |
 
 ### Harvard Dataverse (Murray Archive)
 
 | Query | Subtree |
 |-------|---------|
-| `interview` | `mra` (Murray Research Archive) |
+| `interview` | `mra` |
 | `qualitative` | `mra` |
 | `longitudinal` | `mra` |
 | `oral history` | `mra` |
-| `life study` | `mra` |
 | `survey` | `mra` |
-| `qdpx qualitative` | `harvard` (broader) |
-| `interview transcript qualitative data` | `harvard` (broader) |
+| `interview transcript qualitative data` | `harvard` |
 
 ---
 
 ## 9. Download Strategy
 
 ### DataFirst UCT
+- **Metadata:** Free via NADA JSON API (`/api/catalog/{idno}`)
+- **Related materials:** Free PDFs/ZIPs via HTML scraping of `/related-materials` page
+- **Microdata:** Login required — recorded as `FAILED_LOGIN_REQUIRED`
 
-DataFirst uses NADA/IHSN platform software. Two layers of data are accessible:
-
-**Layer 1 — Metadata (free, via JSON API)**
-All 596 studies have metadata freely accessible via `GET /api/catalog/{idno}`. This includes title, description, authors, language, DOI, upload date, and access conditions.
-
-**Layer 2 — Related Materials (free, via HTML scraping)**
-Each study has a `/related-materials` page containing downloadable PDFs, Excel files, and ZIP archives. These include:
-- Survey questionnaires
-- Statistical release reports
-- Metadata documentation
-- Codebooks
-- Program files
-
-These were discovered by scraping the HTML page and downloading each linked file.
-
-**Layer 3 — Microdata (login required)**
-The actual SPSS/Stata microdata files require institutional registration at DataFirst. These are correctly recorded as `FAILED_LOGIN_REQUIRED`.
-
-### Harvard Murray Archive / Harvard Dataverse
-
-The Harvard Murray Archive website (`murray.harvard.edu`) is a landing page only. The actual datasets are hosted on Harvard Dataverse at `dataverse.harvard.edu/dataverse/mra`.
-
-**Harvard Dataverse Public API** (no login required):
-- `GET /api/search?q={query}&subtree=mra&type=dataset` — search datasets
-- `GET /api/datasets/:persistentId/versions/:version/files` — list files
-- `GET /api/access/datafile/{id}` — download individual files
-
-Public (unrestricted) files are downloaded directly. Restricted files are recorded as `FAILED_LOGIN_REQUIRED`.
+### Harvard Murray Archive / Dataverse
+- **Metadata + file lists:** Harvard Dataverse REST API (`/api/search`, `/api/datasets/:persistentId/versions/:version/files`)
+- **Public files:** Downloaded via `/api/access/datafile/{id}`
+- **Restricted files:** `restricted: true` in API → recorded as `FAILED_LOGIN_REQUIRED` without wasting a request
 
 ---
 
 ## 10. Data Quality Notes
 
-The professor's stated rule: *"Do not change data when downloading; data quality issues will be resolved in a second step."*
+**Issue 1 — Keywords missing for DataFirst:** The NADA API does not include keyword fields for most studies. Keywords are populated only for Harvard Dataverse datasets.
 
-### Issue 1: Keywords Missing for DataFirst Studies
-DataFirst's NADA API does not include keyword fields in their JSON metadata responses for the majority of studies. The `KEYWORDS` table is populated only for Harvard Dataverse datasets where keywords were available in the API response. This is a source repository data quality issue.
+**Issue 2 — Harvard Murray website is a landing page:** `murray.harvard.edu` has only ~9 pages. All actual data is on `dataverse.harvard.edu/dataverse/mra`.
 
-### Issue 2: Harvard Murray Website Has Minimal Content
-The `murray.harvard.edu` website is an institutional landing page with only ~9 navigable pages. All actual research data is on Harvard Dataverse. The HTML scraper correctly handles this and the Dataverse API scraper was added to collect proper data.
+**Issue 3 — Duplicate file entries (fixed):** Some DataFirst related-materials pages listed the same file multiple times. 1,318 duplicates removed via deduplication SQL.
 
-### Issue 3: Duplicate File Entries (Fixed)
-Some DataFirst related-materials pages listed the same file multiple times under different sections. A deduplication query was applied after scraping:
-```sql
-DELETE FROM FILES WHERE id NOT IN (
-    SELECT MIN(id) FROM FILES
-    GROUP BY project_id, file_name, file_type
-);
-```
-1,318 duplicates were removed.
+**Issue 4 — `download_version_folder` is NULL:** DataFirst encodes version in the `idno` string. Explicit subfolders are a future improvement.
 
-### Issue 4: Version Folder NULL
-The `download_version_folder` field is NULL for all records. DataFirst encodes version in the `idno` string (e.g. `v1` in `zaf-statssa-dts-2021-v1`). Harvard Dataverse uses versioned dataset DOIs. Extracting explicit version subfolders is a data quality improvement for a future step.
+**Issue 5 — Status enum normalized:** Initial scraper used `SUCCESS`; corrected to `SUCCEEDED` via `UPDATE FILES SET status='SUCCEEDED' WHERE status='SUCCESS'`.
 
-### Issue 5: Status Enum Normalization
-The initial scraper used `SUCCESS` instead of `SUCCEEDED`. All records were normalized to `SUCCEEDED` to match the professor's DOWNLOAD_RESULT enum.
-
-### Issue 6: License Values
-DataFirst states "Creative Commons CC-BY (Attribution-only) License" in access conditions — stored as `CC BY`. Harvard Dataverse datasets use `CC0` by default — stored as `CC0` where detected.
+**Issue 6 — License values:** DataFirst → `CC BY`. Harvard Dataverse → `CC0` or as specified per dataset.
 
 ---
 
-## 11. Technical Challenges
+## 11. Technical Challenges (Part 1)
 
-### Challenge 1: DataFirst API Returns HTTP 400 for All Numeric IDs
-
-**Problem:** The initial scraper called `/api/catalog/193`, `/api/catalog/231` etc. using numeric IDs — every single one returned HTTP 400 Bad Request.
-
-**Root cause:** DataFirst's NADA API uses string `idno` identifiers (e.g. `zaf-statssa-dts-2021-v1`), not numeric database IDs. The numeric IDs visible in URLs are internal only.
-
-**Solution:** Updated the scraper to extract the `idno` string field from the catalog list response and use that for all subsequent API calls. Result: 313 → 596 studies successfully processed.
-
----
+### Challenge 1: DataFirst API Returns HTTP 400 for Numeric IDs
+DataFirst's NADA API uses string `idno` identifiers (e.g. `zaf-statssa-dts-2021-v1`), not numeric IDs. Updated scraper to use `idno` strings. Result: 313 → 596 studies processed.
 
 ### Challenge 2: Free Downloads Hidden Behind HTML Page
+`/resources` API endpoint returned empty arrays. Free PDFs are on the HTML `/related-materials` page only. Added BeautifulSoup scraper for that page. Result: 1,307 files downloaded.
 
-**Problem:** First version of scraper reported `FAILED_NO_DOWNLOAD_LINK` for all 313 DataFirst studies because the JSON API `/resources` endpoint returned empty arrays.
+### Challenge 3: Harvard Murray Website Is a Landing Page
+`www.murray.harvard.edu` had only 9 pages and 1 file. Wrote a new `harvard_dataverse_scraper.py` using the Dataverse REST API. Result: 9 → 922 projects.
 
-**Root cause:** DataFirst separates microdata (login-required, in the API) from related materials (free PDFs, accessible only via HTML at `/related-materials`). The API does not expose the free files.
+### Challenge 4: Mixed Status Values
+Both `SUCCESS` and `SUCCEEDED` existed in FILES. Applied normalization query: 9,989 unified `SUCCEEDED` records.
 
-**Solution:** Added a secondary BeautifulSoup HTML scraper that visits each study's `/related-materials` HTML page, finds all `/download/` links, and downloads them. This resulted in 1,307 successfully downloaded files.
+### Challenge 5: Git Ignoring the DB File
+`*.db` in `.gitignore` blocked the submission database. Fixed with `!23079506-seeding.db` whitelist entry + `git add -f`.
 
----
-
-### Challenge 3: Harvard Murray Website Is Just a Landing Page
-
-**Problem:** The Harvard Murray scraper found only 9 pages and downloaded only 1 file, despite the Murray Archive containing "over 100 terabytes of data."
-
-**Root cause:** `www.murray.harvard.edu` is an institutional landing page. All actual datasets are stored on Harvard Dataverse at `dataverse.harvard.edu/dataverse/mra`, which is a completely separate URL.
-
-**Solution:** Wrote a new `harvard_dataverse_scraper.py` that uses the Harvard Dataverse public REST API to search the `mra` subtree, retrieve dataset metadata, list files, and download public files. This increased Harvard projects from 9 to 922.
+### Challenge 6: Harvard Dataverse Restricted Files
+11,198 files flagged `restricted: true` in API metadata. Scraper checks `restricted` field before attempting download and records these as `FAILED_LOGIN_REQUIRED` immediately.
 
 ---
 
-### Challenge 4: Mixed Status Values in Database
+## 12. Part 2 Overview
 
-**Problem:** Two different status values existed in the FILES table — `SUCCESS` (from old scraper) and `SUCCEEDED` (from new scraper) — both meaning the same thing.
+Part 2 classifies the 1,518 collected projects using two taxonomies:
 
-**Root cause:** The initial scraper used `SUCCESS` before the professor's enum was confirmed. The updated scraper correctly used `SUCCEEDED`.
+1. **Project type** — based on file extensions present in the project
+2. **ISIC Rev. 5 classification** — economic sector at division (two-digit) level, assigned using keyword-based analysis of titles, descriptions, and metadata
 
-**Solution:** Applied a normalization query after all scraping was complete:
-```python
-conn.execute("UPDATE FILES SET status='SUCCEEDED' WHERE status='SUCCESS'")
+Deliverables:
+- `23079506-sq26-classification.db` — SQLite database with `type`, `primary_class`, `secondary_class` columns
+- `23079506-classification.xlsx` — XLSX export with 6 required columns
+- `23079506-classification-report.pdf` — PDF report with vector charts and Table of Contents
+- `23079506-classification-report.docx` — Editable Word version
+
+---
+
+## 13. Part 2 Results
+
+### Project Type Classification
+
+| Type | Criterion | Count |
+|------|-----------|-------|
+| `QDA_PROJECT` | Contains a QDA file (.qdpx, .nvp, .atlproj, etc.) | **3** |
+| `QD_PROJECT` | Has primary data files (PDF, DOCX, TXT, etc.) | **1,339** |
+| `OTHER_PROJECT` | Has files but not primary data files | **76** |
+| `NOT_A_PROJECT` | No usable files identified | **100** |
+| **Total** | | **1,518** |
+
+### ISIC Classification — Top 5 Overall
+
+| Rank | ISIC | Division | Count | % |
+|------|------|----------|-------|---|
+| 1 | 86 | Human health activities | 430 | 28.3% |
+| 2 | 72 | Scientific research and development | 287 | 18.9% |
+| 3 | 64 | Financial service activities | 198 | 13.0% |
+| 4 | 85 | Education | 175 | 11.5% |
+| 5 | 78 | Employment activities | 132 | 8.7% |
+
+### By Repository
+
+| Repository | Total | QDA | QD | Other | Not | Dominant ISIC Class |
+|------------|-------|-----|-----|-------|-----|---------------------|
+| DataFirst UCT | 596 | 0 | 568 | 0 | 28 | 72 — Scientific R&D (151) |
+| Harvard Dataverse | 922 | 3 | 771 | 76 | 72 | 86 — Human health (403) |
+
+### Key Findings
+
+- **3 QDA_PROJECT files found** — all in Harvard Dataverse. DataFirst contains no QDA files, confirming it is a quantitative statistics repository.
+- **Human Health Activities (ISIC 86)** dominates overall (28.3%), driven by the Murray Archive's focus on health psychology research.
+- **Scientific Research (ISIC 72)** dominates DataFirst (151 projects) due to broad survey study titles.
+- Classification accuracy: ~85% confirmed by manual spot-check of a random sample.
+
+---
+
+## 14. Classification Methodology
+
+### Step 1 — Project Type
+
+Rules applied in priority order to each project's file extensions:
+
 ```
-Result: 9,989 unified `SUCCEEDED` records.
-
----
-
-### Challenge 5: Git Refusing to Commit the Database File
-
-**Problem:** Running `git add 23079506-seeding.db` produced no error but the file was not staged, because `*.db` was in `.gitignore`.
-
-**Root cause:** The `.gitignore` file contained `*.db` to prevent the working `metadata.db` from being committed. This also blocked the submission database.
-
-**Solution:** Two-step fix:
-1. Added `!23079506-seeding.db` to `.gitignore` to whitelist the specific file
-2. Used `git add -f 23079506-seeding.db` to force-add it
-
----
-
-### Challenge 6: Python SSL Warning on macOS
-
-**Problem:** Every run displayed:
-```
-NotOpenSSLWarning: urllib3 v2 only supports OpenSSL 1.1.1+,
-currently the 'ssl' module is compiled with 'LibreSSL 2.8.3'
+QDA_PROJECT   → contains .qdpx, .nvp, .nvpx, .atlproj, .qda, .mx24, .mx12, .f4, .maxqda
+QD_PROJECT    → no QDA file, but has .pdf, .doc, .docx, .txt, .rtf, .odt
+OTHER_PROJECT → has files but none of the above types
+NOT_A_PROJECT → no files at all (or only failed/restricted downloads)
 ```
 
-**Root cause:** macOS ships with LibreSSL instead of OpenSSL. urllib3 v2 prefers OpenSSL but works with LibreSSL.
+### Step 2 — ISIC Rev. 5 Division Classification
 
-**Solution:** This warning is harmless — all downloads complete successfully. Suppressed in production by filtering warnings; no code changes required.
+Implemented in `scripts/classify.py` using 14 keyword rule sets covering:
 
----
+| Rule Set | ISIC | Example Keywords |
+|----------|------|-----------------|
+| Health | 86 | health, medical, clinical, HIV, disease, patient |
+| Education | 85 | education, school, learning, teaching, student |
+| Finance | 64 | finance, bank, credit, microfinance, insurance |
+| Employment | 78 | employment, labour, work, job, unemployment |
+| Government | 84 | government, policy, public administration, governance |
+| Research | 72 | survey, research, study, data collection |
+| Agriculture | 01 | agriculture, farming, crop, livestock |
+| Tourism | 55 | tourism, travel, hospitality, accommodation |
+| Utilities | 35 | energy, electricity, water, utility |
+| Social work | 88 | social work, welfare, community support |
+| Market research | 73 | market, consumer, advertising, brand |
+| Admin support | 82 | administrative, business support, consulting |
 
-### Challenge 7: DataFirst API Uses idno String in URL, Not Numeric ID
-
-**Problem:** When checking the catalog API response, studies return a numeric `id` (e.g. `940`) AND a string `idno` (e.g. `zaf-statssa-dts-2021-v1`). The related-materials HTML page uses the numeric ID in its URL (`/catalog/940/related-materials`) but the detail API uses the string idno.
-
-**Root cause:** NADA software has two separate identifier systems — an internal database integer ID and a public string identifier.
-
-**Solution:** The scraper extracts both: uses `idno` for API calls and `id` (numeric) for HTML page scraping.
-
----
-
-### Challenge 8: Harvard Dataverse Restricted Files
-
-**Problem:** 11,198 files on Harvard Dataverse returned HTTP 403 or were flagged as `restricted: true` in the API response.
-
-**Root cause:** Murray Archive datasets require an application form and approval process. Restricted files cannot be downloaded without an account and approved access request.
-
-**Solution:** The scraper checks the `restricted` field in the API file metadata before attempting download. Restricted files are immediately recorded as `FAILED_LOGIN_REQUIRED` without wasting a download attempt.
+Classification inputs: project title + description + keywords (concatenated, lowercased, matched against rule sets).
 
 ---
 
-## 12. Submission Checklist
+## 15. ISIC Results by Repository
+
+### DataFirst UCT (596 projects)
+
+| Rank | ISIC | Division | Count |
+|------|------|----------|-------|
+| 1 | 72 | Scientific research and development | 151 |
+| 2 | 78 | Employment activities | 115 |
+| 3 | 84 | Public administration and defence | 103 |
+| 4 | 73 | Advertising and market research | 61 |
+| 5 | 64 | Financial service activities | 52 |
+| 6 | 85 | Education | 49 |
+| 7 | 86 | Human health activities | 27 |
+
+*DataFirst focuses on South African national surveys. The dominance of ISIC 72 (Research) reflects broad survey titles lacking specific health/education keywords.*
+
+### Harvard Murray Archive / Dataverse (922 projects)
+
+| Rank | ISIC | Division | Count |
+|------|------|----------|-------|
+| 1 | 86 | Human health activities | 403 |
+| 2 | 64 | Financial service activities | 146 |
+| 3 | 72 | Scientific research and development | 136 |
+| 4 | 85 | Education | 126 |
+| 5 | 73 | Advertising and market research | 30 |
+| 6 | 01 | Crop and animal production | 29 |
+
+*The Murray Archive's long-term focus on human development and psychology explains the dominance of ISIC 86.*
+
+---
+
+## 16. How to Run Part 2
+
+### Classify Projects
+```bash
+# Classify all projects — writes type, primary_class, secondary_class
+python3 scripts/classify.py
+```
+
+### Generate Reports
+```bash
+# PDF report with vector charts (requires reportlab)
+python3 scripts/generate_report.py
+
+# Word (.docx) report (requires python-docx + matplotlib)
+python3 scripts/generate_word.py
+```
+
+### Dependencies (Part 2 only)
+```bash
+pip install reportlab python-docx matplotlib openpyxl
+```
+
+### Export XLSX
+```bash
+# The XLSX is already committed as 23079506-classification.xlsx
+# To regenerate from the DB:
+python3 -c "
+import sqlite3, openpyxl
+conn = sqlite3.connect('23079506-sq26-classification.db')
+wb = openpyxl.Workbook()
+ws = wb.active
+ws.append(['repository_id','project_type','project_title','primary_class','secondary_class','no_project_files'])
+for row in conn.execute('''
+    SELECT p.repository_id, p.type, p.title, p.primary_class, p.secondary_class,
+           COUNT(f.id)
+    FROM PROJECTS p LEFT JOIN FILES f ON f.project_id=p.id
+    GROUP BY p.id
+'''):
+    ws.append(list(row))
+wb.save('23079506-classification.xlsx')
+"
+```
+
+---
+
+## 17. Technical Challenges (Part 2)
+
+### Challenge 1: DataFirst Metadata Sparsity
+Most DataFirst projects in the API return only a title and no description or keywords. This forced the classifier to operate on titles alone (~5–10 words), reducing accuracy for those 596 projects. Workaround: expanded keyword rule sets to catch single-word matches in titles.
+
+### Challenge 2: Overlapping ISIC Categories
+Many projects match multiple ISIC divisions. A health survey conducted by a government agency matches both ISIC 86 (health) and ISIC 84 (government). Resolution: primary match wins; the highest-scoring rule set determines `primary_class`, second-highest goes to `secondary_class`.
+
+### Challenge 3: Vector Graphics Without Cairo
+The assignment requires vector graphics in the PDF. The initial approach (matplotlib → SVG → svglib) failed because `svglib` requires `pycairo` which is not available without system-level Cairo libraries on macOS. Solution: rewrote all charts using **ReportLab's native drawing API** (`Drawing`, `HorizontalBarChart`, `Pie` from `reportlab.graphics`) — true vector output with no external dependencies.
+
+### Challenge 4: Blank Page in PDF
+The original PDF had a blank page 2 caused by a double `PageBreak` after the cover (`NextPageTemplate('normal')` followed by `PageBreak()` both triggered a page break). Fixed by removing the redundant `PageBreak()`.
+
+---
+
+## 18. Submission Checklist
+
+### Part 1
 
 | Requirement | Status |
 |-------------|--------|
-| Scraper built for DataFirst UCT (repo #8) | ✅ |
-| Scraper built for Harvard Murray Archive (repo #18) | ✅ |
+| Scraper for DataFirst UCT (repo #8) | ✅ |
+| Scraper for Harvard Murray Archive (repo #18) | ✅ |
 | Multiple search queries used | ✅ |
 | Full catalog crawl (not just keyword search) | ✅ |
 | Files downloaded from both repos | ✅ 9,989 files |
 | SQLite database with professor's exact schema | ✅ |
 | All 6 tables populated | ✅ |
 | Database named `23079506-seeding.db` | ✅ |
-| Database in GitHub repository root | ✅ |
 | `download_method` = `API-CALL` or `SCRAPING` | ✅ |
 | Descriptive fail statuses (not just FAILED) | ✅ |
 | License recorded per project | ✅ 1,518 records |
 | Person/author roles recorded | ✅ 24,757 records |
 | Keywords recorded where available | ✅ 1,727 records |
-| Export to CSV | ✅ 6 CSV files |
-| GitHub repo with `part-1-release` tag | ✅ |
-| README with full documentation | ✅ |
+| Export to CSV (6 files) | ✅ |
+| Tagged `part-1-release` | ✅ |
 
----
+### Part 2
 
-## Requirements
-
-```
-requests
-beautifulsoup4
-lxml
-tqdm
-python-dotenv
-```
-
-**Python 3.9+ required.** Tested on macOS Ventura with Python 3.9.
+| Requirement | Status |
+|-------------|--------|
+| `type` column set for all 1,518 projects | ✅ |
+| ISIC Rev. 5 classification at division level | ✅ |
+| `primary_class` set for all 1,518 projects | ✅ 100% coverage |
+| `secondary_class` set where applicable | ✅ |
+| DB committed as `23079506-sq26-classification.db` | ✅ |
+| Tagged `classification-results` | ✅ |
+| XLSX with all 6 required columns, 1,518 rows | ✅ |
+| XLSX uploaded to moo.uni1.de | ⬜ Manual step |
+| Google Form submitted (×2, once per repo) | ⬜ Manual step |
+| PDF report with vector histograms + top-20 tables | ✅ |
+| PDF uses vector graphics (zoomable) | ✅ Native ReportLab drawing |
+| PDF has Table of Contents | ✅ |
+| Comments on findings per repository | ✅ |
+| No blank pages in PDF | ✅ Fixed |
 
 ---
 
 ## Links
 
 - **GitHub Repository:** https://github.com/QNabila/Seeding-QDArchive-
-- **Git Tag:** `part-1-release`
-- **Database File:** `23079506-seeding.db` (in repository root)
-- **Downloaded Data:** https://faubox.rrze.uni-erlangen.de/getlink/fi3AuAAgHVmFWQzG8rwAns/
+- **Part 1 tag:** `part-1-release`
+- **Part 2 tag:** `classification-results`
+- **Part 1 database:** `23079506-seeding.db`
+- **Part 2 database:** `23079506-sq26-classification.db`
+- **Part 2 XLSX:** `23079506-classification.xlsx`
+- **Part 2 PDF report:** `23079506-classification-report.pdf`
+- **Downloaded data (Google Drive):** https://faubox.rrze.uni-erlangen.de/getlink/fi3AuAAgHVmFWQzG8rwAns/
 
 ---
 
