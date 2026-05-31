@@ -548,8 +548,8 @@ The original PDF had a blank page 2 caused by a double `PageBreak` after the cov
 | DB committed as `23079506-sq26-classification.db` | ✅ |
 | Tagged `classification-results` | ✅ |
 | XLSX with all 6 required columns, 1,518 rows | ✅ |
-| XLSX uploaded to moo.uni1.de | ⬜ Manual step |
-| Google Form submitted (×2, once per repo) | ⬜ Manual step |
+| XLSX uploaded to moo.uni1.de | ✅ |
+| Google Form submitted (×2, once per repo) | ✅ |
 | PDF report with vector histograms + top-20 tables | ✅ |
 | PDF uses vector graphics (zoomable) | ✅ Native ReportLab drawing |
 | PDF has Table of Contents | ✅ |
